@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "matrix_version": "v1.0",
+  "total_requirements": 18,
+  "compliance_sections": [
+    {
+      "section_id": "SEC-01",
+      "section_name_zh": "官方公告要求",
+      "section_name_en": "Official Announcement Requirements",
+      "items": [
+        {
+          "req_id": "REQ-001",
+          "requirement_zh": "提交方案需包含完整的城市设计文本",
+          "requirement_en": "Submission must include complete urban design text",
+          "status": "compliant",
+          "evidence_zh": "proposal.md 包含13章完整内容，覆盖设计依据、范围、产业、空间、交通、市政、分期等完整框架",
+          "evidence_en": "proposal.md contains 13 chapters covering design basis, scope, industry, spatial layout, transport, utilities, phasing"
+        },
+        {
+          "req_id": "REQ-002",
+          "requirement_zh": "需提供空间数据（GeoJSON格式）",
+          "requirement_en": "Spatial data must be provided in GeoJSON format",
+          "status": "compliant",
+          "evidence_zh": "geometry/目录下包含9个GeoJSON图层：site_boundary, key_areas, land_use, buildings, roads, green_space, public_space, constraints, phasing",
+          "evidence_en": "geometry/ directory contains 9 GeoJSON layers: site_boundary, key_areas, land_use, buildings, roads, green_space, public_space, constraints, phasing"
+        },
+        {
+          "req_id": "REQ-003",
+          "requirement_zh": "需提供设计图纸（PNG/PDF格式）",
+          "requirement_en": "Design drawings must be provided in PNG/PDF format",
+          "status": "compliant",
+          "evidence_zh": "assets/figures/包含5张PNG图；drawings/包含A3图册和A0展板PDF",
+          "evidence_en": "assets/figures/ contains 5 PNG diagrams; drawings/ contains A3 booklet and A0 board PDFs"
+        },
+        {
+          "req_id": "REQ-004",
+          "requirement_zh": "方案需中英双语",
+          "requirement_en": "Proposal must be bilingual (Chinese-English)",
+          "status": "compliant",
+          "evidence_zh": "根目录包含proposal.md（中文）和proposal.en.md（英文），所有元数据均为双语",
+          "evidence_en": "Root directory contains proposal.md (Chinese) and proposal.en.md (English); all metadata is bilingual"
+        }
+      ]
+    },
+    {
+      "section_id": "SEC-02",
+      "section_name_zh": "智能体任务书要求",
+      "section_name_en": "Agent Task Requirements",
+      "items": [
+        {
+          "req_id": "REQ-005",
+          "requirement_zh": "manifest.json 清单文件",
+          "requirement_en": "manifest.json inventory file",
+          "status": "compliant",
+          "evidence_zh": "manifest.json包含完整的包信息、文件清单、双语元数据",
+          "evidence_en": "manifest.json contains complete package info, file inventory, and bilingual metadata"
+        },
+        {
+          "req_id": "REQ-006",
+          "requirement_zh": "agent.json 智能体说明",
+          "requirement_en": "agent.json agent description",
+          "status": "compliant",
+          "evidence_zh": "agent.json说明智能体类型、使用工具、人工审核范围",
+          "evidence_en": "agent.json describes agent type, tools used, and human review scope"
+        },
+        {
+          "req_id": "REQ-007",
+          "requirement_zh": "metrics.json 指标体系",
+          "requirement_en": "metrics.json metrics framework",
+          "status": "compliant",
+          "evidence_zh": "metrics.json包含6大类指标体系，基于新空间经济学框架设定",
+          "evidence_en": "metrics.json contains 6 categories of metrics based on New Spatial Economics framework"
+        },
+        {
+          "req_id": "REQ-008",
+          "requirement_zh": "assumptions.json 假设说明",
+          "requirement_en": "assumptions.json assumptions statement",
+          "status": "compliant",
+          "evidence_zh": "assumptions.json列出22条关键假设，涵盖边界、数据、政策、技术等维度",
+          "evidence_en": "assumptions.json lists 22 key assumptions covering boundary, data, policy, technology dimensions"
+        },
+        {
+          "req_id": "REQ-009",
+          "requirement_zh": "sources.json 数据来源",
+          "requirement_en": "sources.json data sources",
+          "status": "compliant",
+          "evidence_zh": "sources.json列出18个数据来源，包括政府公开数据、学术文献、实地调研",
+          "evidence_en": "sources.json lists 18 data sources including government open data, academic literature, field research"
+        },
+        {
+          "req_id": "REQ-010",
+          "requirement_zh": "self_check.json 自检报告",
+          "requirement_en": "self_check.json self-check report",
+          "status": "compliant",
+          "evidence_zh": "self_check.json包含14项检查，总体通过，明确列出临时边界阻断项",
+          "evidence_en": "self_check.json contains 14 checks, overall pass, clearly lists provisional boundary blocker"
+        }
+      ]
+    },
+    {
+      "section_id": "SEC-03",
+      "section_name_zh": "边界条款合规",
+      "section_name_en": "Boundary Clause Compliance",
+      "items": [
+        {
+          "req_id": "REQ-011",
+          "requirement_zh": "所有空间边界标注为provisional",
+          "requirement_en": "All spatial boundaries marked as provisional",
+          "status": "compliant",
+          "evidence_zh": "assumptions.json明确说明边界为概念示意；self_check.json列出provisional_boundary阻断项；方案文本中多次声明边界为示意",
+          "evidence_en": "assumptions.json clearly states boundaries are conceptual; self_check.json lists provisional_boundary blocker; proposal text repeatedly states boundaries are illustrative"
+        },
+        {
+          "req_id": "REQ-012",
+          "requirement_zh": "设计建议标注为概念建议",
+          "requirement_en": "Design recommendations marked as conceptual suggestions",
+          "status": "compliant",
+          "evidence_zh": "方案文本中所有设计建议均标注为概念性建议，不构成官方规划承诺",
+          "evidence_en": "All design recommendations in proposal text are marked as conceptual suggestions and do not constitute official planning commitments"
+        },
+        {
+          "req_id": "REQ-013",
+          "requirement_zh": "不伪造官方背书",
+          "requirement_en": "No forged official endorsement",
+          "status": "compliant",
+          "evidence_zh": "方案明确标注为AI辅助生成的概念方案，不代表任何政府部门意见",
+          "evidence_en": "Proposal clearly marked as AI-assisted conceptual design and does not represent any government department's opinion"
+        }
+      ]
+    },
+    {
+      "section_id": "SEC-04",
+      "section_name_zh": "理论创新性与方案深度",
+      "section_name_en": "Theoretical Innovation & Design Depth",
+      "items": [
+        {
+          "req_id": "REQ-014",
+          "requirement_zh": "中轴-对径创新范式理论建构",
+          "requirement_en": "Central Axis-Diameter Innovation Paradigm theoretical framework",
+          "status": "compliant",
+          "evidence_zh": "第三章3.8节系统提出范式定义、核心特征、传统中轴比较、适用条件与推广价值、北京双中轴战略意义",
+          "evidence_en": "Chapter 3.8 systematically presents paradigm definition, core features, comparison with traditional axis, applicability and promotion value, strategic significance of Beijing dual-axis"
+        },
+        {
+          "req_id": "REQ-015",
+          "requirement_zh": "新空间经济学作为核心方法论贯穿",
+          "requirement_en": "New Spatial Economics as core methodology throughout",
+          "status": "compliant",
+          "evidence_zh": "1.2节核心理论、3.1.3节三大命题、4.2.3节空间经济机制，全案以新空间经济学为理论基础",
+          "evidence_en": "Section 1.2 core theory, Section 3.1.3 three propositions, Section 4.2.3 spatial economic mechanism — New Spatial Economics as theoretical foundation"
+        },
+        {
+          "req_id": "REQ-016",
+          "requirement_zh": "人民城市理念与六维目标深度融合",
+          "requirement_en": "People's City concept and six-dimensional goals deeply integrated",
+          "status": "compliant",
+          "evidence_zh": "3.1节发展理念、11.1.1节六维×七度融合指标体系，价值-目标-路径-空间四层融合",
+          "evidence_en": "Section 3.1 development concept, Section 11.1.1 six-dimension × seven-degree indicator system, four-layer integration"
+        },
+        {
+          "req_id": "REQ-017",
+          "requirement_zh": "时间维度设计系统性",
+          "requirement_en": "Systematic time dimension design",
+          "status": "compliant",
+          "evidence_zh": "第九章9.4节四时·昼夜·周律·年轮四级时间周期设计体系",
+          "evidence_en": "Chapter 9.4 four-level time cycle design: seasonal · daily · weekly · life cycle"
+        },
+        {
+          "req_id": "REQ-018",
+          "requirement_zh": "对径创新街道品质提升设计",
+          "requirement_en": "Innovation street quality enhancement design",
+          "status": "compliant",
+          "evidence_zh": "第四章4.7节科技交流空间+无人餐饮系统+街道一体化设计，9.3.4节街道公共空间设计原则",
+          "evidence_en": "Chapter 4.7 tech exchange spaces + unmanned food systems + integrated street design; Section 9.3.4 street public space design principles"
+        }
+      ]
+    }
+  ],
+  "compliant_count": 18,
+  "compliance_rate": "100.0%"
+}

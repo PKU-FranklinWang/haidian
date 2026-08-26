@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "submission_id": "diameter-ai-innovation-belt",
+  "title": "对径式AI创新带 — 百年京张AI创新带城市设计方案",
+  "title_en": "Diameter AI Innovation Belt — Urban Design Proposal for Centennial Jing-Zhang AI Innovation Belt",
+  "author_github": "PKU-FranklinWang",
+  "track": "ai-traffic-walkability",
+  "bilingual": true,
+  "iteration": "v1.2",
+  "files": {
+    "proposal": {
+      "zh": "proposal.md",
+      "en": "proposal.en.md"
+    },
+    "geometry": [
+      "geometry/site_boundary.geojson",
+      "geometry/land_use.geojson",
+      "geometry/buildings.geojson",
+      "geometry/roads.geojson",
+      "geometry/green_space.geojson",
+      "geometry/public_space.geojson",
+      "geometry/key_areas.geojson",
+      "geometry/constraints.geojson",
+      "geometry/phasing.geojson"
+    ],
+    "figures": [
+      "assets/figures/site-overview.png",
+      "assets/figures/land-use-structure.png",
+      "assets/figures/key-areas.png",
+      "assets/figures/mobility-bluegreen.png",
+      "assets/figures/metrics-evidence.png",
+      "assets/figures/street-innovation-quality.png"
+    ],
+    "drawings": [
+      "drawings/a3-booklet.pdf",
+      "drawings/a0-boards.pdf"
+    ],
+    "report": [
+      "report/proposal.html",
+      "report/proposal.en.html",
+      "report/copyright_statement.md"
+    ],
+    "visualization": [
+      "visual/index.html"
+    ],
+    "data": [
+      "metrics.json",
+      "sources.json",
+      "assumptions.json",
+      "compliance_matrix.json",
+      "standard_matrix.json",
+      "design_depth_matrix.json",
+      "self_check.json",
+      "agent.json"
+    ]
+  },
+  "total_files": 34,
+  "last_updated": "2026-08-26"
+}

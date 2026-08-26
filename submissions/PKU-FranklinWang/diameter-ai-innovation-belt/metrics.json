@@ -1,0 +1,389 @@
+{
+  "schema_version": "1.0",
+  "metrics_version": "v1.0",
+  "basis_zh": "基于杨开忠新空间经济学「空间品质驱动创新增长」理论框架，结合方案目标设置",
+  "basis_en": "Based on Yang Kaizhong's New Spatial Economics framework of 'spatial quality driving innovation growth', aligned with proposal objectives",
+  "target_year": 2030,
+  "baseline_year": 2026,
+  "categories": [
+    {
+      "category_id": "industry_innovation",
+      "category_name_zh": "产业与创新",
+      "category_name_en": "Industry & Innovation",
+      "description_zh": "AI产业规模、创新能力、生态系统相关指标",
+      "description_en": "Metrics for AI industry scale, innovation capacity, and ecosystem",
+      "metrics": [
+        {
+          "id": "IND-001",
+          "name_zh": "AI核心产业规模",
+          "name_en": "AI Core Industry Scale",
+          "value": 3000,
+          "unit": "亿元",
+          "unit_en": "100M RMB",
+          "status": "estimated",
+          "source": "方案目标设定，基于海淀区2026年AI产业3500亿元基础上增量聚焦",
+          "source_en": "Proposal target, based on incremental focus on Haidian District's 2026 AI industry base of 350 billion RMB",
+          "calculation_method_zh": "重点片区AI核心产业增加值汇总，按年均复合增长率15-20%推算",
+          "calculation_method_en": "Sum of AI core industry value-added in key areas, projected at 15-20% CAGR"
+        },
+        {
+          "id": "IND-002",
+          "name_zh": "AI高端人才数量",
+          "name_en": "AI High-end Talent Count",
+          "value": 150000,
+          "unit": "人",
+          "unit_en": "persons",
+          "status": "estimated",
+          "source": "方案目标设定，基于海淀现有AI人才基础和引进计划推算",
+          "source_en": "Proposal target, based on Haidian's existing AI talent base and recruitment plans",
+          "calculation_method_zh": "核心区就业岗位中AI相关岗位占比推算，结合人才住房供给容量",
+          "calculation_method_en": "Estimated from AI-related job share in core area employment, combined with talent housing supply capacity"
+        },
+        {
+          "id": "IND-003",
+          "name_zh": "独角兽企业数量",
+          "name_en": "Unicorn Enterprise Count",
+          "value": 40,
+          "unit": "家",
+          "unit_en": "companies",
+          "status": "estimated",
+          "source": "方案目标设定，对标中关村现有独角兽企业数量及增长率",
+          "source_en": "Proposal target, benchmarked against Zhongguancun's existing unicorn count and growth rate",
+          "calculation_method_zh": "基于AI产业规模与企业密度关系，结合孵化加速体系产出效率估算",
+          "calculation_method_en": "Estimated based on AI industry scale and enterprise density relationship, combined with incubation acceleration system output efficiency"
+        },
+        {
+          "id": "IND-004",
+          "name_zh": "知识交流活动频次",
+          "name_en": "Knowledge Exchange Event Frequency",
+          "value": 100,
+          "unit": "场/日",
+          "unit_en": "events/day",
+          "status": "provisional",
+          "source": "方案目标设定，基于学习型空间品质量化方法",
+          "source_en": "Proposal target, based on learning-oriented spatial quality quantification method",
+          "calculation_method_zh": "创新交往空间密度×使用频率×活动转化率，按核心区范围估算",
+          "calculation_method_en": "Innovation interaction space density × usage frequency × event conversion rate, estimated for core area"
+        },
+        {
+          "id": "IND-005",
+          "name_zh": "校企合作项目年增长率",
+          "name_en": "Annual Growth Rate of University-Industry Collaboration Projects",
+          "value": 20,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "estimated",
+          "source": "方案目标设定，基于产学研融合机制设计",
+          "source_en": "Proposal target, based on industry-university-research integration mechanism design",
+          "calculation_method_zh": "基于高校开放度提升、联合实验室建设、技术转移中心运营等综合推算",
+          "calculation_method_en": "Projected from university openness improvement, joint lab construction, and technology transfer center operations"
+        }
+      ]
+    },
+    {
+      "category_id": "spatial_quality",
+      "category_name_zh": "空间品质",
+      "category_name_en": "Spatial Quality",
+      "description_zh": "绿地空间、公共空间、品质生活相关指标",
+      "description_en": "Metrics for green space, public space, and quality of life",
+      "metrics": [
+        {
+          "id": "SQ-001",
+          "name_zh": "人均公园绿地面积",
+          "name_en": "Per Capita Park Green Space Area",
+          "value": 18,
+          "unit": "㎡/人",
+          "unit_en": "sqm/person",
+          "status": "estimated",
+          "source": "方案目标设定，现代化人民城市标准",
+          "source_en": "Proposal target, modern people-centered city standard",
+          "calculation_method_zh": "公园绿地总面积/规划常住人口，含遗址公园、城市公园、社区绿地",
+          "calculation_method_en": "Total park green space area / planned resident population, including heritage park, urban parks, and community green space"
+        },
+        {
+          "id": "SQ-002",
+          "name_zh": "公园绿地500米服务半径覆盖率",
+          "name_en": "Park Green Space 500m Service Radius Coverage Rate",
+          "value": 100,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "target",
+          "source": "方案目标设定，对标生态园林城市标准",
+          "source_en": "Proposal target, benchmarked against eco-garden city standard",
+          "calculation_method_zh": "居住用地中公园绿地500米覆盖范围占比，基于GIS缓冲区分析",
+          "calculation_method_en": "Proportion of residential land within 500m of park green space, based on GIS buffer analysis"
+        },
+        {
+          "id": "SQ-003",
+          "name_zh": "公共空间比例",
+          "name_en": "Public Space Ratio",
+          "value": 25,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "provisional",
+          "source": "方案概念性估算，含公园绿地、广场、步行街等",
+          "source_en": "Conceptual proposal estimate, including park green space, plazas, pedestrian streets, etc.",
+          "calculation_method_zh": "公共开放空间总面积/重点设计区域面积（不含道路用地）",
+          "calculation_method_en": "Total public open space area / key design area area (excluding road land)"
+        },
+        {
+          "id": "SQ-004",
+          "name_zh": "15分钟生活圈覆盖率",
+          "name_en": "15-Minute Living Circle Coverage Rate",
+          "value": 100,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "target",
+          "source": "方案目标设定，对标上海15分钟生活圈标准",
+          "source_en": "Proposal target, benchmarked against Shanghai 15-minute living circle standard",
+          "calculation_method_zh": "步行15分钟可达基本公共服务设施的居住用地占比",
+          "calculation_method_en": "Proportion of residential land with access to basic public services within 15-minute walk"
+        },
+        {
+          "id": "SQ-005",
+          "name_zh": "建成区绿化覆盖率",
+          "name_en": "Built-up Area Green Coverage Rate",
+          "value": 45,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "estimated",
+          "source": "方案目标设定，基于海淀现状绿化基础提升",
+          "source_en": "Proposal target, based on improvement from Haidian's current greening baseline",
+          "calculation_method_zh": "各类绿地垂直投影面积/建成区面积，含公共绿地、附属绿地、立体绿化",
+          "calculation_method_en": "Vertical projection area of all green space / built-up area, including public green space, attached green space, and vertical greening"
+        }
+      ]
+    },
+    {
+      "category_id": "transportation",
+      "category_name_zh": "交通出行",
+      "category_name_en": "Transportation",
+      "description_zh": "绿色出行、步行友好、轨道覆盖相关指标",
+      "description_en": "Metrics for green travel, walkability, and transit coverage",
+      "metrics": [
+        {
+          "id": "TR-001",
+          "name_zh": "绿色出行比例",
+          "name_en": "Green Travel Mode Share",
+          "value": 85,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "target",
+          "source": "方案目标设定，对标国际先进城市",
+          "source_en": "Proposal target, benchmarked against international advanced cities",
+          "calculation_method_zh": "（公共交通+步行+自行车）出行量/总出行量",
+          "calculation_method_en": "(Public transit + walking + cycling) trips / total trips"
+        },
+        {
+          "id": "TR-002",
+          "name_zh": "步行友好度指数",
+          "name_en": "Walkability Index",
+          "value": 85,
+          "unit": "分",
+          "unit_en": "score",
+          "status": "provisional",
+          "source": "方案概念性估算，基于步行系统设计标准",
+          "source_en": "Conceptual proposal estimate, based on pedestrian system design standards",
+          "calculation_method_zh": "综合评价步行网络密度、林荫覆盖率、设施完善度、安全舒适度等维度",
+          "calculation_method_en": "Comprehensive evaluation of pedestrian network density, tree canopy coverage, facility completeness, safety and comfort"
+        },
+        {
+          "id": "TR-003",
+          "name_zh": "轨道站点500米覆盖率",
+          "name_en": "Transit Station 500m Coverage Rate",
+          "value": 90,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "estimated",
+          "source": "基于现状轨道交通线路和站点分布的概念性估算",
+          "source_en": "Conceptual estimate based on existing rail transit lines and station distribution",
+          "calculation_method_zh": "重点片区内轨道站点500米覆盖的建设用地比例",
+          "calculation_method_en": "Proportion of construction land within 500m of rail transit stations in key areas"
+        },
+        {
+          "id": "TR-004",
+          "name_zh": "专用自行车道长度",
+          "name_en": "Dedicated Bicycle Lane Length",
+          "value": 30,
+          "unit": "公里",
+          "unit_en": "km",
+          "status": "provisional",
+          "source": "方案设计值，含对径主骑行道和支线",
+          "source_en": "Proposal design value, including diameter main bike lanes and branch lanes",
+          "calculation_method_zh": "沿京张创新对径双侧自行车道+东西向联络支线长度",
+          "calculation_method_en": "Length of bilateral bike lanes along the innovation diameter + east-west connector branch lanes"
+        }
+      ]
+    },
+    {
+      "category_id": "eco_low_carbon",
+      "category_name_zh": "生态低碳",
+      "category_name_en": "Ecology & Low Carbon",
+      "description_zh": "碳排放、绿色建筑、可再生能源相关指标",
+      "description_en": "Metrics for carbon emissions, green buildings, and renewable energy",
+      "metrics": [
+        {
+          "id": "EC-001",
+          "name_zh": "单位GDP碳排放强度下降率",
+          "name_en": "Carbon Emission Intensity per GDP Reduction Rate",
+          "value": 30,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "estimated",
+          "source": "方案目标设定，对标北京市双碳目标",
+          "source_en": "Proposal target, benchmarked against Beijing's dual carbon goals",
+          "calculation_method_zh": "（基期碳排放强度-目标期碳排放强度）/基期碳排放强度×100%",
+          "calculation_method_en": "(Baseline carbon intensity - target carbon intensity) / baseline carbon intensity × 100%"
+        },
+        {
+          "id": "EC-002",
+          "name_zh": "新建建筑绿建三星比例",
+          "name_en": "New Buildings with 3-Star Green Building Label Ratio",
+          "value": 100,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "target",
+          "source": "方案目标设定，核心区高标准要求",
+          "source_en": "Proposal target, high standard requirement for core area",
+          "calculation_method_zh": "达到绿建三星标准的新建建筑面积/新建建筑总面积（核心区）",
+          "calculation_method_en": "New building area meeting 3-star green building standard / total new building area (core area)"
+        },
+        {
+          "id": "EC-003",
+          "name_zh": "可再生能源占比",
+          "name_en": "Renewable Energy Share",
+          "value": 35,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "estimated",
+          "source": "方案目标设定，基于光伏+地源热泵+储能系统",
+          "source_en": "Proposal target, based on PV + ground source heat pump + energy storage system",
+          "calculation_method_zh": "可再生能源供应量/总能源消费量（核心区建筑用能）",
+          "calculation_method_en": "Renewable energy supply / total energy consumption (core area building energy use)"
+        },
+        {
+          "id": "EC-004",
+          "name_zh": "年径流总量控制率",
+          "name_en": "Annual Runoff Volume Control Rate",
+          "value": 85,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "target",
+          "source": "海绵城市建设目标，对标北京海绵城市标准",
+          "source_en": "Sponge city construction target, benchmarked against Beijing sponge city standard",
+          "calculation_method_zh": "通过海绵设施控制的年降雨量占总降雨量的比例",
+          "calculation_method_en": "Proportion of annual rainfall controlled by sponge facilities to total rainfall"
+        }
+      ]
+    },
+    {
+      "category_id": "culture_vitality",
+      "category_name_zh": "文化活力",
+      "category_name_en": "Culture & Vitality",
+      "description_zh": "文化设施、活动、吸引力相关指标",
+      "description_en": "Metrics for cultural facilities, activities, and attractiveness",
+      "metrics": [
+        {
+          "id": "CV-001",
+          "name_zh": "文化设施密度",
+          "name_en": "Cultural Facility Density",
+          "value": 8,
+          "unit": "处/平方公里",
+          "unit_en": "facilities/km²",
+          "status": "provisional",
+          "source": "方案概念性估算，含博物馆、展亭、书店、活动空间等",
+          "source_en": "Conceptual proposal estimate, including museums, pavilions, bookstores, event spaces, etc.",
+          "calculation_method_zh": "各类文化设施数量/重点设计区域面积",
+          "calculation_method_en": "Number of cultural facilities / key design area"
+        },
+        {
+          "id": "CV-002",
+          "name_zh": "年度文化活动场次",
+          "name_en": "Annual Cultural Events Count",
+          "value": 500,
+          "unit": "场/年",
+          "unit_en": "events/year",
+          "status": "estimated",
+          "source": "方案目标设定，含节庆、市集、展览、论坛等",
+          "source_en": "Proposal target, including festivals, markets, exhibitions, forums, etc.",
+          "calculation_method_zh": "品牌节庆活动+常态化活动+临时活动场次总和",
+          "calculation_method_en": "Sum of brand festival events + regular events + temporary events"
+        },
+        {
+          "id": "CV-003",
+          "name_zh": "年吸引访客数量",
+          "name_en": "Annual Visitor Count",
+          "value": 500,
+          "unit": "万人次/年",
+          "unit_en": "10k visits/year",
+          "status": "estimated",
+          "source": "方案目标设定，对标北京同类文化科技地标",
+          "source_en": "Proposal target, benchmarked against similar cultural-tech landmarks in Beijing",
+          "calculation_method_zh": "遗址公园日常访客+文化活动参与+游客参观人次总和",
+          "calculation_method_en": "Sum of heritage park daily visitors + cultural event participants + tourist visits"
+        },
+        {
+          "id": "CV-004",
+          "name_zh": "公共艺术作品数量",
+          "name_en": "Public Artwork Count",
+          "value": 20,
+          "unit": "件",
+          "unit_en": "pieces",
+          "status": "provisional",
+          "source": "方案概念性规划，沿遗址公园分布",
+          "source_en": "Conceptual proposal planning, distributed along the heritage park",
+          "calculation_method_zh": "雕塑、装置艺术、环境艺术等永久性公共艺术作品",
+          "calculation_method_en": "Permanent public artworks including sculptures, installation art, environmental art"
+        }
+      ]
+    },
+    {
+      "category_id": "talent_life",
+      "category_name_zh": "人才与生活",
+      "category_name_en": "Talent & Livability",
+      "description_zh": "人才住房、公共服务、创新生活相关指标",
+      "description_en": "Metrics for talent housing, public services, and innovation lifestyle",
+      "metrics": [
+        {
+          "id": "TL-001",
+          "name_zh": "人才住房供给套数",
+          "name_en": "Talent Housing Supply Units",
+          "value": 30000,
+          "unit": "套",
+          "unit_en": "units",
+          "status": "estimated",
+          "source": "方案概念性估算，基于重点片区开发容量",
+          "source_en": "Conceptual proposal estimate, based on key area development capacity",
+          "calculation_method_zh": "各类型人才住房套数汇总（公寓+共享公寓+家庭型+高端）",
+          "calculation_method_en": "Sum of various talent housing types (apartments + co-living + family + high-end)"
+        },
+        {
+          "id": "TL-002",
+          "name_zh": "人才密度",
+          "name_en": "Talent Density",
+          "value": 80,
+          "unit": "%",
+          "unit_en": "%",
+          "status": "estimated",
+          "source": "方案目标设定，基于海淀现状基础提升",
+          "source_en": "Proposal target, based on improvement from Haidian's current baseline",
+          "calculation_method_zh": "大专及以上学历就业人口/总就业人口（核心区口径）",
+          "calculation_method_en": "Employed population with college degree or above / total employed population (core area scope)"
+        },
+        {
+          "id": "TL-003",
+          "name_zh": "创新交往空间密度",
+          "name_en": "Innovation Interaction Space Density",
+          "value": 15,
+          "unit": "处/平方公里",
+          "unit_en": "spots/km²",
+          "status": "provisional",
+          "source": "方案设计值，含咖啡、共享空间、路演厅等",
+          "source_en": "Proposal design value, including cafés, co-working spaces, pitch halls, etc.",
+          "calculation_method_zh": "非正式创新交往空间数量/重点设计区域面积",
+          "calculation_method_en": "Number of informal innovation interaction spaces / key design area"
+        }
+      ]
+    }
+  ]
+}
