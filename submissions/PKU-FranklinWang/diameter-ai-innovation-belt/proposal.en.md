@@ -1,19 +1,19 @@
 ---
-title: "Diameter-Type AI Innovation Belt — Urban Design Proposal for the Centennial Jing-Zhang AI Innovation Belt"
+title: "Centennial Jingzhang · Diameter Axis — AI Innovation Belt Urban Design Proposal"
 author_github: "PKU-FranklinWang"
 language: "en"
 proposal_format_version: "2"
 bilingual_contract_version: "1"
 translation_file: "proposal.md"
 license: "COMMUNITY-DISPLAY-ONLY"
-summary: "Proposing the 'Central Axis - Diameter Innovation Paradigm', reconstructing the Jing-Zhang Railway heritage site as a sci-tech innovation central axis, building a spatial structure of 'One Diameter · Three Cores · Two Rings · Multiple Courts', with the six-dimensional people's city goals and New Spatial Economics as theoretical guidance, integrating the implicit design concept of 'northward orientation, tracing origins to inspire innovation', establishing a four-tier time-dimension design system of seasons · day-night · weekly rhythm · annual rings, to create a world-class AI innovation ecosystem and a modern people-oriented city demonstration belt."
+summary: "Rooted in the historical heritage of 'Centennial Jingzhang', structured around the spatial innovation of the 'Central Axis - Diameter' paradigm, and powered by the era-defining feature of 'AI empowerment', this proposal trinity constructs the 'Centennial Jingzhang · Diameter Axis' AI Innovation Belt. It proposes the 'Central Axis - Diameter' innovation spatial paradigm, using the Jing-Zhang Railway Heritage Park as a carrier to form an AI innovation central axis that stands in east-west symmetry with Beijing's traditional central axis, building a spatial structure of 'One Diameter · Three Cores · Two Rings · Multiple Courts'. Based on New Spatial Economics as the theoretical foundation and the six-dimensional goals of the people's city as value guidance, integrating the cultural imagery of the Big Dipper pointing north and tracing origins to inspire innovation, and incorporating the four-tier temporal design of seasons · day-night · weekly rhythm · annual rings, it aims to create a world-class AI innovation ecosystem and a modern people-oriented city demonstration belt."
 tracks: ["ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability"]
-iteration: "v1.0"
+iteration: "v2.0"
 ---
 
-# Diameter-Type AI Innovation Belt
-## — Urban Design Proposal for the Centennial Jing-Zhang AI Innovation Belt
+# Centennial Jingzhang · Diameter Axis
+## — AI Innovation Belt Urban Design Proposal
 
 > **Guiding Ideology**: General Secretary Xi Jinping's important concept of "people's city built by the people, people's city for the people"
 > **Theoretical Foundation**: Central Urban Work Conference Six-Dimension Modern People's City Framework × Yang Kaizhong's New Spatial Economics
@@ -490,45 +490,248 @@ Eight representative AI innovation district cases worldwide are selected for in-
 
 **Insight**: Startup incubation system and talent services are the foundational capabilities of innovation zones.
 
-### 3.6 Naming and Visual Identity System
+### 3.6 Brand Identity System
 
-#### 3.6.1 Naming Scheme
+A complete brand identity system is a core project for the innovation belt to establish differentiated recognition, build identity cohesion, and form long-term memory points. This proposal builds a complete brand asset covering seven dimensions: naming system, slogan system, logo system, color system, typography system, brand hierarchy, and application guidelines, ensuring consistent communication of "Centennial Jingzhang · Diameter Axis" from naming to visual, from concept to application.
 
-**Main Name: Centennial Jing-Zhang AI Innovation Belt**
-- Connotation: "Centennial Jing-Zhang" carries historical heritage, "AI Innovation Belt" indicates the development direction
-- Brand association: Jing-Zhang Railway is the starting point of China's independent innovation, and the AI Innovation Belt is the continuation of independent innovation in the new era
+#### 3.6.1 Naming System
 
-**English Name: Centennial Jingzhang AI Innovation Belt**
-- Abbreviation: CJAIB
+**Main Name: Centennial Jingzhang · Diameter Axis**
 
-**Short Name: Jing-Zhang AI Innovation Belt / Innovation Belt**
+The naming logic is interwoven from three dimensions, forming a trinity brand core of "historical heritage × spatial innovation × intelligent creation for the future":
 
-#### 3.6.2 Brand Slogans
+| Naming Dimension | Core Term | Cultural Connotation | Value Orientation |
+|-----------------|-----------|---------------------|-------------------|
+| **Temporal Dimension** | Centennial Jingzhang | The Jing-Zhang Railway opened in 1909 as the first railway independently designed and built by the Chinese, representing the origin and inheritance of the century-old spirit of independent innovation | Historical roots, cultural tracing |
+| **Spatial Dimension** | Diameter Axis | An innovation central axis that stands in east-west symmetry with Beijing's traditional central axis, geometrically presenting a diameter-penetrating form. "Dui" (pair) implies symmetry, dialogue, and connection; "Jing" (path) implies route, directness, and meridian | Spatial paradigm, structural originality |
+| **Era Dimension** | Intelligence Axis | An innovation development axis with artificial intelligence as the core driving force. "Zhi" (intelligence) points to AI technology and smart governance; "Zhou" (axis) points to linear agglomeration and radiation driving | Era characteristics, industrial engine |
 
-**Main Slogan: Centennial Self-Reliance · Intelligence Creates the Future**
-- "Centennial Self-Reliance" echoes the independent innovation spirit of Jing-Zhang Railway
-- "Intelligence Creates the Future" points to the future development direction of artificial intelligence
+**English Name: Centennial Jingzhang · Diameter Axis — AI Innovation Belt Urban Design Proposal**
+- Centennial Jingzhang: Preserving pinyin to strengthen cultural recognition
+- Diameter Axis: Geometric term + spatial imagery
+- AI Innovation Belt: Functional attribute
 
-**Sub-slogan: An Innovation Epic of a Railway, An AI Era of a City**
+**Short Names: Diameter Intelligence Axis / Jingzhang Intelligence Axis**
+- Use "Diameter Intelligence Axis" on formal occasions, emphasizing the originality of the spatial paradigm
+- Use "Jingzhang Intelligence Axis" on informal occasions, strengthening regional recognition
 
-#### 3.6.3 Logo Design Concept
+**Abbreviation: DZA (Diameter · Zhi · Axis)**
+- Derived from the initial D of Diameter + initial Z of Zhi (intelligence) + initial A of Axis
+- Can be used for logo auxiliary graphics, event identifiers, and product naming
 
-**Design Concept**: Three Lines + Infinity Symbol
-- Three lines represent three cultural veins: Jing-Zhang Railway (history), Zhongguancun (present), and AI (future)
-- The infinity symbol symbolizes endless innovation and boundaryless development
-- The overall form extends linearly, echoing the spatial characteristics of the 9-kilometer innovation belt
+**Code Name: Beidou (Big Dipper) Plan**
+- Echoes the spatial imagery of "Big Dipper + North Star" in the proposal
+- The Big Dipper is distributed along the diameter axis (three cores + four courts), with the North Star pointing to the innovation origin
+- Signifies pointing north and setting direction, in line with the spirit of Jing-Zhang Railway as "the first person in independent innovation"
 
-**Color System**:
-- Primary color: Tech Blue (#0066FF) — represents AI and innovation
-- Secondary color: Railway Red (#CC3333) — represents Jing-Zhang Railway historical inheritance
-- Accent color: Eco Green (#33CC99) — represents green sustainable development
-- Three-color gradient fusion, symbolizing the interweaving and symbiosis of three veins
+#### 3.6.2 Brand Slogan System
 
-**Graphic Language**:
-- Track line elements: symbolizing inheritance and connection
-- Circuit board texture: symbolizing technology and intelligence
-- Neural network morphology: symbolizing AI and innovation
-- Three patterns organically integrated to form a unique visual identity system
+**Main Slogan: Centennial Self-Reliance · Diameter Intelligent Creation**
+- "Centennial Self-Reliance" — inheriting the innovation spirit of Jing-Zhang Railway's independent design and construction
+- "Diameter Intelligent Creation" — carrying AI intelligent innovation through the diameter-type spatial structure
+- Eight characters in antithetical parallelism, easy to remember, simultaneously highlighting the two cores of historical heritage and spatial innovation
+
+**Sub-slogan: An Innovation Epic of a Railway, An AI Era of a Central Axis**
+- The first line reviews history: Jing-Zhang Railway is an innovation epic in China's railway history
+- The second line opens the future: the Diameter Intelligence Axis ushers in a new era of AI in Beijing
+- The progression from "one railway" to "one central axis" achieves a dialogue between time and space
+
+**Annual Theme Slogans (Annual Ring Level)**: Set an annual theme each year, corresponding to the development stage
+- Launch Year (2026): **"Initiation · The Beginning of the Diameter"** — laying the foundation and opening new prospects
+- Acceleration Year (2028): **"Inheritance · The Prosperity of the Intelligence Axis"** — initial scale achieved
+- Maturity Year (2030): **"Transformation · The New Paradigm"** — model output
+
+**Spatial Sub-brand Slogans (Differentiated Positioning of Three Cores)**:
+
+| Core District | Sub-brand Name | Slogan | Positioning |
+|--------------|----------------|--------|-------------|
+| Collective Intelligence Park District | **Zhi Yuan (Intelligence Source)** | Gathering Intelligence into Source · Setting Out for Innovation | Basic research and original innovation source |
+| AI Origin Community | **Zhi He (Intelligence Core)** | Wudaokou Origin · AI Forefront | Startup incubation and industrial hub |
+| Dazhongsi District | **Zhi Men (Intelligence Gate)** | Jing-Zhang South Gateway · AI Reception Hall | Achievement display and international exchange |
+
+#### 3.6.3 Logo Design
+
+**Design Concept: Diameter Geometry + Big Dipper Light Point Sequence**
+
+The logo takes the "diameter" geometric relationship as the core form, uses the light point sequence of the Big Dipper as the visual symbol, and integrates the linear gene of railway tracks with the node characteristics of AI neural networks, building a brand identity with both spatial order and technological imagination.
+
+**Main Logo Graphic Composition**:
+
+1. **Diameter Main Axis** (vertical/horizontal main line)
+   - A main diameter line running through the logo, representing the diameter innovation axis
+   - Line width gradually changes from both ends to the middle, symbolizing energy aggregation and core radiation
+   - The line adopts a "track double line" form, implying the heritage gene of Jing-Zhang Railway
+
+2. **Big Dipper Light Point Sequence**
+   - Seven luminous nodes distributed along the diameter axis, corresponding to the arrangement of the Big Dipper
+   - The three brightest stars (Dubhe, Yuheng, Alkaid) correspond to the "Three Cores"
+   - The remaining four stars correspond to the four core innovation courts in "Multiple Courts"
+   - Light points adopt a gradient change from small to large, from dim to bright, symbolizing that innovation energy gradually amplifies along the axis
+
+3. **North Star Anchor Point**
+   - A brightest star is set at the northern end of the diameter axis, corresponding to the North Star
+   - Points north and sets direction, symbolizing the guidance of innovation direction
+   - Echoes the "innovation origin" spatial node of the proposal
+
+4. **Symmetric Dual Rings**
+   - Semi-circular arcs on each side of the diameter axis, constituting the "dual rings" imagery
+   - Echoes the spatial structure of "One Diameter · Three Cores · Two Rings · Multiple Courts"
+   - Symmetric left and right, reflecting the balanced aesthetics of the diameter paradigm
+
+**Logo System Composition**:
+
+| Logo Type | Form Description | Application Scenarios |
+|-----------|-----------------|----------------------|
+| **Full Logo** | Graphic + Chinese full name + English full name, top-bottom or left-right structure | Official documents, building signage, main visuals of large-scale events |
+| **Mark** | Core graphic of only diameter geometry + Big Dipper light points | Icons, Apps, badges, social media avatars |
+| **Logotype** | Exclusive designed Chinese characters of "Centennial Jingzhang · Diameter Axis" | Scenarios emphasizing text recognition |
+| **Horizontal Combination** | Left-right arrangement with graphic on left and text on right | Website headers, business cards, letterhead |
+| **Vertical Combination** | Top-bottom arrangement with graphic on top and text at bottom | Building facades, exhibition boards, flags |
+
+**Usage Guidelines**:
+- **Minimum Size**: Full logo minimum print width 30mm, digital display minimum width 80px
+- **Safe Clear Space**: Clear space around the logo shall not be less than 1/4 of the logo height, ensuring recognition integrity
+- **Prohibition of Deformation**: No stretching, tilting, proportion changing, adding special effects, or changing color relationships
+- **Monochrome Versions**: Three monochrome versions are provided: positive black, reverse white, and special gold, suitable for different materials and backgrounds
+
+#### 3.6.4 Color System
+
+The color system takes "Tech Blue" as the primary color, echoing the characteristics of the AI era; takes "Railway Ochre" as the secondary color, inheriting the historical memory of Jing-Zhang Railway; takes "Innovation Gold" as the accent color, symbolizing innovation value and achievement; and takes "Eco Green" as the supplementary color, reflecting the concept of green development.
+
+**Primary Color**:
+
+| Color Name | HEX | RGB | CMYK | Usage Proportion | Semantics |
+|-----------|-----|-----|------|-----------------|-----------|
+| Diameter Blue | #0A2463 | 10, 36, 99 | 100, 85, 20, 40 | ~60% | Technology, rationality, depth, future |
+
+**Secondary Colors**:
+
+| Color Name | HEX | RGB | CMYK | Usage Proportion | Semantics |
+|-----------|-----|-----|------|-----------------|-----------|
+| Railroad Ochre | #B5651D | 181, 101, 29 | 20, 55, 90, 15 | ~20% | History, inheritance, industry, warmth |
+| Intelligence Cyan | #3E92CC | 62, 146, 204 | 65, 25, 10, 0 | ~10% | Wisdom, clarity, connection |
+
+**Accent Colors**:
+
+| Color Name | HEX | RGB | CMYK | Usage Proportion | Semantics |
+|-----------|-----|-----|------|-----------------|-----------|
+| Innovation Gold | #E9B44C | 233, 180, 76 | 5, 25, 70, 0 | ~5% | Achievement, value, quality |
+| Eco Green | #2D8659 | 45, 134, 89 | 80, 20, 75, 10 | ~5% | Ecology, sustainability, vitality |
+
+**Neutral Colors**:
+
+| Color Name | HEX | RGB | Usage Scenarios |
+|-----------|-----|-----|----------------|
+| Ink Black | #1A1A2E | 26, 26, 46 | Main titles, body text on dark backgrounds |
+| Dark Gray | #4A4A68 | 74, 74, 104 | Subtitles, important information |
+| Medium Gray | #8888A0 | 136, 136, 160 | Body text, auxiliary text |
+| Light Gray | #C8C8D8 | 200, 200, 216 | Dividers, backgrounds, auxiliary elements |
+| Cloud White | #F5F5FA | 245, 245, 250 | Page backgrounds, light-colored blocks |
+
+**Usage Proportion Guidelines**:
+- Primary color 60% + secondary colors 25% + accent colors 5% + neutral colors 10% (recommended proportion for color application)
+- Body text and background contrast ratio ≥ 4.5:1 (compliant with WCAG AA accessibility standard)
+- Heading text and background contrast ratio ≥ 3:1 (compliant with WCAG AA standard)
+- Provide color-blind-friendly color scheme to ensure information conveyance does not rely solely on color uniqueness
+
+#### 3.6.5 Typography System
+
+The typography system follows the principles of "function first, unified style, compliant and commercializable", building a complete font stack with Chinese, English, and numerical support.
+
+**Chinese Heading Font**: Source Han Serif SC - Bold/Heavy
+- Source: Open source font jointly developed by Adobe and Google, licensed under SIL Open Font License
+- Selection reason: Serif fonts have humanistic feeling and historical depth, echoing the cultural heritage of "Centennial Jingzhang"; rich weight variations, suitable for heading hierarchy; open source and free, no commercial authorization risk
+
+**Chinese Body Font**: Source Han Sans SC - Regular/Medium
+- Source: Open source font jointly developed by Adobe and Google, licensed under SIL Open Font License
+- Selection reason: Sans-serif fonts have modern and technological feeling, echoing the characteristics of the AI era; uniform strokes, good readability on both screen and print; open source and free, covering all weights and widths
+
+**English Heading Font**: Inter - Bold/Black
+- Source: The Inter Project, licensed under SIL Open Font License
+- Selection reason: Modern geometric sans-serif font, optimized for screen display; finely tuned letter spacing and x-height; harmonizes with Chinese Source Han Sans style
+
+**English Body Font**: Inter - Regular/Medium
+- Source: Same as above
+- Selection reason: Excellent body reading comfort; supports rich OpenType features; harmonizes with Chinese system in mixed typesetting
+
+**Numerical Font**: JetBrains Mono - Medium/Bold
+- Source: Developed by JetBrains, licensed under SIL Open Font License 2.0
+- Selection reason: Monospace font with technological and coding attributes; clear and distinguishable numerical forms; suitable for data display, indicator presentation, and coding scenarios
+
+**Typography Usage Guidelines**:
+- Level 1 headings: Source Han Serif Heavy / Inter Black, font size adjusted according to medium
+- Level 2 headings: Source Han Sans Bold / Inter Bold
+- Level 3 headings: Source Han Sans Medium / Inter SemiBold
+- Body text: Source Han Sans Regular / Inter Regular, line height 1.6-1.75
+- Data/Code: JetBrains Mono
+- All fonts adopt open source licenses, allowing free commercial use, ensuring compliance in proposal submission and subsequent use
+
+#### 3.6.6 Brand Hierarchy
+
+Build a four-level brand architecture of "one belt main logo / three core sub-brands / event sub-brands / wayfinding system sub-brand", with both unified brand recognition and support for differentiated expression in different scenarios.
+
+**Level 1: One Belt Main Brand**
+- Brand name: Centennial Jingzhang · Diameter Axis
+- Logo: Main logo (diameter geometry + Big Dipper)
+- Colors: Standard color system (Diameter Blue as primary)
+- Application: Overall image of the innovation belt, master planning documents, major external releases
+
+**Level 2: Three Core Sub-brands**
+- Zhi Yuan · Collective Intelligence Park (North Core): leaning toward academic blue tone, highlighting the imagery of "source"
+- Zhi He · AI Origin Community (Main Core): Standard brand colors, highlighting the imagery of "core"
+- Zhi Men · Dazhongsi (South Core): leaning toward gold tone, highlighting the imagery of "gate"
+- Each sub-brand has an independent logo variant (main logo framework + district-specific graphic elements) and differentiated slogans
+
+**Level 3: Event Sub-brands**
+- Jing-Zhang AI Innovation Culture Festival (annual ring-level flagship event)
+- Big Dipper Hackathon (seasonal-level competition event)
+- Diameter Innovation Forum (weekly rhythm-level exchange event)
+- Jing-Zhang AI Award (annual award event)
+- Each event sub-brand can use exclusive auxiliary graphics and theme colors under the unified visual system
+
+**Level 4: Wayfinding System Sub-brand**
+- Diameter Wayfinding System
+- Includes: Environmental wayfinding, traffic wayfinding, information wayfinding, safety wayfinding — four categories
+- Follows main brand color and typography guidelines, with independent icon system and coding system design
+
+**Brand Hierarchy Management Principles**:
+- Unity: All sub-brands must be designed within the main brand visual framework to ensure brand asset accumulation
+- Differentiation: Each sub-brand can express differentiation at three levels: auxiliary graphics, accent colors, and slogans
+- Standardization: Develop a complete Brand Book, clarifying usage boundaries and approval processes at each level
+
+#### 3.6.7 Application Guidelines
+
+The normative direction of the brand identity system in various application scenarios, providing guidance for subsequent brand implementation.
+
+**Brochures and Printed Materials**:
+- Planning and design brochures: Cover uses vertical combination of main logo, internal grid system based on modular design
+- Project manuals: Independent manuals for each project, cover uses corresponding sub-brand logo
+- Annual reports: Annual ring-level publications, using the year's theme color and theme graphics
+
+**Exhibition Boards and Displays**:
+- A0/A3 exhibition boards: Unified layout system, brand color bar on the left + content area on the right
+- Exhibition booths: Modular construction system, main visual wall uses brand gradient and light point effects
+- Outdoor billboards: Long-distance recognition priority, using high-contrast combinations
+
+**Websites and Digital Products**:
+- Official website: Responsive design, first screen with large visuals + dynamic diameter geometry effects
+- Mobile App: Splash screen uses Mark, interface follows brand color specifications
+- Digital twin platform: UI elements in 3D scenes uniformly use brand design language
+- Social media: Platform avatars use Mark, cover images use theme visuals
+
+**Wayfinding System**:
+- Park master plan: Use brand color coding for functional zoning
+- Building signage: Main logo + building number, using etching/three-dimensional lettering craftsmanship
+- Road signs: Cantilevered/vertical pole type, unified graphic symbols and text specifications
+- Indoor wayfinding: Floor index + room number + accessibility signage system
+
+**Peripheral Products and Souvenirs**:
+- Office stationery: Letterhead, envelopes, business cards, notebooks, pens
+- Apparel gifts: Cultural shirts, hats, canvas bags, badges
+- Tech peripherals: USB drives, power banks, stickers, mouse pads
+- Cultural derivatives: Big Dipper series cultural creations, Jing-Zhang Railway commemorative peripherals
+
+> **Note**: The above brand identity system design is a conceptual proposal recommendation. The final brand plan can only be officially used after further detailed design by a professional brand design agency, with copyright registration and trademark registration completed.
 
 ### 3.7 Future City Vision
 
@@ -605,6 +808,138 @@ The paradigm evolution from the traditional central axis to the diameter innovat
 Beijing's traditional central axis (Yongdingmen — Bell and Drum Towers) represents the ritual order and cultural accumulation of five thousand years of Chinese civilization; while the Jing-Zhang AI Innovation Diameter Axis represents China's innovation confidence and future exploration as it moves toward the AI era. The two axes face each other east-west, echoing ancient and modern, together constituting Beijing's dual-wheel-driven spatial pattern of "cultural ancient capital + innovative famous city".
 
 From a larger spatial-temporal scale, the traditional central axis carries the civilization inheritance of "past-present", and the diameter innovation axis carries the innovation growth of "present-future". The parallel coexistence of the two axes means that while guarding the roots of Chinese civilization, Beijing faces the future with cutting-edge innovation, showcasing to the world the image of an eastern power capital with both profound heritage and vigorous vitality.
+
+---
+
+### 3.9 Regional Synergy Development Mechanism
+
+The Centennial Jingzhang · Diameter Axis AI Innovation Belt is not an isolated "enclave", but a key node in Beijing's international sci-tech innovation center construction network. Establishing and improving a regional synergy development mechanism is a strategic necessity for the innovation belt to integrate into Beijing's "Three Cities and One Zone" pattern and radiate to the Beijing-Tianjin-Hebei region and even the whole country. This section constructs a systematic regional synergy development system from four levels: synergy framework, synergy interfaces, synergy mechanisms, and spatial pattern.
+
+> **Important Note**: The regional synergy mechanisms described in this section are all **conceptual suggestions**, intended to propose ideas and directions for synergy development, and do not constitute any government commitment, signed arrangement, or statutory planning content. Specific synergy matters shall be separately determined by relevant parties on the basis of voluntary consultation and in accordance with laws, regulations, and statutory procedures.
+
+#### 3.9.1 Overall Framework of Regional Synergy
+
+Based on the main platform pattern of Beijing's international sci-tech innovation center "Three Cities and One Zone", clarify the differentiated synergy positioning between the Diameter Intelligence Axis and surrounding innovation nodes, and build an overall regional synergy framework of "connecting science in the north, linking future in the east, connecting transformation in the south, inheriting sources in the west, and radiating to Beijing-Tianjin-Hebei".
+
+**Synergy Relationship with Beijing's "Three Cities and One Zone"**:
+
+| Synergy Object | Spatial Orientation | Functional Positioning | Synergy Direction | Diameter Intelligence Axis Role |
+|---------------|--------------------|----------------------|------------------|--------------------------------|
+| **Huairou Science City** | Northeast direction | Basic research large facility cluster | Basic research results docking, large scientific device sharing, joint research on major sci-tech projects | Application transformation hub |
+| **Future Science City** | Due north direction | Future industrial technology innovation | Industry-university-research linkage in energy technology, new materials, advanced manufacturing and other fields | Scenario verification platform |
+| **Zhongguancun Science City** | West-southwest direction | Sci-tech innovation source | University and institute collaboration, startup incubation linkage, sci-tech service sharing | Core linkage hinterland |
+| **Beijing Economic-Technological Development Area (E-Town)** | Due south direction | Advanced manufacturing and achievement transformation | AI industrialization implementation, intelligent manufacturing scenarios, large-scale production docking | Pilot-scale amplification node |
+
+**Synergy with Key Innovation Communities**:
+
+- **North Latitude Community (40°N Innovation Community)**: Located on the northwest side of the innovation belt, focusing on youth entrepreneurship and community building. Synergy directions include two-way flow of innovative talents, youth startup incubation linkage, and community governance experience mutual learning.
+- **Zhongguancun Software Park/West District**: Located on the west side of the innovation belt, a mature IT industry cluster. Synergy directions include industrial gradient transfer, computing power resource sharing, and enterprise incubation relay.
+- **Xueyuan Road University Cluster**: Located on the east side of the innovation belt, gathering universities such as Beihang, BUPT, USTB, and CAU. Synergy directions include industry-university-research integration, nearby transformation of sci-tech achievements, and campus opening linkage.
+
+**Synergy with Beijing-Tianjin-Hebei Region**:
+- Link northward with Zhangjiakou and Chengde: undertaking extended demands such as AI computing power infrastructure and data centers
+- Link southward with Xiong'an New Area: exploring application scenario implementation of AI innovation achievements in the new area
+- Link eastward with Tianjin Binhai: AI-manufacturing integration, cross-border data circulation pilots
+- Form a gradient synergy pattern of "Beijing R&D — Tianjin-Hebei transformation — regional application"
+
+#### 3.9.2 Five Synergy Interfaces
+
+Targeting key links in the flow of innovation elements, design five synergy interfaces to ensure regional synergy is operable, measurable, and sustainable.
+
+**Interface 1: Knowledge Spillover Interface**
+- **Function**: Promote the flow of scientific research results from the source to the application end
+- **Mechanism**: Establish cross-regional joint laboratories, share literature databases, and regular academic exchange programs
+- **Key Docking**: Huairou Science City (basic research) → Diameter Intelligence Axis (applied research) → E-Town (industrialization)
+- **Conceptual Indicators**: Annual number of co-published papers, joint patent applications, cross-institutional cooperation projects
+
+**Interface 2: Talent Flow Interface**
+- **Function**: Facilitate the free flow of innovative talents within the region
+- **Mechanism**: Talent qualification mutual recognition, talent apartment interconnection, joint recruitment of postdoctoral mobile stations, "dual-appointment" scientific research positions
+- **Key Docking**: Two-way flow between university research talents ↔ enterprise R&D talents ↔ government think tank talents
+- **Conceptual Indicators**: Cross-institutional talent flow rate, number of jointly trained talents, number of dual-appointment experts
+
+**Interface 3: Computing Power Scheduling Interface**
+- **Function**: Coordinate intelligent computing resources within the region to achieve efficient allocation and flexible scheduling of computing power
+- **Mechanism**: Establish a regional computing power scheduling platform, unify computing power access standards, and dynamically allocate according to demand priority
+- **Key Docking**: Collaborative scheduling of Diameter Intelligence Axis Intelligent Computing Center + Zhangjiakou Data Center Cluster + Yizhuang Supercomputing Center
+- **Conceptual Indicators**: Computing power utilization peak/valley difference, cross-regional computing power scheduling ratio, average computing power response time
+
+**Interface 4: Testing and Verification Interface**
+- **Function**: Provide a full-chain verification scenario for AI technology from laboratory to large-scale application
+- **Mechanism**: Establish a four-level verification system: "laboratory verification — block scenario verification — city-level verification — industry-level verification"
+- **Key Docking**: Diameter Intelligence Axis provides block-level AI scenario verification, E-Town provides industry-level verification, Xiong'an/Zhangjiakou provide city-level verification
+- **Conceptual Indicators**: Annual number of verified AI products/services, verification pass rate, conversion rate from verification to industrialization
+
+**Interface 5: Achievement Transformation Interface**
+- **Function**: Open up the transformation channel of sci-tech achievements from "bookshelf" to "shelf"
+- **Mechanism**: Co-build technology transfer centers, share pilot test bases, jointly establish achievement transformation funds, and coordinate intellectual property protection
+- **Key Docking**: Universities/research institutes (achievement source) → Diameter Intelligence Axis (pilot incubation) → E-Town/Tianjin-Hebei (large-scale production)
+- **Conceptual Indicators**: Annual technology contract turnover, achievement transformation rate, number of industrialization landing projects
+
+#### 3.9.3 Synergy Mechanism Design
+
+Around the five synergy interfaces, design five institutionalized synergy mechanisms to ensure the normal and standardized operation of synergy work.
+
+**Mechanism 1: Joint Conference Mechanism**
+- **Composition**: Composed of relevant departments of municipal and district governments, management committees of each synergy region, representatives of key universities and enterprises
+- **Responsibilities**: Review annual synergy work plans, coordinate major synergy matters, and resolve cross-regional cooperation obstacles
+- **Frequency**: Hold a regular work meeting every quarter and a plenary meeting every year
+- **Administrative Body**: Establish a joint conference secretariat, attached to the innovation belt management committee, responsible for daily coordination
+- **Nature Note**: This is a conceptual suggestion mechanism. The specific establishment shall be separately studied in accordance with relevant regulations and procedures.
+
+**Mechanism 2: Joint Project Research Mechanism**
+- **Model**: Release joint research guidelines around key areas, encouraging cross-institutional and cross-regional teams to apply
+- **Funding**: Establish a special fund for collaborative innovation to provide supporting support for joint research projects
+- **Management**: Establish a whole-process tracking and evaluation mechanism for projects, implementing "milestone nodes + dynamic adjustment" management
+- **Achievements**: Intellectual property sharing, joint paper authorship, achievement transformation benefits distributed according to contribution
+- **Nature Note**: The specific implementation measures, funding standards, and intellectual property arrangements for joint project research shall be separately negotiated by the participating parties.
+
+**Mechanism 3: Data Sharing Mechanism**
+- **Principles**: Follow the principles of "on-demand sharing, hierarchical classification, safe and controllable, and compliant use"
+- **Scope**: Non-confidential data such as industrial data, talent data, infrastructure data, and public service data
+- **Technology**: Realize "data available but not visible" based on privacy computing, federated learning and other technologies
+- **Security**: Establish a data security assessment mechanism to clarify data use boundaries and accountability
+- **Nature Note**: Data sharing involves legal requirements such as data security and personal information protection. Specific implementation shall strictly comply with laws and regulations such as the Data Security Law and the Personal Information Protection Law.
+
+**Mechanism 4: Talent Mutual Recognition Mechanism**
+- **Content**: Establish a cross-regional talent evaluation standard mutual recognition system, promoting the mutual recognition and interoperability of talent qualifications, professional titles, and achievements
+- **Services**: Talent service "all-in-one card" — providing city-wide services in housing, medical care, children's education, entry-exit, etc.
+- **Incentives**: Establish a "Collaborative Innovation Talent Award" to recognize talents who have made outstanding contributions to cross-regional cooperation
+- **Nature Note**: Talent mutual recognition involves policy adjustments in many aspects such as staffing, social security, and household registration, which need to be coordinated and promoted at the municipal level.
+
+**Mechanism 5: Event Linkage Mechanism**
+- **Content**: Jointly organize brand events, set up branch venues mutually, share guest resources, and conduct joint publicity and promotion
+- **Flagship Events**: Jing-Zhang AI Innovation Culture Festival sets up branch venues in Huairou / Future Science City / E-Town
+- **Daily Events**: Innovation activities in all regions are uniformly included in the "Diameter Intelligence Axis Event Calendar" to achieve information sharing
+- **International Events**: Jointly participate in international exhibitions, jointly hold international conferences, and jointly carry out international talent recruitment
+- **Nature Note**: The specific forms and contents of event linkage shall be determined through negotiation according to the actual situation of each participant.
+
+#### 3.9.4 Regional Spatial Pattern Illustration
+
+On a larger regional scale, the Centennial Jingzhang · Diameter Axis AI Innovation Belt plays the role of a strategic fulcrum of "core hub and innovation pilot field" in Beijing's "Three Cities and One Zone" pattern.
+
+**Spatial Pattern Positioning**:
+
+From the perspective of Beijing's city-wide innovation spatial pattern, the Diameter Intelligence Axis has the unique location of "one axis connecting three cities, one core running through east and west":
+- **Northward**: Docking with Future Science City and Huairou Science City, undertaking the application and transformation of cutting-edge technologies
+- **Westward**: Deeply integrating with the core area of Zhongguancun Science City, sharing the intellectual resources of universities and institutes
+- **Southward**: Linking with Beijing E-Town, providing industrial landing scenarios for AI achievements
+- **Eastward**: Radiating to the Xueyuan Road University Belt and CBD, expanding application scenarios and business services
+
+**Strategic Fulcrum Functions**:
+
+| Fulcrum Function | Specific Connotation | Value in Regional Pattern |
+|-----------------|---------------------|--------------------------|
+| **Spatial Connector** | Linear spatial form is naturally suitable for connecting multiple innovation nodes | Organizing dispersed innovation resources into a network through the diameter axis |
+| **Innovation Pilot Field** | Stock renewal space in the city center, suitable for technology pilot testing and scenario verification | Connecting basic research and industrialization, filling the "valley of death" |
+| **Talent Reservoir** | Close to universities and mature communities, with high talent density and convenient living | Providing talent support and living facilities for surrounding science cities |
+| **International Showcase Window** | Located in the urban core area, with convenient transportation and active international exchanges | Serving as Beijing's AI innovation calling card and display window |
+| **Governance Experimental Field** | Moderate scope and diverse ownership, suitable for institutional innovation pilots | Piloting governance models first, and promoting to the region after maturity |
+
+**Regional Synergy Spatial Pattern Schematic**:
+- Taking the Diameter Intelligence Axis as the north-south main ridge, connecting Zhongguancun Science City in the west and Xueyuan Road Innovation Belt in the east, forming a "丰" (abundance) shaped regional innovation structure
+- The north-south innovation corridor from Future Science City in the north to E-Town in the south, together with the Diameter Intelligence Axis, constitutes a "double vertical" pattern
+- Huairou Science City links with the main urban area through the Jingshen/Jingtong direction corridor, and the Diameter Intelligence Axis is its "first stop" into the central city
 
 ---
 
@@ -2541,6 +2876,84 @@ The aesthetic expression of the diameter-type innovation street is built upon th
 
 [metric:total-project-investment]
 
+#### 10.1.3 Project Delivery Contract Framework
+
+To ensure the implementability, acceptability, and risk controllability of each project package, establish a standardized project delivery contract framework, clarifying the delivery conditions, acceptance standards, failure disposal methods, and cost estimation methods for each project package.
+
+**Delivery Condition System**:
+
+The delivery of each project package is divided into five levels of deliverables, forming a complete delivery chain:
+
+| Delivery Level | Deliverable Type | Delivery Content Highlights | Responsible Entity |
+|---------------|-----------------|----------------------------|-------------------|
+| **L1 Planning & Design Delivery** | Planning and design documents | Design schemes, drawings, specifications, technical and economic indicators complying with statutory planning requirements | Design unit |
+| **L2 Engineering Construction Delivery** | Completion acceptance documents | Full set of completion materials including civil/mechanical & electrical engineering acceptance, fire protection acceptance, planning verification, environmental protection acceptance, etc. | Construction unit |
+| **L3 Functional Operation Delivery** | Operation startup conditions | Personnel in place, systems established, system debugging completed, trial operation reaching standards | Operation unit |
+| **L4 Performance Output Delivery** | Annual performance report | Quantitative performance indicators such as industrial output, talent agglomeration, number of activities, social benefits | Operation + Management Committee |
+| **L5 Demonstration Effect Delivery** | Influence assessment | External effect assessment including brand value, industry status, model output, policy demonstration, etc. | Third-party evaluation agency |
+
+**Acceptance Standard (SLA) Framework**:
+
+Adopt a three-dimensional acceptance system of "hard standards + elastic indicators + satisfaction evaluation":
+
+- **Hard Standards (Veto Items)**:
+  - Planning compliance: meeting regulatory plan and related technical specification requirements
+  - Engineering quality: reaching national and local engineering quality acceptance standards
+  - Safety compliance: passing special acceptance inspections such as fire protection, civil air defense, and seismic resistance
+  - Environmental protection requirements: meeting EIA approval requirements, passing environmental protection acceptance
+
+- **Elastic Indicators (Quantitative Assessment Items)**:
+  - Construction period: based on the contractually agreed duration, allowing ±10% fluctuation
+  - Investment control: based on the approved budget estimate, overspending shall not exceed 10% (excluding force majeure such as policy adjustments)
+  - Function completeness rate: design function realization rate ≥95%
+  - Operation compliance rate: first-year operation core indicator compliance rate ≥80%
+
+- **Satisfaction Evaluation (Qualitative Assessment Items)**:
+  - Enterprise satisfaction: satisfaction survey score of settled enterprises ≥4.0/5.0
+  - Public satisfaction: satisfaction survey score of surrounding residents and visitors ≥3.8/5.0
+  - Third-party evaluation: introduce independent third-party institutions for comprehensive evaluation
+
+**Failure Disposal Methods**:
+
+Establish a three-level failure disposal mechanism to ensure project risks are controllable and losses are recoverable:
+
+1. **Warning Level (Deviation Rate 10%-20%)**:
+   - Trigger conditions: progress lagging by more than 10%, investment overspending by more than 10%, concentrated quality problems
+   - Disposal methods: issue a warning letter, require the responsible party to rectify within a time limit, and submit a rectification plan
+   - Follow-up tracking: submit rectification progress weekly, with special supervision by the management committee
+
+2. **Serious Level (Deviation Rate 20%-40%)**:
+   - Trigger conditions: progress lagging by more than 20%, investment overspending by more than 20%, major quality and safety hazards occurring
+   - Disposal methods: suspend funding, launch special audit, the responsible party bears liability for breach of contract
+   - Follow-up tracking: establish a special working group, and introduce a third-party institution for trusteeship or construction agency if necessary
+
+3. **Termination Level (Deviation Rate >40% or Fundamental Failure)**:
+   - Trigger conditions: project completely infeasible, responsible party losing performance capacity, major violations of laws and regulations
+   - Disposal methods: terminate the contract, initiate liquidation procedures, pursue liability for breach of contract, and resolve through legal channels if necessary
+   - Asset disposal: completed assets are taken over by the management committee and incorporated into the stock asset revitalization plan
+
+**Cost Estimation Methodology**:
+
+All investment data in this proposal are conceptual estimates. Specific costs need to be recalculated in the next stage based on detailed survey and design. The estimation method is described as follows:
+
+- **Estimation Method**: Adopt "unit area index method + analogous project calibration method + expert consultation method" for three-method mutual verification
+  - Unit area index method: based on the unit area cost index of similar buildings/projects, multiplied by the scale of this project to obtain the baseline estimate
+  - Analogous project calibration method: select 3-5 completed similar projects for benchmarking, adjusting for difference factors (location, standards, time)
+  - Expert consultation method: invite experts in engineering economics, cost consulting and other fields to conduct evaluation and demonstration
+
+- **Data Dependencies**:
+  - Market price information: dependent on the current cost information released by Beijing Construction Engineering Cost Management Station
+  - Historical project data: dependent on the actual cost data of similar projects in Haidian District and Beijing
+  - Policy adjustment factors: need to consider the impact of policy changes on costs (such as environmental standard improvement, labor policy adjustment, etc.)
+  - Technology iteration factors: AI-related facilities and equipment prices change rapidly, requiring reserved technology iteration price difference
+
+- **Estimation Accuracy and Reserve**:
+  - Conceptual scheme stage: estimation accuracy controlled within ±30%
+  - It is recommended to accrue 15%-20% of the estimated value as contingency fee
+  - Conduct dynamic cost assessment and adjustment regularly (every six months)
+
+> **Note**: The project delivery framework described in this section is a conceptual contract model recommendation and does not constitute any legal offer or commitment. The actual project contract terms, acceptance standards, cost amounts, and disposal methods shall be determined by relevant parties through negotiation in accordance with the law.
+
 ### 10.2 Phased Implementation Plan
 
 #### Phase 1: Startup Period (2026-2027) — Lay Foundation, Establish Image, Produce Models
@@ -2549,7 +2962,6 @@ The aesthetic expression of the diameter-type innovation street is built upon th
 - Complete top-level design and institutional framework establishment
 - Full-line opening and operation of Jing-Zhang Railway Heritage Park
 - Core infrastructure completed and put into use
-
 - First batch of benchmark projects starts construction
 - Policy system and operation mechanism initially established
 
@@ -2587,6 +2999,35 @@ The aesthetic expression of the diameter-type innovation street is built upon th
    - Host the first Jing-Zhang AI Innovation Culture Festival
    - Launch "Open Source City" Global Developer Alliance
    - Establish "Jing-Zhang AI Award"
+
+**Startup Period Milestone Schedule**:
+
+| Milestone | Time Node | Acceptance Indicators | Deliverables |
+|-----------|-----------|----------------------|--------------|
+| M1: Top-level Design Completed | 2026 Q2 | Overall urban design approved, regulatory plan adjustment plan passed review | Overall design documents, regulatory plan adjustment report |
+| M2: Management Committee Established | 2026 Q2 | Management committee formed, personnel in place, institutional system initially established | Three-fixed plan, first batch of policy documents |
+| M3: Heritage Park Connected | 2026 Q4 | Full 9-kilometer landscape connected, slow traffic system open, facilities complete | Completion acceptance report, operation plan |
+| M4: Phase 1 Computing Center Operational | 2027 Q2 | 50K cards computing power online, PUE ≤1.25, first batch of enterprises settled | Operation report, user list |
+| M5: First Batch of Projects Commenced | 2027 Q3 | 5+ benchmark projects including AI Origin Tower started construction | Construction permit list |
+| M6: Startup Period Evaluation | 2027 Q4 | Startup period target completion rate ≥80%, startup area image initially visible | Startup period evaluation report |
+
+**Startup Period Key Role Definitions**:
+
+| Role Type | Representative Entities | Core Responsibilities | Authority and Responsibility Boundaries |
+|-----------|------------------------|----------------------|----------------------------------------|
+| **Governance Party** | Haidian District Government, Municipal Planning and Natural Resources Commission Haidian Branch, Innovation Belt Management Committee | Planning approval, policy formulation, overall coordination, public investment, supervision and assessment | Statutory approval authority, public resource allocation power, no interference with specific operations |
+| **Operator** | Innovation Belt Development Company (state-owned platform + market-oriented team), professional park operators | Space operation, enterprise services, event organization, brand promotion, property management | Market-oriented operation autonomy, self-financing (except for government-purchased services) |
+| **Participants** | Universities and research institutes, AI enterprises, community organizations, industry associations, developer communities | Provide intellectual resources, settle and develop, participate in activities, feedback needs, co-build ecosystem | Voluntary participation, benefit sharing, responsibility sharing |
+| **Supervisor** | NPC deputies, CPPCC members, third-party evaluation agencies, public supervision platform | Process supervision, performance evaluation, public opinion collection, audit review | Independent evaluation right, suggestion right, no direct interference with decision-making |
+
+**Startup Period Risk Trigger and Rollback Mechanism**:
+
+| Risk Type | Trigger Condition | Pause/Downgrade Measures | Exit Mechanism |
+|-----------|-----------------|-------------------------|----------------|
+| **Planning Approval Risk** | Regulatory plan adjustment plan fails 3 times | Suspend new projects, revise planning scheme; downgrade to "urban renewal pilot" positioning | If still not passed within 18 months, initiate major plan adjustment procedure |
+| **Funding Availability Risk** | Annual investment completion rate <60% | Reduce non-essential expenses, prioritize infrastructure and livelihood projects; slow down new project startup pace | If funding is insufficient for two consecutive years, initiate scale reduction plan |
+| **Enterprise Investment Risk** | First batch occupancy rate <40% | Adjust investment promotion policies, increase preferential intensity; expand investment channels, introduce professional investment teams | If occupancy rate is still <50% at the end of startup period, re-evaluate industrial positioning |
+| **Technology Iteration Risk** | Computing center technical route eliminated by market | Reserve modular upgrade space, phased investment; prioritize adopting general technical standards | Establish technology iteration evaluation mechanism, conduct technical route evaluation every two years |
 
 **Startup Period Investment Estimate**: ~20 billion yuan
 
@@ -2631,6 +3072,35 @@ The aesthetic expression of the diameter-type innovation street is built upon th
    - Innovation community and activity system mature
    - Global AI event system normalized
 
+**Acceleration Period Milestone Schedule**:
+
+| Milestone | Time Node | Acceptance Indicators | Deliverables |
+|-----------|-----------|----------------------|--------------|
+| M7: AI Origin Tower Completed | 2028 Q2 | Building completion acceptance, occupancy rate ≥50%, core functions activated | Completion report, settled enterprise list |
+| M8: 100K-Card Computing Center Operational | 2028 Q3 | Phase 2 completed and operational, total computing power ≥100K cards, utilization rate ≥60% | Operation report, computing power scheduling data |
+| M9: Core Areas of Three Districts Completed | 2029 Q2 | Construction of three-core core areas completed, public space system complete, transportation system smooth | Collection of completion acceptance, operation evaluation report |
+| M10: Industrial Agglomeration Reached | 2029 Q3 | Total AI enterprises ≥500, leading enterprises ≥20, unicorns ≥20 | Enterprise directory, industrial statistics report |
+| M11: Talent Agglomeration Reached | 2029 Q3 | AI high-end talents ≥100,000, talent apartment occupancy rate ≥90% | Talent statistics report, housing data |
+| M12: Acceleration Period Evaluation | 2029 Q4 | Acceleration period target completion rate ≥85%, regional influence formed | Acceleration period evaluation report |
+
+**Acceleration Period Key Role Evolution**:
+
+| Role Type | Role Evolution | New Responsibilities | Authority and Responsibility Adjustment |
+|-----------|----------------|---------------------|----------------------------------------|
+| **Governance Party** | From "leading" to "guiding" | Policy evaluation and optimization, regional synergy promotion, business environment continuous improvement | Gradually reduce micro-intervention, strengthen macro-regulation and public services |
+| **Operator** | From "construction" to "operation" | Industrial service deepening, investment and incubation function strengthening, international expansion | Operation team expansion, adding industrial investment and international business segments |
+| **Participants** | From "participating" to "co-governing" | Participating in council decision-making, jointly establishing industrial funds, co-building public platforms | Council enterprise representative ratio increased to above 50% |
+| **Supervisor** | From "supervising" to "evaluating" | Conducting mid-term evaluation, establishing dynamic indicator system, publishing annual white paper | Introduce international evaluation institutions, conduct international benchmarking evaluation |
+
+**Acceleration Period Risk Trigger and Rollback Mechanism**:
+
+| Risk Type | Trigger Condition | Pause/Downgrade Measures | Exit Mechanism |
+|-----------|-----------------|-------------------------|----------------|
+| **Industrial Agglomeration Risk** | Enterprise occupancy rate <60% or growth rate <20% for two consecutive years | Adjust industrial positioning, expand application scenarios; increase policy intensity, reduce occupancy costs | If growth rate is lower than expected for three consecutive years, initiate industrial structure adjustment plan |
+| **Talent Supply Risk** | High-end talent gap >30% or talent turnover rate >15% | Expand talent policy coverage, increase talent apartment supply, optimize living facilities | If talent agglomeration continues to fall short of expectations, initiate talent policy upgrade |
+| **Operational Sustainability Risk** | BID model operating revenue coverage ratio <50% | Expand revenue channels, optimize cost structure, extend government transition period subsidy | If 60% self-sufficiency cannot be achieved after 3 years of operation, adjust operation model |
+| **Competitive Environment Risk** | Surrounding similar parks form obvious siphon effect | Strengthen differentiated positioning, build irreplaceable core competitiveness | Regularly conduct competitive situation analysis, dynamically adjust development strategies |
+
 **Acceleration Period Investment Estimate**: ~35 billion yuan
 
 #### Phase 3: Maturity Period (2030 and beyond) — Set Benchmarks, Form Paradigms, Exportable
@@ -2658,6 +3128,35 @@ The aesthetic expression of the diameter-type innovation street is built upon th
    - Establish continuous innovation and iterative upgrading mechanism
    - Track AI technology frontiers, dynamically adjust development direction
    - Continuously optimize spatial quality and innovation ecosystem
+
+**Maturity Period Milestone Schedule**:
+
+| Milestone | Time Node | Acceptance Indicators | Deliverables |
+|-----------|-----------|----------------------|--------------|
+| M13: Full Completion | 2030 Q4 | All planned projects basically completed, core indicators all reached | General completion acceptance report, indicator completion status table |
+| M14: Industrial Scale Breakthrough | 2030 Q4 | AI core industry scale ≥300 billion yuan, unicorns ≥40 | Industrial development white paper, enterprise directory |
+| M15: Talent Highland Formed | 2030 Q4 | AI high-end talents ≥150,000, 15-minute living circle coverage 100% | Talent development report, public service evaluation |
+| M16: Model Standard Export | 2031 Q4 | "Haidian Model" summary completed, standard system released, at least 3 cities docking replication | Model summary report, standards and specifications, cooperation cases |
+| M17: International Brand Established | 2032 Q4 | International ranking enters global AI innovation zone TOP10, international exchange activities normalized | International influence evaluation report |
+| M18: Maturity Period Evaluation | 2035 | Comprehensive evaluation of development effectiveness, initiate next round of development planning compilation | Development evaluation report, next stage planning outline |
+
+**Maturity Period Key Role Evolution**:
+
+| Role Type | Role Evolution | Core Responsibilities | Authority and Responsibility Adjustment |
+|-----------|----------------|----------------------|----------------------------------------|
+| **Governance Party** | From "guiding" to "empowering" | Strategic planning, institutional supply, public service guarantee, risk safety net | Mainly performing public service and supervision functions, fully withdrawing from competitive fields |
+| **Operator** | From "operation" to "platform" | Ecosystem platform operation, industrial investment, model output, international expansion | Operation company transforms into platform-type enterprise, exporting management and brand externally |
+| **Participants** | From "co-governing" to "symbiotic" | Independent development, spontaneous collaboration, co-building standards, sharing results | Form a self-organizing, self-evolving innovation ecosystem, market mechanism plays a leading role |
+| **Supervisor** | From "evaluating" to "governing" | Governance system evaluation, social supervision, public participation, international certification | Establish a diversified, international evaluation and supervision system |
+
+**Maturity Period Risk Trigger and Rollback Mechanism**:
+
+| Risk Type | Trigger Condition | Pause/Downgrade Measures | Exit Mechanism |
+|-----------|-----------------|-------------------------|----------------|
+| **Technology Path Disruption Risk** | AI technology route undergoes fundamental transformation (e.g., AGI singularity appears) | Initiate strategic assessment, dynamically adjust industrial direction and spatial layout | Establish "technology radar" mechanism, scan technology frontiers quarterly, update strategy annually |
+| **Status Surpassing Risk** | Domestic similar parks rise rapidly, this innovation belt ranking continues to decline | Launch "second entrepreneurship" plan, increase innovation investment, cultivate new growth points | If core indicators decline for three consecutive years, initiate strategic transformation procedure |
+| **Space Saturation Risk** | Existing space utilization rate >95% and no new space supply | Initiate underground space development, building floor addition renovation, functional mixing optimization | Radiate and expand to periphery, develop linkage with surrounding areas |
+| **Ecosystem Aging Risk** | Innovation vitality declining, enterprise turnover rate too low or too high | Introduce new species, stimulate innovation, optimize ecosystem structure | Regular ecosystem health diagnosis, timely conduct ecosystem rebalancing |
 
 **Maturity Period Investment Estimate**: ~13 billion yuan
 
@@ -2735,6 +3234,71 @@ The aesthetic expression of the diameter-type innovation street is built upon th
 - Entrepreneurship achievements linked to professional title evaluation
 - University-enterprise talent two-way flow mechanism
 
+#### 10.3.5 Policy Toolkit Overview
+
+Integrate the above policies into six categories of policy toolkits, clarifying the applicable conditions, operation paths, and expected effects of each type of tool, forming a systematic and combinable policy toolbox.
+
+**Talent Policy Toolkit**:
+
+| Policy Tool | Applicable Objects | Applicable Conditions | Operation Path | Expected Effects |
+|------------|-------------------|----------------------|---------------|-----------------|
+| Settlement Green Channel | Class A top talents, Class B leading talents | Meeting Beijing/Haidian talent certification standards | Talent submits application → Management Committee preliminary review → Municipal Talent Bureau approval → Settlement processing | Attract 5,000+ high-end talents annually |
+| Talent Apartment Allocation | Class C and above talents, key enterprise backbones | Working full-time in the innovation belt, no housing | Enterprise/individual application → Management Committee review → Lottery allocation | Talent apartment occupancy rate ≥90% |
+| Individual Tax Preference | High-end and in-short-supply talents | Meeting "high-precision and in-short-supply" catalog, reaching annual salary standard | Talent declaration → Tax authority approval → Reduction implementation | Talent tax burden reduced by 20-30% |
+| Research Start-up Fund | Introduced high-level R&D talents | Bringing projects and team to settle in | Talent application → Expert review → Fund allocation | Support 50+ high-end talents annually |
+| Children's Education Guarantee | Children of Class B and above talents | Talent certification passed | Talent application → Education commission coordination → Enrollment arrangement | 100% guarantee for talent children's enrollment |
+
+**Industrial Policy Toolkit**:
+
+| Policy Tool | Applicable Objects | Applicable Conditions | Operation Path | Expected Effects |
+|------------|-------------------|----------------------|---------------|-----------------|
+| Leading Enterprise "One Enterprise, One Policy" | Fortune 500, industry TOP10 enterprises | Establishing regional HQ/R&D HQ, meeting investment scale standard | Enterprise negotiation → Customized plan → Leading group approval → Signing and landing | Introduce 5+ leading enterprises annually |
+| Unicorn Cultivation Plan | Quasi-unicorns with valuation above US$1 billion | Registered in the innovation belt, core technology independently controllable | Enterprise application → Expert evaluation → Inclusion in cultivation → Precise support | Cultivate 20+ unicorns |
+| Startup Enterprise Rent Subsidy | Startups established within 3 years, settled in incubators | Core team with university/famous enterprise background, technology direction matching | Enterprise application → Incubator recommendation → Management Committee review → Subsidy distribution | Incubation success rate ≥30% |
+| Computing Power Usage Subsidy | AI enterprises and research teams | Needing to use intelligent computing center computing resources | User application → Accounting by usage → Subsidy refund next month | Computing power utilization increased by 20%+ |
+| "Three Firsts" Demonstration Application | AI products/services applied for the first time | Advanced technology, no mature application cases | Enterprise declaration → Scenario collection → Demonstration application → Subsidy disbursement | 50+ first scenario applications annually |
+
+**Land Policy Toolkit**:
+
+| Policy Tool | Applicable Objects | Applicable Conditions | Operation Path | Expected Effects |
+|------------|-------------------|----------------------|---------------|-----------------|
+| Flexible Term Transfer | Industrial project land | Meeting industrial orientation, meeting investment intensity standard | Enterprise application → Evaluation and demonstration → Sign transfer contract (5-20 years) | Reduce enterprise initial land cost by 30-50% |
+| Mixed Land Use Policy | Multi-functional composite development projects | Industry + office + commerce + residential function mixing | Planning scheme demonstration → Regulatory plan adjustment → Land transfer | Job-housing balance increased to above 60% |
+| FAR Incentive | Renewal and transformation projects | Increasing public space/industrial space/green buildings | Project declaration → Indicator calculation → Planning approval | Public space increased by 15%+ |
+| Property Right Division and Transfer | Industrial carrier projects | Meeting industrial positioning, meeting minimum division unit | Enterprise application → Review and confirmation → Handle division registration | Industrial space liquidity improved |
+| Self-renewal Support | Stock land ownership units | Industrial upgrading and transformation, meeting planning orientation | Unit declaration → Plan approval → Self-implementation | Stock land revitalization rate improved |
+
+**Financial Policy Toolkit**:
+
+| Policy Tool | Applicable Objects | Applicable Conditions | Operation Path | Expected Effects |
+|------------|-------------------|----------------------|---------------|-----------------|
+| Government Guidance Fund | Sub-fund management institutions | Focusing on AI field, excellent management team | Institution application → Due diligence review → Partnership agreement signing → Capital in place | Leverage social capital ratio ≥1:4 |
+| Intellectual Property Pledge Financing | Asset-light tech enterprises | Owning core intellectual property, good operating condition | Enterprise application → IP evaluation → Bank approval → Loan disbursement | Annual financing scale ≥2 billion yuan |
+| Sci-tech Insurance Subsidy | Tech enterprises | Purchasing sci-tech insurance products | Enterprise declaration → Premium verification → Subsidy disbursement | Enterprise insurance participation rate increased by 30% |
+| Infrastructure REITs | Enterprises holding mature infrastructure | Mature project operation, stable income | Asset sorting → Structure design → Regulatory approval → Issuance | Revitalize stock assets ≥10 billion yuan |
+| Angel Investment Tax Preference | Angel investment individuals and institutions | Investing in seed/startup stage tech enterprises | Investment filing → Enterprise certification → Tax deduction | Angel investment scale annual growth 50% |
+
+**Data Policy Toolkit**:
+
+| Policy Tool | Applicable Objects | Applicable Conditions | Operation Path | Expected Effects |
+|------------|-------------------|----------------------|---------------|-----------------|
+| Public Data Authorized Operation | Enterprises with data operation capability | Data security capability up to standard, compliance system complete | Enterprise application → Security assessment → Authorized operation | Open public datasets ≥100 |
+| Cross-border Data Flow Pilot | Enterprises with cross-border data needs | Clear data classification and grading, security measures in place | Enterprise declaration → Security assessment → Pilot filing | Pilot enterprises ≥20 |
+| Data Trading Services | Data supply and demand parties | Clear data ownership, quality compliance | Registration and listing → Transaction matching → Settlement and delivery | Annual data transaction volume ≥1 billion yuan |
+| Privacy Computing Platform Services | Multi-party subjects needing data collaboration | Data not leaving domain, models iterable | Demand docking → Platform deployment → Joint computing | Annual data collaboration projects ≥50 |
+
+**Governance Policy Toolkit**:
+
+| Policy Tool | Applicable Objects | Applicable Conditions | Operation Path | Expected Effects |
+|------------|-------------------|----------------------|---------------|-----------------|
+| Notification-Commitment System Approval | Eligible construction projects | Included in commitment system catalog, good enterprise credit | Enterprise commitment → Formal review → Immediate approval and construction → In-process and post-process supervision | Approval time shortened by 50%+ |
+| Inclusive and Prudent Regulation | New technology and new format enterprises | No clear regulatory rules, controllable risks | Establish sandbox mechanism → Pilot exploration → Dynamic adjustment → Standardized development | Regulatory matters reduced by 30% |
+| Statutory Institution Pilot | Innovation belt management committee | Undertaking public management and service functions | Scheme formulation → Government authorization → Institution establishment → Operation evaluation | Administrative efficiency improved by 40% |
+| Public Participation Mechanism | Community residents, enterprises, social organizations | Planning and decision-making involving public interests | Information disclosure → Opinion collection → Consultation and discussion → Decision feedback | Public participation rate ≥60% |
+| Third-party Evaluation System | Various policies and projects | Needing independent and objective evaluation | Commission third-party → Evaluation implementation → Report submission → Result application | 100% evaluation coverage |
+
+> **Note**: The above policy toolkits are conceptual policy recommendations. The specific policy content, applicable standards, and implementation details shall be subject to the documents officially issued by the government. The establishment and improvement of the innovation belt policy system is a gradual process, which will be dynamically adjusted and optimized according to the national and Beijing policy guidance.
+
 ### 10.4 Operation Mechanism Innovation
 
 #### 10.4.1 Governance Structure: Four-Party Co-Governance
@@ -2799,40 +3363,230 @@ Leveraging China's institutional advantages, explore a new operation model of **
 - Investment field: AI full industry chain
 - Supporting services: Startup mentorship, office space, resource matchmaking
 
-### 10.5 Global AI Event System
+#### 10.4.4 Operational Governance Structure: Three-Tier Architecture Responsibility Division
 
-#### 10.5.1 Brand Festival Events
+Based on the four-party co-governance model, further refine into a three-tier governance architecture of "decision-making layer — execution layer — operation layer", clarifying the responsibility boundaries, meeting rules, and operation mechanisms of each tier to ensure the efficient operation of the governance system.
 
-| Event Name | Held Time | Cycle | Positioning | Scale |
-|-----------|-----------|-------|-------------|-------|
-| **Jing-Zhang AI Innovation Culture Festival** | Every September | Annual | Innovation belt flagship brand event, commemorating Jing-Zhang Railway opening + AI tech carnival | 100,000+ attendees |
-| **Zhongguancun Entrepreneurship Week** | Every April | Annual | Inheriting Zhongguancun innovation culture, global entrepreneur grand event | 50,000+ attendees |
-| **Jing-Zhang AI Award Ceremony** | Every December | Annual | Authoritative award in AI field, recognizing outstanding contributors | 10,000-person grand ceremony |
-| **Open Source City Developer Conference** | Every June | Annual | Global open source developer grand event, open source city construction promotion | 20,000+ attendees |
+**Tier 1: Development Council (Decision-Making Layer)**
 
-#### 10.5.2 Regular Events
+The Council is the highest decision-making and consultation body of the innovation belt, exercising strategic decision-making, major matter deliberation, budget approval, and supervision and evaluation functions.
 
-**Weekly Events**:
-- Sci-tech innovation market (weekends)
-- AI technology sharing sessions
-- Startup pitch day
+| Dimension | Specific Content |
+|-----------|-----------------|
+| **Positioning** | Strategic decision-making body, interest coordination platform, co-governance consultation carrier |
+| **Composition** | Enterprise representatives 40% + university and research representatives 25% + community representatives 15% + government representatives 15% + expert representatives 5% |
+| **Term** | Each term is 3 years, renewable, with seats rotating according to rules |
+| **Meeting Rules** | Major matters (strategic planning, annual budget, major investments) require 2/3 majority passage; general matters require 1/2 majority passage |
+| **Meeting System** | Plenary meeting once per quarter; standing meeting once per month; special meetings held as needed |
 
-**Monthly Events**:
-- Jing-Zhang AI Forum (monthly themed forum)
-- Innovators' Night Talk (salon)
-- AI Art Exhibition (monthly rotation)
+**Core Responsibilities of the Council**:
+1. **Strategic Decision-making**: Review the innovation belt development strategy, master plan, and annual work plan
+2. **Budget Approval**: Approve the annual budget and major expenditure items of the innovation promotion fund
+3. **Rule-making**: Formulate governance rules, access standards, and evaluation systems for the innovation belt
+4. **Supervision and Evaluation**: Listen to work reports from the management committee and operation company, and conduct performance evaluation
+5. **Interest Coordination**: Coordinate the interest demands of all parties and promote multi-stakeholder collaboration
+6. **Brand Management**: Review and approve brand strategy, major events, and external cooperation matters
 
-**Quarterly Events**:
-- Youth Maker Marathon
-- Investor matchmaking meeting
-- University-enterprise cooperation matchmaking meeting
+**Specialized Committees under the Council**:
+- Planning and Construction Committee: Review planning schemes, construction projects, and renewal strategies
+- Industry and Innovation Committee: Review industrial policies, investment attraction directions, and innovation measures
+- Talent and Community Committee: Review talent policies, public services, and community development
+- Finance and Audit Committee: Review budgets and final accounts, investment and financing plans, and audit supervision
+- Brand and Events Committee: Review brand strategy, event plans, and external promotion
 
-#### 10.5.3 International Exchange Events
+**Tier 2: Innovation Belt Management Committee (Execution Layer)**
 
-- Global AI Innovation City Summit
-- China-US AI Young Scholar Exchange Program
-- International AI Innovation District Alliance
-- AI Enterprise Global Tour
+As a government agency, the management committee undertakes administrative management, public services, overall coordination, and supervision and management functions, serving as the executive body of government governance intentions.
+
+| Dimension | Specific Content |
+|-----------|-----------------|
+| **Positioning** | Government agency, administrative management body, public service provider |
+| **Staffing** | Referring to the statutory institution model, mixed with administrative + institutional + market-appointed positions |
+| **Authority** | Exercise administrative management authority in planning, land, industry, talent and other aspects upon authorization |
+| **Accountable To** | Dual accountability to the district-level government and the Development Council |
+
+**Core Responsibilities of the Management Committee**:
+1. **Planning Implementation**: Organize the preparation and implementation of various plans, and advance urban renewal projects
+2. **Policy Implementation**: Implement policies at all levels, formulate implementation rules, and carry out policy promotion
+3. **Administrative Approval**: Exercise administrative approval and administrative service functions within the authorized scope
+4. **Public Services**: Provide overall coordination for public services such as education, healthcare, culture, and sports
+5. **Investment and Talent Attraction**: Organize investment promotion and talent recruitment work
+6. **Supervision and Management**: Supervise and manage enterprises, projects, and operating institutions within the zone
+7. **Resource Coordination**: Coordinate municipal and district-level resources to promote the implementation of major projects
+
+**Internal Departments of the Management Committee (Suggested)**:
+- General Office: Administration, personnel, finance, legal affairs
+- Planning and Construction Department: Planning, construction, renewal, land
+- Industrial Development Department: Investment attraction, industry, enterprise services
+- Talent Work Department: Talent introduction, talent services, talent policies
+- Smart City Department: Informatization, data governance, AI scenarios
+- Social Affairs Department: Public services, community governance, cultural activities
+- Supervision and Audit Department: Discipline inspection, audit, performance, supervision
+
+**Tier 3: Professional Operation Company (Operation Layer)**
+
+As a market-oriented operation entity, the operation company undertakes operational functions such as space operation, enterprise services, event organization, and brand promotion, serving as the key guarantee for the operation efficiency of the innovation belt.
+
+| Dimension | Specific Content |
+|-----------|-----------------|
+| **Positioning** | Market-oriented operation entity, enterprise service platform, ecosystem operator |
+| **Nature** | State-controlled, market-operated mixed ownership enterprise |
+| **Governance** | Establish board of directors and board of supervisors, implement market-oriented selection and contractual management |
+| **Revenue Sources** | Space leasing, enterprise services, event income, investment income, government-purchased services |
+
+**Core Responsibilities of the Operation Company**:
+1. **Space Operation**: Operation and management of industrial carriers, public spaces, and commercial support facilities
+2. **Enterprise Services**: Full lifecycle services for settled enterprises (industrial and commercial, finance and taxation, legal, intellectual property, etc.)
+3. **Event Operation**: Brand event organization, community operation, international exchanges
+4. **Brand Promotion**: Brand management, marketing, media relations
+5. **Industrial Investment**: Direct investment funds, industrial incubation, accelerator operation
+6. **Smart Operation**: Smart park platform operation, data analysis, digital services
+7. **Property Management**: Security, cleaning, greening, facility maintenance
+
+**Business Segments of the Operation Company (Suggested)**:
+- Space Operation Division: Office buildings, incubators, commerce, public space operation
+- Enterprise Services Division: Enterprise service platform, government service agency, professional service docking
+- Event Brand Division: Event planning and execution, brand management, media PR
+- Industrial Investment Division: Seed fund, incubation acceleration, industrial investment
+- Smart Operation Division: Digital twin platform, smart park system, data services
+- Property Services Division: Basic property, facility management, safety assurance
+
+**Three-Tier Architecture Collaboration Mechanism**:
+- **Decision-Execution Linkage**: Council resolutions are implemented by the management committee, which regularly reports work to the Council
+- **Execution-Operation Connection**: The management committee is responsible for administrative supervision and public services, while the operation company is responsible for market-oriented operations; the two are connected through service purchase, entrusted operation and other methods
+- **Supervision-Feedback Closed Loop**: The Council supervises the management committee and operation company; the management committee supervises the operation company; the operation company accepts dual supervision
+- **Information Sharing Mechanism**: Establish a unified information platform for real-time information sharing and transparency across the three-tier architecture
+
+> **Note**: The above operational governance structure is a conceptual proposal scheme. The specific institutional setup, staffing, and functional authority shall be studied and determined by relevant departments in accordance with laws, regulations, and institutional staffing management regulations.
+
+### 10.5 Four-Level Temporal Activity System
+
+The activity system of the innovation belt is deeply linked with the four-tier temporal design of "seasons · day-night · weekly rhythm · annual rings" in Section 9.4, building a four-level activity pyramid of **"annual ring level — seasonal level — weekly rhythm level — day-night level"**, ensuring that the innovation belt has rich activity content and continuous vitality output at different time scales, achieving the goal of "a grand event every year, themes every season, activities every week, and vitality every day".
+
+#### 10.5.1 Annual Ring Level: Annual Brand Galas
+
+Annual ring level events are the flagship brand events of the innovation belt, held annually to build an internationally influential city-level cultural IP, serving as the highest carrier of the innovation belt's brand value.
+
+| Event Name | Held Time | Linked Season | Positioning | Core Content | Expected Scale |
+|-----------|-----------|---------------|-------------|-------------|----------------|
+| **Jing-Zhang AI Innovation Culture Festival** | Every September (Golden Autumn) | Autumn · Harvest Season | The No. 1 brand event of the innovation belt, commemorating Jing-Zhang Railway opening + AI tech carnival | Opening ceremony, AI expo, innovation achievement exhibition, industry forum, sci-tech art season, Jing-Zhang AI Award | 100,000+ attendees |
+| **Big Dipper Hackathon** | Every December (Winter Solstice) | Winter · Accumulation Season | The world's largest AI hackathon, a programming carnival on the longest night of the winter solstice | 48-hour hackathon, tech challenge, open source contribution ranking, award ceremony | 5,000+ developers |
+| **Open Source City Developer Conference** | Every June (Summer Solstice) | Summer · Growth Season | Global open source developer grand event, promoting open source city construction | Main forum, sub-forums, open source project roadshows, developer fair, community governance seminar | 20,000+ attendees |
+| **Zhongguancun Youth Entrepreneurship Festival** | Every April (after Qingming) | Spring · Sprouting Season | A festival for young entrepreneurs, inheriting Zhongguancun innovation culture | Entrepreneurship competition, investor matchmaking day, startup fair, youth leaders summit, university entrepreneurship tour | 50,000+ attendees |
+
+**Annual Ring Level Event Operation Mechanism**:
+- Adopt the model of "government guidance, market operation, social participation"
+- Each annual ring event has an independent event sub-brand and visual system
+- Preparation starts 6 months in advance, registration opens 3 months in advance
+- Release event white paper and impact assessment report within 1 month after the event
+
+#### 10.5.2 Seasonal Level: Quarterly Themed Activities
+
+Seasonal level events correspond to the four seasons of spring, summer, autumn, and winter, with each quarter having a clear thematic direction, echoing the seasonal landscape and industrial rhythm, forming an activity rhythm of "one theme per season, highlights every quarter".
+
+**Spring · Sprouting Season (March-May) — "Innovation Sets Out" Theme**:
+- **Theme Connotation**: Spring is the season when all things sprout, corresponding to the initiation and departure of innovation
+- **Core Activities**:
+  - Innovation Outing Festival (around Qingming): Tech + cultural outing route along the diameter axis, with interactive installations set up along the way
+  - Youth Entrepreneurship Competition Launch: Registration and audition phase of the annual entrepreneurship competition
+  - Cherry Blossom Tech Week: Wudaokou cherry blossom season + tech display, creating the "most romantic tech festival"
+  - University-Enterprise Cooperation Spring Recruitment Season: University spring recruitment + enterprise open day linkage
+- **Expected Frequency**: 3-5 large and medium-sized events per month, covering 20,000+ people per quarter
+
+**Summer · Growth Season (June-August) — "Intelligent Innovation Growth" Theme**:
+- **Theme Connotation**: Summer is the season when all things flourish, corresponding to the acceleration and growth of innovation
+- **Core Activities**:
+  - Summer Night AI Film Festival: Outdoor film screening areas set up along the heritage park, AI-themed films + tech documentaries
+  - Beer & Tech Market: Summer beer + tech market, core carrier of night economy
+  - AI Summer Camp: AI popular science and experience camp for teenagers, key summer event
+  - Hackathon Season: Multiple themed hackathons (vertical domain special sessions)
+- **Expected Frequency**: 5-8 large and medium-sized events per month, covering 50,000+ people per quarter
+
+**Autumn · Harvest Season (September-November) — "Achievement Harvest" Theme**:
+- **Theme Connotation**: Autumn is the harvest season, corresponding to the concentrated display and verification of innovation achievements
+- **Core Activities**:
+  - Jing-Zhang AI Innovation Culture Festival (flagship event, see annual ring level)
+  - AI Industry Expo: Annual industrial achievement concentrated display, enterprise product launches
+  - International Innovation Summit: Global AI leaders dialogue, core platform for international exchanges
+  - Golden Autumn Talent Recruitment Season: "Golden September, Silver October" talent exchange grand event
+- **Expected Frequency**: 8-10 large and medium-sized events per month, covering 150,000+ people per quarter
+
+**Winter · Accumulation Season (December-February) — "Gaining Momentum" Theme**:
+- **Theme Connotation**: Winter is the season of storage and nourishment, corresponding to the accumulation and precipitation of innovation
+- **Core Activities**:
+  - Big Dipper Hackathon (flagship event, see annual ring level)
+  - Ice & Snow Tech Festival: Winter sports + tech experience, Beijing Winter Olympics heritage inheritance
+  - New Year Light Show: Digital light art performance during New Year/Spring Festival
+  - Innovation Night (Winter Solstice): Thought feast on the longest night, year-end forum
+  - Warm Winter Innovation Market: Indoor + semi-outdoor winter market
+- **Expected Frequency**: 4-6 large and medium-sized events per month, covering 30,000+ people per quarter
+
+#### 10.5.3 Weekly Rhythm Level: Weekend Regular Activities
+
+Weekly rhythm level events are the foundation layer of the innovation belt's vitality, taking weekends as the main time nodes, maintaining normalized and regular activity supply, so that residents and visitors "always have something to do when coming to the innovation belt on weekends".
+
+**Weekly Fixed Activity Calendar**:
+
+| Time | Event Name | Event Type | Main Location | Participation Method |
+|------|-----------|-----------|---------------|---------------------|
+| **Saturday Morning** | Diameter Innovation Market | Market | Core section of heritage park | Free participation |
+| **Saturday Afternoon** | AI Tech Sharing Session | Tech exchange | Various innovation courts | Registration/free |
+| **Saturday Evening** | Innovators' Night Talk | Salon | Cafes/shared spaces | Registration required |
+| **Sunday Morning** | Startup Pitch Day | Pitch | AI Origin Community | Registration/audience |
+| **Sunday Afternoon** | Jing-Zhang Forum | Lecture | Jing-Zhang Railway Memorial Hall | Free reservation |
+| **Sunday Evening** | Outdoor Movie/Music Live | Cultural entertainment | Innovation Culture Square | Free participation |
+
+**Weekly Rhythm Level Featured Theme Days**:
+- **First Week of Each Month · Open Source Day**: Open source project showcase, contribution sprint, open source community gathering
+- **Second Week of Each Month · Education Day**: AI popular science entering campuses, parent-child AI experience day, university open days
+- **Third Week of Each Month · Art Day**: Public art guided tours, AI art exhibitions, cross-border art workshops
+- **Fourth Week of Each Month · Health Day**: Innovation belt healthy run, sports tech experience, mental health lectures
+
+#### 10.5.4 Day-Night Level: Daily Operation Vitality
+
+Day-night level activities are the most basic unit of the innovation belt's vitality, permeating the daily use of space, so that the innovation belt has different functions and atmospheres from morning to night, achieving the goal of a "24-hour vitality belt".
+
+**Daily Vitality Schedule**:
+
+| Time Period | Vitality Theme | Main Activities/Functions | Core Spaces | Target Population |
+|------------|---------------|--------------------------|-------------|------------------|
+| **6:00-8:00 Morning Awakening** | Morning Exercise Vitality | Running, cycling, Tai Chi, morning reading | Heritage park greenway, plazas | Morning exercisers, surrounding residents |
+| **8:00-10:00 Commute** | Commute Efficiency | Commute connection, breakfast outdoor stalls, coffee pickup | Slow traffic system, block entrances | Office workers, students |
+| **10:00-12:00 Work** | Innovation Exchange | Outdoor office, business negotiation, small meetings | Innovation courts, shared spaces | Office workers |
+| **12:00-14:00 Noon** | Midday Vitality | Lunch, pop-up performances, midday concerts, walking | Food blocks, central plaza | All populations |
+| **14:00-17:00 Afternoon** | Stable Operation | Afternoon tea, roadshows, exhibition visits, experience activities | Cafes, exhibition halls, experience zones | Office workers, visitors |
+| **17:00-19:00 Dusk** | Transition | Off-duty, fitness, dating, sunset viewing | Running paths, landscape nodes | Off-duty crowd, citizens |
+| **19:00-21:00 Night** | Nighttime Leisure | Dining, bars, night running, performances, night market | Commercial streets, plazas, greenways | All populations |
+| **21:00-24:00 Late Night** | Night Continues | 24h study rooms, late-night office, stargazing, quiet gardens | 24-hour spaces, stargazing nodes | Entrepreneurs, night owls |
+
+**Day-Night Level Operation Guarantee**:
+- **Space Time-sharing Management**: The same space switches different functions at different time periods, realized through movable facilities
+- **Smart Scheduling System**: Dynamically adjust security, cleaning, and facility configuration based on pedestrian flow data
+- **Safety Guarantee System**: 24-hour security patrol, intelligent monitoring, emergency response mechanism
+- **Night Economy Support**: Provide subsidies and policy support for merchants operating at night
+
+#### 10.5.5 International Exchange Event System
+
+As a globally influential AI innovation highland, the innovation belt establishes a multi-level and multi-channel international exchange event system, building an important node in the global AI innovation network.
+
+**Flagship International Events**:
+- **Global AI Innovation City Summit**: Held annually, inviting representatives of major AI innovation cities worldwide to discuss urban development in the AI era
+- **International AI Innovation District Alliance Annual Meeting**: Jointly with world-renowned AI innovation districts, establish cooperation mechanisms and share development experience
+- **Jing-Zhang International AI Forum**: High-level academic forum, inviting world's top AI scientists and industry leaders
+
+**Normalized International Exchanges**:
+- **International Scholar Visiting Program**: Invite 50+ international scholars annually for short-term visits and collaborative research in the innovation belt
+- **International Youth AI Training Camp**: Training and exchange program for global young AI talents
+- **International Enterprise Matchmaking Meetings**: Regularly hold multinational enterprise matchmaking activities to promote international industrial cooperation
+- **AI Enterprise Global Tour**: Organize innovation belt enterprises to go global and participate in international exhibitions and exchange activities
+
+**International Cooperation Mechanisms**:
+- Establish friendly cooperative relations with 10+ world-renowned AI innovation districts
+- Set up an international cooperation office, specifically responsible for international exchange and cooperation affairs
+- Establish an international advisory committee, hiring internationally renowned experts as advisors
+- Participate in international AI governance and standard-setting, making China's voice heard
+
+> **Note**: The above global AI event system is a conceptual planning recommendation. The actual holding time, scale, and form of events need to be specifically arranged according to the actual situation and relevant regulations at that time. The development of international exchange activities must comply with national foreign affairs management regulations and relevant policy requirements.
 
 ---
 
