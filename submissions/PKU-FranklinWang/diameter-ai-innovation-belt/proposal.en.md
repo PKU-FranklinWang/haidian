@@ -6,20 +6,21 @@ proposal_format_version: "2"
 bilingual_contract_version: "1"
 translation_file: "proposal.md"
 license: "COMMUNITY-DISPLAY-ONLY"
-summary: "Rooted in the historical heritage of 'Centennial Jingzhang', structured around the spatial innovation of the 'Central Axis - Diameter' paradigm, and powered by the era-defining feature of 'AI empowerment', this proposal trinity constructs the 'Centennial Jingzhang · Diameter Axis' AI Innovation Belt. It proposes the 'Central Axis - Diameter' innovation spatial paradigm, using the Jing-Zhang Railway Heritage Park as a carrier to form an AI innovation central axis that stands in east-west symmetry with Beijing's traditional central axis, building a spatial structure of 'One Diameter · Three Cores · Two Rings · Multiple Courts'. Based on New Spatial Economics as the theoretical foundation and the six-dimensional goals of the people's city as value guidance, integrating the cultural imagery of the Big Dipper pointing north and tracing origins to inspire innovation, and incorporating the four-tier temporal design of seasons · day-night · weekly rhythm · annual rings, it aims to create a world-class AI innovation ecosystem and a modern people-oriented city demonstration belt."
+summary: "Rooted in the historical heritage of 'Centennial Jingzhang', structured around the spatial innovation of the 'Central Axis - Diameter' paradigm, and powered by the era-defining feature of 'AI empowerment', this proposal trinity constructs the 'Centennial Jingzhang · Diameter Axis' AI Innovation Belt. Guided by the causal chain of New Spatial Economics — 'spatial quality enhancement → dynamic talent agglomeration → industrial innovation development' — as its theoretical mainline, it proposes the 'Central Axis - Diameter' spatial economic paradigm, using the Jing-Zhang Railway Heritage Park as a carrier to form an AI innovation central axis that stands in east-west symmetry with Beijing's traditional central axis, building a spatial structure of 'One Diameter · Three Cores · Two Rings · Multiple Courts'. Mapping the six-dimensional goals of the people's city to a six-type spatial quality supply system, integrating the cultural imagery of the Big Dipper pointing north and tracing origins to inspire innovation, and incorporating the four-tier temporal design of seasons · day-night · weekly rhythm · annual rings, it aims to create a world-class AI innovation ecosystem and a modern people-oriented city demonstration belt."
 tracks: ["ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability"]
-iteration: "v2.0"
+iteration: "v2.1"
 ---
 
 # Centennial Jingzhang · Diameter Axis
 ## — AI Innovation Belt Urban Design Proposal
 
 > **Guiding Ideology**: General Secretary Xi Jinping's important concept of "people's city built by the people, people's city for the people"
+> **Theoretical Mainline**: New Spatial Economics causal chain — "spatial quality enhancement → dynamic talent agglomeration → industrial innovation development"
 > **Theoretical Foundation**: Central Urban Work Conference Six-Dimension Modern People's City Framework × Yang Kaizhong's New Spatial Economics
 > **Policy Basis**: National / Beijing / Haidian three-tier "15th Five-Year Plan"
 > **Design Scope**: Centennial Jing-Zhang AI Innovation Belt (Coordinated Research 43.6km² / Overall Design 11.4km² / Key Areas 368.4ha)
-> **Spatial Paradigm**: Diameter-type "One Diameter · Three Cores · Two Rings · Multiple Courts"
+> **Spatial Paradigm**: Diameter-type "One Diameter · Three Cores · Two Rings · Multiple Courts" (Spatial Economic Paradigm: quality gradient drives dynamic talent agglomeration)
 > **Design Concept**: One Vein · Three Qualities · Six Dimensions · Seven Degrees · Tracing Origins to Inspire Innovation
 
 ---
@@ -79,27 +80,57 @@ This proposal takes the New Spatial Economics founded by Professor Yang Kaizhong
 
 #### 1.2.1 Core Theory: New Spatial Economics
 
-1. **Spatial Quality-Driven Innovation Growth Theory** [source:PKU-YANG]
-   - Core proposition: High-quality space promotes knowledge spillover and innovation activities by attracting and agglomerating high-human-capital populations, ultimately driving urban economic growth
-   - Theoretical mechanism: The circular cumulative causation chain of spatial quality → talent agglomeration → knowledge exchange → innovation output → economic growth
-   - Guiding significance for this proposal: Jing-Zhang Railway Heritage Park, as a linear high-quality public space, is the core spatial carrier for attracting AI talents and stimulating innovation vitality
+This proposal takes the New Spatial Economics founded by Professor Yang Kaizhong as its core theoretical foundation. New Spatial Economics breaks through the analytical paradigm of "transportation cost minimization" in traditional urban economics, shifting to a brand-new theoretical perspective of "spatial quality drives innovation growth", providing a systematic theoretical framework for the planning and design of urban innovation spaces in the AI era. Its core logic can be summarized as "three propositions + two mechanisms":
 
-2. **Green-Intelligent Productivity Paradigm** [source:PKU-YANG]
-   - A new form of productivity featuring deep integration of green development and intelligent development
-   - Eco-Intelligent Agent City theory: The city, as a living organism, possesses intelligent characteristics of self-perception, self-learning, self-optimization, and self-evolution
-   - Guiding significance for this proposal: The AI Innovation Belt is not only an industrial agglomeration area, but also an experimental field for green-intelligent integrated Eco-Intelligent Agent City
+**Three Core Propositions**
 
-3. **Three-Dimensional Framework of Spatial Quality** [source:PKU-YANG]
-   - Livable spatial quality: Ecological environment, residential comfort, public service accessibility
-   - Learning spatial quality: Educational resources, cultural atmosphere, knowledge exchange venues
-   - Innovative spatial quality: Entrepreneurship environment, industry-university-research collaboration, innovation community network
-   - Guiding significance for this proposal: From north to south, the diameter innovation axis successively strengthens the quality gradient of learning type (university scientific research), innovation type (entrepreneurship incubation), and industrial type (achievement transformation)
+**Proposition 1: Spatial Quality is the Core Driver of Dynamic Talent Agglomeration** [source:PKU-YANG]
 
-4. **Linear Innovation District Spatial Model** [source:FRANKLIN-2025]
-   - Linear public space serves as the quality spine and interaction bond, maximizing the spatial efficiency of knowledge exchange
-   - "Point-Line-Plane" progressive spatial structure organization: core nodes (points) — linear corridors (lines) — radiation districts (planes)
-   - Knowledge exchange mobility cost minimization principle: reducing interaction costs among innovation subjects through compact and mixed spatial layout
-   - Guiding significance for this proposal: Jing-Zhang Railway Heritage Park, as a linear innovation spine, connects three core nodes and multiple courtyard spaces, constructing an efficient innovation network
+In the innovation-driven development stage, the core of urban competition has shifted from traditional production factors such as land, labor, and capital to the attractiveness of spatial quality to high-human-capital populations. As the ultimate form of knowledge-intensive industries, the core production factor of the AI industry is talent; and the location choice and mobility decisions of talents are increasingly influenced by urban spatial quality — including ecological environment, cultural atmosphere, life convenience, social richness and other multi-dimensional quality factors.
+
+This proposition fundamentally reconstructs the "talent attraction logic": the marginal benefit of the traditional planning model of "static talent introduction" relying on policy subsidies is diminishing, while the "dynamic agglomeration" model centered on spatial quality supply is the sustainable talent strategy. **Talents are not "introduced" — they are "attracted" by high-quality spatial environments and spontaneously agglomerate.**
+
+Guiding significance for this proposal: Jing-Zhang Railway Heritage Park, as a continuous high-quality public space extending 6.2 kilometers, is the core quality supply source for attracting dynamic agglomeration of AI talents. By continuously supplying diverse quality elements such as ecology, culture, and exchange through linear space, it builds sustained attractiveness for AI R&D talents, entrepreneurs, and engineers, forming a circular cumulative causation effect of "quality enhancement → talent inflow → further quality enhancement".
+
+**Proposition 2: Minimizing Spatial Transaction Costs of Knowledge Exchange is the Key to Innovation Efficiency** [source:PKU-YANG]
+
+The core mechanism of innovation is the flow, collision, and recombination of knowledge, especially face-to-face exchange of tacit knowledge. The efficiency of knowledge exchange largely depends on spatial organization — the closer the spatial distance, the richer the exchange scenarios, and the lower the mobility cost, the higher the frequency and quality of knowledge spillovers.
+
+New Spatial Economics takes the "spatial transaction cost of knowledge exchange" as its core analytical variable: including the time cost of movement, the search cost of exchange, the adaptation cost of scenarios, etc. Compact spatial layout, mixed functional composition, and a hierarchical exchange venue system can systematically reduce the spatial transaction cost of knowledge exchange and improve the density and quality of innovation output.
+
+Guiding significance for this proposal: Through the spatial organization of "one diameter stringing three cores, dual rings connecting multiple courts", the diameter-type spatial structure closely arranges innovation subjects such as universities and research institutes, R&D institutions, startup enterprises, investment institutions, and service platforms along the linear corridor, greatly shortening the physical distance between innovation subjects. In particular, linear innovation districts support the informal knowledge exchange mode of "exchanging while walking" — which is one of the most important channels for creative generation and interdisciplinary collision.
+
+**Proposition 3: Circular Cumulative Causation — Positive Feedback Between Talent Agglomeration and Spatial Quality Enhancement** [source:PKU-YANG]
+
+The relationship between spatial quality and talent agglomeration is not one-way causation, but bidirectional circular cumulative causation: spatial quality enhancement attracts more high-human-capital talents to agglomerate, and the agglomeration of high-human-capital talents in turn promotes further improvement of spatial quality (such as upgrading demand for public services, consumption support for cultural facilities, participation and empowerment in community governance), forming a positive feedback cycle of "better quality → more talents → better quality".
+
+This proposition reveals the "endogenous growth mechanism" of innovation district development: once a certain critical mass is crossed, the innovation district will enter a self-reinforcing growth track without continuous reliance on external policy injection. The core task of planning and design is to help the region cross this critical threshold through the initial supply of high-quality space.
+
+Guiding significance for this proposal: The spatial design of the Diameter Intelligence Axis takes Jing-Zhang Railway Heritage Park as the initial quality anchor, gradually releasing high-quality spatial supply along the axis, and progressively accumulating talent density. The ultimate goal is to propel the entire innovation belt to enter the circular cumulative causation track of talent and quality, realizing self-organized evolution and sustainable growth of the innovation ecosystem.
+
+**Two Spatial Economic Mechanisms**
+
+**Mechanism 1: Contact Efficiency Advantage of Linear Space — Corridor Mode vs. Node Mode** [source:FRANKLIN-2025]
+
+From the perspective of the spatial efficiency of knowledge exchange, the linear corridor mode is significantly superior to the point-like agglomeration mode. Its economic logic lies in:
+
+- **Maximized contact interface**: Linear space has a longer contact interface than point-like space, can benefit more building interfaces and functional blocks, and has higher spatial penetration of quality supply.
+- **Maximized chance encounter probability**: In linear corridors, people flowing in different directions naturally generate face-to-face encounter opportunities, and such "encounters in flow" are an important source of informal knowledge exchange.
+- **Structured reduction of mobility costs**: All nodes along the linear corridor share the same quality spine, and the exchange path between any two nodes is naturally minimized, enabling point-to-point communication without detours.
+
+The unique geometric advantage of the diameter-type layout further strengthens this mechanism: within a circular or quasi-circular research scope, the diameter is the longest chord, meaning the maximum coverage of linear space; meanwhile, the midpoint of the diameter (AI Origin) has the shortest distance to both ends, meaning the highest accessibility of the core exchange node.
+
+**Mechanism 2: Dynamic Agglomeration Driven by Gradient Differences — Quality Gradient → Talent Flow → Innovation Diffusion** [source:FRANKLIN-2025]
+
+Dynamic talent agglomeration is not uniformly distributed, but flows along the quality gradient. Different types and developmental stages of innovative talents have systematic differences in their preferences for spatial quality: research talents prefer learning-oriented quality (academic atmosphere, quiet environment), entrepreneurial talents prefer innovation-oriented quality (exchange density, entrepreneurial services), and industrial talents prefer industry-oriented quality (business support, industrial chain completeness).
+
+The quality gradient of "learning-oriented → innovation-oriented → industry-oriented" formed along the diameter axis not only corresponds to the spatial organization of the innovation chain, but also creates a "quality differential" for talent flow — talents flow between different nodes due to changes in quality preferences, and knowledge spillovers and innovation diffusion occur during the flow process. This dynamic talent flow based on quality gradients is the "blood circulatory system" of the innovation ecosystem.
+
+Guiding significance for this proposal: The three-core gradient configuration of Collective Intelligence Park (learning-oriented quality) → AI Origin (innovation-oriented quality) → Dazhongsi (industry-oriented quality) essentially provides differentiated quality supply for different types of AI talents, while achieving efficient flow and knowledge transfer of talents between different quality nodes through the linear corridor.
+
+**Extended Application of the Green-Intelligent Productivity Paradigm** [source:PKU-YANG]
+
+The concept of "Green-Intelligent Productivity" proposed by New Spatial Economics points out that the deep integration of green development and intelligent development is giving birth to a new form of productivity. Eco-Intelligent Agent City theory regards the city as an intelligent living organism with self-perception, self-learning, self-optimization, and self-evolution capabilities. The Jing-Zhang AI Innovation Belt is not only an industrial agglomeration area, but also an experimental field for green-intelligent integrated Eco-Intelligent Agent City — taking Jing-Zhang Railway Heritage Park, this green infrastructure, as the spatial carrier, and AI technology as the intelligent core, realizing intelligent operation of green space and green application of intelligent technology.
 
 #### 1.2.2 Value Guidance: Important Concept of the People's City
 
@@ -281,98 +312,135 @@ Establish a quantifiable, monitorable, and iterable spatial quality assessment s
 
 ## Chapter 3 Industry and Future City Research for Coordinated Research Scope
 
-### 3.1 Development Concept: New Spatial Economics Practice Under the Guidance of People's City Concept
+### 3.1 Development Vision: Six-Dimension Quality Supply System Based on New Spatial Economics
 
-#### 3.1.1 Fundamental Guideline of the People's City Concept
+The methodological core of this proposal is: taking the causal chain of New Spatial Economics — "spatial quality enhancement → dynamic talent agglomeration → industrial innovation development" — as the mainline, systematically transforming the six-dimensional goals of the people's city into six types of spatial quality supply strategies, and driving talent agglomeration and innovation growth through spatial design means. This section systematically elaborates the development vision framework of this proposal from three levels: theoretical mainline, quality mapping, and supply pathways.
 
-General Secretary Xi Jinping has stated that "the people's city is built by the people and for the people." This important concept profoundly answers the fundamental question of who urban construction and development relies on and who it serves, and is the general guideline for urban work in the new era. The planning and design of the Centennial Jing-Zhang AI Innovation Belt always adheres to the people-centered development ideology, taking the people's aspiration for a better life as the starting point and goal of design.
+#### 3.1.1 Theoretical Mainline: Spatial Quality → Talent Agglomeration → Industrial Innovation
 
-**Core Connotations**:
-- **People's Principal Position**: The fundamental purpose of urban development is to serve the people, and the ultimate judges of spatial quality are the people
-- **Co-construction, Co-governance, and Sharing**: Stimulate the enthusiasm, initiative, and creativity of all types of subjects to jointly build a better home
-- **Systems Thinking Approach**: Coordinate the three major links of planning, construction, and governance to promote systematic transformation of urban development methods
+This proposal takes New Spatial Economics as its core methodology, establishing the three-stage causal logic of "spatial quality enhancement — dynamic talent agglomeration — industrial innovation development" as the theoretical mainline running through the entire proposal:
 
-#### 3.1.2 Six-Dimension Modern People's City Goals
+```
+┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
+│ Spatial Quality     │────→│ Dynamic Talent      │────→│ Industrial Innovation│
+│    Enhancement      │     │    Agglomeration    │     │       Development   │
+│  (Design Means)     │     │  (Intermediate Var.)│     │  (Ultimate Goal)    │
+└─────────────────────┘     └─────────────────────┘     └─────────────────────┘
+       ↑                            │                            │
+       │                            ↓                            │
+       └──── Circular Cumulative Causation ←──┘ ←─── Knowledge Spillover ────┘
+```
 
-The Central Urban Work Conference explicitly proposes building a modern city that is "innovative, livable, beautiful, resilient, civilized, and smart." The six dimensions complement each other and are organically unified, constituting a complete goal system for the people's city:
+**Stage 1: Spatial Quality Enhancement (Design Means)**
 
-| Dimension | Core Connotation | Reflection in This Proposal |
-|-----------|------------------|------------------------------|
-| **Innovation** | Innovation is the primary driving force for development, building an innovative city | AI full-chain innovation ecosystem, three-core innovation nodes, university-local collaborative innovation |
-| **Livable** | Livability is the fundamental goal of urban work, making people's lives better | Multiple living courtyards, 15-minute living circle, talent housing security |
-| **Beautiful** | Beauty is the ecological foundation of the city, building a city where humans and nature coexist harmoniously | Blue-green space system, heritage park vitality belt, sponge city |
-| **Resilient** | Resilience is the bottom line of urban safety, enhancing the city's ability to resist risks | Disaster prevention space system, urban security defense line, emergency support |
-| **Civilized** | Civilization is the spiritual core of the city, inheriting historical context | Jing-Zhang Railway heritage activation, century-old innovation spirit inheritance, public culture |
-| **Smart** | Wisdom is the characteristic of the times, empowering urban governance with technology | AI urban brain, full smart scenario coverage, digital twin foundation |
+Urban design is not an end in itself, but a means of supplying spatial quality. Through the systematic design of the diameter-type spatial structure, this proposal continuously supplies diversified and high-quality urban spatial elements — from ecological environment to cultural atmosphere, from exchange venues to life services, from smart facilities to security guarantees — creating a "pulling force" for talent agglomeration.
 
-#### 3.1.3 Theoretical Support of New Spatial Economics
+Traditional planning regards space as a "container for industry", while this proposal regards space as a "magnet for talent". This shift in perspective is fundamental: the industrial planning logic is "build parks → attract enterprises → gather talents", while the New Spatial Economics logic is "improve quality → gather talents → prosper industry". The reversal of the causal direction means that the starting point of planning and design shifts from serving enterprises to serving talents.
 
-The New Spatial Economics founded by Professor Yang Kaizhong provides the core theoretical method and analytical framework for the spatial design of the Centennial Jing-Zhang AI Innovation Belt. This theory breaks through the analytical paradigm of "transportation cost minimization" in traditional urban economics, shifting to a brand-new theoretical perspective of "spatial quality drives innovation growth", which is highly consistent with the inherent laws of urban development in the AI era.
+**Stage 2: Dynamic Talent Agglomeration (Intermediate Variable)**
 
-**Core Proposition 1: Spatial Quality is the Core Competitiveness of Innovative Cities**
+Talent is the core mediating variable between spatial quality and industrial innovation. High-quality space attracts talent agglomeration, and talent agglomeration brings knowledge spillovers and innovation vitality, which in turn drives industrial development. It is particularly important to emphasize that the talent view of this proposal is "dynamic agglomeration" rather than "static stock":
 
-New Spatial Economics points out that in the innovation-driven development stage, the core of urban competition has shifted from traditional production factors such as land, labor, and capital to the attractiveness of spatial quality to high-human-capital populations. As a typical representative of knowledge-intensive industries, the core production factor of the AI industry is talent; and the location choice of talents is increasingly influenced by urban spatial quality — including ecological environment, cultural atmosphere, life convenience, social richness and other multi-dimensional quality factors.
+- **Flowing talents**: Talents are not "introduced" and then fixed in a certain space, but continuously flow between different quality nodes — from laboratories to incubators, from startup parks to industrial districts, from workspaces to living spaces. Flow itself generates knowledge spillovers.
+- **Differentiated talent preferences**: Different types and developmental stages of AI talents have different preferences for spatial quality, requiring a differentiated quality supply system to attract and retain them.
+- **Critical mass effect**: When talent density crosses a certain critical threshold, it will trigger the positive feedback of knowledge spillovers and enter a self-reinforcing agglomeration track.
 
-The Centennial Jing-Zhang AI Innovation Belt takes Jing-Zhang Railway Heritage Park as its quality spine, precisely based on this theoretical judgment: transforming the 6.2-kilometer linear cultural heritage into high-quality public space, thereby building sustained attractiveness to AI talents, forming a positive cycle of "quality attracts talents — talents promote innovation — innovation prospers industry — industry improves quality".
+**Stage 3: Industrial Innovation Development (Ultimate Goal)**
 
-**Core Proposition 2: Knowledge Exchange Efficiency Determines Innovation Output**
+Dynamic talent agglomeration ultimately promotes industrial innovation development through mechanisms such as knowledge spillovers, startup incubation, and industrial chain self-organization. It is worth noting that industrial innovation development is not "built" by planning, but "emerges" on the basis of talent agglomeration. The role of planning is to create spatial conditions conducive to emergence, rather than presetting and prescribing the form of industry.
 
-New Spatial Economics emphasizes that the exchange and collision of knowledge, especially tacit knowledge, is the core mechanism of innovation output; and the efficiency of knowledge exchange largely depends on the spatial organization mode. Compact spatial layout, mixed functional composition, and rich exchange venues can significantly reduce the cost of knowledge exchange and improve the frequency and quality of innovation occurrence.
+The self-organized evolution of the innovation ecosystem follows the following logic: talents attracted by spatial quality reach critical mass → knowledge spillovers give birth to startup projects → startup projects attract capital and services → successful enterprises drive industrial chain agglomeration → industrial chain agglomeration further enhances spatial quality. This is the complete closed loop of circular cumulative causation.
 
-The design of the diameter-type spatial structure is precisely a spatial response to this proposition: high-density agglomeration of diversified innovation subjects along the linear corridor, configuration of rich formal and informal exchange spaces, construction of a 5-minute innovation exchange circle — walking from office space to exchange venues takes no more than 5 minutes, maximizing the convenience and serendipity of knowledge flow.
+#### 3.1.2 Mapping Framework: Six-Dimension Goals → Six Types of Spatial Quality
 
-**Core Proposition 3: Green-Intelligent Integration is a New Form of Productivity for Future Cities**
+The six-dimensional modern city goals of "innovative, livable, beautiful, resilient, civilized, and smart" proposed by the Central Urban Work Conference provide a value coordinate system for this proposal. This proposal systematically maps the six-dimensional goals into six types of spatial quality, transforming abstract value goals into designable, measurable, and evaluable spatial quality supply strategies:
 
-The concept of "Green-Intelligent Productivity" proposed by New Spatial Economics points out that the deep integration of green ecology and intelligent technology is giving birth to a new form of productivity — it reflects both the ecological value of harmonious coexistence between humans and nature, and the efficiency value empowered by intelligent technology. The two are not simply superimposed, but an organic unity that empowers each other and evolves together.
+| People's City Six Dimensions | Mapped to Spatial Quality Type | Quality Connotation | Corresponding Mechanism in New Spatial Economics |
+|------------------------------|--------------------------------|---------------------|--------------------------------------------------|
+| **Innovation** | Innovation-oriented spatial quality | Entrepreneurial environment, industry-university-research collaboration, innovation community, exchange density | Minimization of knowledge exchange transaction costs → improvement of innovation efficiency |
+| **Livable** | Livable spatial quality | Residential comfort, public services, life convenience, job-housing balance | Livable quality extends talent stay time → improves agglomeration efficiency |
+| **Beautiful** | Beautiful spatial quality | Ecological environment, landscape features, blue-green space, cultural aesthetics | Environmental quality enhances talent attractiveness → expands agglomeration scale |
+| **Resilient** | Resilient spatial quality | Security assurance, disaster prevention and mitigation, emergency response, ecological sponge | Safety quality reduces agglomeration risks → stabilizes talent expectations |
+| **Civilized** | Civilized spatial quality | Cultural inheritance, public art, spiritual identity, community cohesion | Cultural quality enhances identity → increases agglomeration stickiness |
+| **Smart** | Smart spatial quality | Intelligent facilities, digital governance, AI scenarios, data empowerment | Smart quality reduces information costs → accelerates innovation diffusion |
 
-The design of the Jing-Zhang AI Innovation Belt fully implements the green-intelligent integration concept: taking Jing-Zhang Railway Heritage Park, the largest green infrastructure, as the spatial carrier, and AI technology as the intelligent core, realizing intelligent operation of green space and green application of intelligent technology, and exploring the Haidian model of Eco-Intelligent Agent City.
+The theoretical significance of this mapping lies in: it transforms the people's city concept from the level of value advocacy into an operable spatial economic analysis framework. The six-dimensional goals are not a list of parallel slogans, but a synergistic quality supply system — they collectively act on the agglomeration and flow of talents, ultimately serving the fundamental goal of innovation and development.
 
-This proposal deeply integrates the six-dimension goals with the three-quality framework, expanding into a **"six dimensions, seven degrees" indicator system** (People's City Six Dimensions + Spatial Quality Seven Degrees), providing a comprehensive measurement standard for the planning, construction, and governance of the AI Innovation Belt.
+#### 3.1.3 Spatial Supply Pathways for Six Types of Quality
+
+Based on the above mapping framework, this proposal systematically supplies six types of spatial quality through the diameter-type spatial structure. Each type of quality has clear spatial carriers and design strategies:
+
+**Innovation-oriented quality supply**: Taking "One Diameter · Three Cores · Multiple Courts" as the spatial carrier, reducing the mobility cost of knowledge exchange through linear corridors, meeting the spatial needs of different innovation stages through the three-core gradient configuration, and providing hierarchical exchange scenarios through the multi-court system. Design strategies include: 5-minute innovation exchange circle, close layout of industry-university-research space, and high-density embedding of shared spaces.
+
+**Livable quality supply**: Taking "multiple courts" living courtyards and the 15-minute living circle as spatial carriers, reducing commuting time through functional mixing, reducing living costs through talent housing security, and improving life convenience through improved public services. Design strategies include: job-housing balance, walkability, and equal services.
+
+**Beautiful quality supply**: Taking Jing-Zhang Railway Heritage Park vitality belt and the blue-green space system as spatial carriers, maximizing landscape coverage efficiency through linear green corridors, strengthening uniqueness and recognition through heritage cultural landscapes, and extending quality experience time through four-season landscape design. Design strategies include: interwoven blue and green, heritage activation, and scenery in all seasons.
+
+**Resilient quality supply**: Taking the disaster prevention space system and sponge city facilities as spatial carriers, constructing emergency evacuation corridors through linear open spaces, improving rainwater management elasticity through decentralized sponge facilities, and enhancing security assurance through smart security systems. Design strategies include: decentralized buffering, multi-source guarantee, and intelligent early warning.
+
+**Civilized quality supply**: Taking the Jing-Zhang Railway cultural heritage axis and public art system as spatial carriers, shaping identity through the century-old Jing-Zhang historical context, enhancing place spirit through public art, and forging community consensus through innovative cultural activities. Design strategies include: heritage activation, art embedding, and cultural empowerment.
+
+**Smart quality supply**: Taking the AI urban brain and full-scenario smart facilities as spatial carriers, improving spatial operation efficiency through the digital twin base, empowering innovation experience through AI scenarios, and reducing information costs through open data. Design strategies include: all-domain perception, intelligent operation, and data openness.
+
+The six types of quality are not isolated from each other, but form a composite and superimposed quality supply system along the diameter axis. The closer to the core node, the higher the degree of quality superposition, and the stronger the comprehensive attractiveness to talents. This composite quality supply strategy is precisely the concrete practice of the New Spatial Economics theory of "multi-dimensional quality synergistically driving talent agglomeration" in spatial design.
 
 ### 3.2 Three Strategic Positionings
 
-Based on New Spatial Economics theory and the requirements of the three-tier "15th Five-Year Plan", three strategic positionings for the Centennial Jing-Zhang AI Innovation Belt are established:
+Based on the core logic of New Spatial Economics — "spatial quality drives talent agglomeration, talent agglomeration drives industrial innovation" — combined with the six-dimensional goals of the people's city and the requirements of the three-tier "15th Five-Year Plan", starting from **the hierarchy and types of spatial quality supply**, three strategic positionings for the Centennial Jing-Zhang AI Innovation Belt are established. Each positioning corresponds to specific quality supply types, talent agglomeration goals, and innovation output directions.
 
-#### Positioning 1: Haidian Pivot of the National AI Strategy
+#### Positioning 1: National-Level Learning-Oriented + Innovation-Oriented Spatial Quality Supply Highland
 
-**Connotation Interpretation**:
-- Core spatial carrier for the national "AI+" action
-- Important source of national AI basic research and original innovation
-- Testing ground for AI governance system and institutional innovation
-- Haidian's practice of the national sci-tech self-reliance and self-strengthening strategy
-
-**Core Support**:
-- Leveraging Haidian District's AI industry foundation (AI core industry scale exceeded 350 billion yuan in 2024) [metric:haidian-ai-scale]
-- Talent and research support from top universities such as Tsinghua, Peking University, and Beihang
-- Agglomeration of leading AI enterprises such as Baidu, ByteDance, and SenseTime
-- Policy advantages of Zhongguancun National Independent Innovation Demonstration Zone
-
-#### Positioning 2: Core Engine of Beijing-Tianjin-Hebei AI Innovation Coordination
+**(Economic restatement of the original "Haidian Pivot of the National AI Strategy")**
 
 **Connotation Interpretation**:
-- Core growth pole for coordinated development of Beijing-Tianjin-Hebei AI industry
-- Radiation source for technology output and achievement transformation
-- Hub node for talent flow and knowledge exchange
-- Organization center for industrial chain and supply chain coordination
+The core of this positioning is not "building an AI highland", but **constructing a national-level learning-oriented and innovation-oriented spatial quality supply system** — through high-quality academic spaces, research environments, entrepreneurial atmospheres, and exchange scenarios, attracting and agglomerating top AI talents from across the country and even the world. Through knowledge spillovers and innovation incubation of talents, it supports the goal of sci-tech self-reliance and self-strengthening in the national artificial intelligence strategy.
 
-**Core Support**:
-- Beijing's position as the core area of the international sci-tech innovation center
-- Haidian District's positioning as "the departure place of sci-tech innovation, the source of original innovation, and the main front of independent innovation"
-- Innovation linkage with Xiong'an New Area, Tianjin Binhai New Area, etc.
-- Construction of Beijing-Tianjin-Hebei collaborative innovation community
+- **Quality supply type**: Based on learning-oriented spatial quality (university research resources, academic cultural atmosphere), with innovation-oriented spatial quality as the core (entrepreneurial incubation ecosystem, industry-university-research collaboration, knowledge exchange density)
+- **Talent agglomeration goal**: AI scientists, top researchers, young academic talents, serial entrepreneurs
+- **Innovation output direction**: Basic research original innovation, frontier technological breakthroughs, AI for Science interdisciplinary innovation, governance system innovation
+- **Spatial bearing**: Collective Intelligence Park District (core of learning-oriented quality) + AI Origin Community (core of innovation-oriented quality)
 
-#### Positioning 3: Main Bearing Area of Beijing's AI Trillion-Level Industrial Cluster
+**Core Support (New Spatial Economics Interpretation)**:
+- Haidian District has the highest density of AI research talent supply sources in the country (Tsinghua, Peking University, Beihang, etc.), providing a natural foundation for learning-oriented quality — this is the "initial endowment" of dynamic talent agglomeration
+- The industrial foundation of AI core industry scale exceeding 350 billion yuan in 2024 provides market demand and industrial feedback for innovation-oriented quality [metric:haidian-ai-scale]
+- The institutional advantage of Zhongguancun National Independent Innovation Demonstration Zone reduces the institutional transaction cost of innovation and is the "institutional quality" dimension of the spatial quality supply system
+- The agglomeration of leading enterprises such as Baidu, ByteDance, and SenseTime forms an "industrial reservoir" for talent flow, enhancing the resilience of the agglomeration system
+
+#### Positioning 2: Beijing-Tianjin-Hebei Innovation-Oriented + Industry-Oriented Spatial Quality Coordination Hub
+
+**(Economic restatement of the original "Core Engine of Beijing-Tianjin-Hebei AI Innovation Coordination")**
 
 **Connotation Interpretation**:
-- Core bearing space for the AI cluster among Beijing's 5 trillion-level industrial clusters in the "15th Five-Year Plan"
-- Core area for AI full-industry-chain agglomeration
-- Testing ground for AI technology application and scenario innovation
-- Highland for AI talent and innovation factor agglomeration
+The core of this positioning is not "becoming a growth pole", but **constructing a hub node for quality gradient coordination in the Beijing-Tianjin-Hebei region** — through the innovation-oriented and industry-oriented quality supply of the Diameter Intelligence Axis, attracting and transforming innovative talents and research achievements within the Beijing-Tianjin-Hebei range. Through talent flow and knowledge spillovers, it radiates and drives the coordinated development of the regional AI industry.
 
-**Core Support**:
-- Beijing's AI industry foundation (enterprise count, talent scale, and financing volume all rank first in the country)
-- Haidian District's AI industry concentration (accounting for over 60% of the city) [metric:haidian-ai-share]
-- Renewal potential of existing spatial resources along the Jing-Zhang line
+- **Quality supply type**: With innovation-oriented spatial quality as the hub (connecting the north-south quality gradient), with industry-oriented spatial quality as the export (achievement transformation and industrial landing)
+- **Talent agglomeration goal**: Cross-regionally flowing AI R&D talents, technology transformation experts, industrial operation talents
+- **Innovation output direction**: Technology transformation and pilot incubation, industrial chain collaborative innovation, two-way regional talent flow
+- **Spatial bearing**: AI Origin Community (innovation transformation hub) + Dazhongsi District (industrial agglomeration export) + dual-ring collaboration network
+
+**Core Support (New Spatial Economics Interpretation)**:
+- Beijing's position as the core area of the international sci-tech innovation center means the highest level of innovation-oriented quality supply capacity, forming a "quality highland" with both siphon and radiation effects on surrounding areas
+- The diameter-type spatial structure has natural linear connectivity — it can extend northward to the Zhangjiakou computing power base, connect southward to Xiong'an innovation scenarios, and link eastward with Tianjin manufacturing bases, forming quality gradient coordination of "Beijing R&D — Tianjin-Hebei transformation — regional application"
+- Haidian District's triple positioning of "departure place of sci-tech innovation, source of original innovation, and main front of independent innovation" is essentially the composite supply capacity of three types of quality: learning-oriented + innovation-oriented + industry-oriented
+- The dynamic flow of talents within the Beijing-Tianjin-Hebei region is essentially "voting with their feet" for different spatial qualities — the Diameter Intelligence Axis provides the highest level of innovation-oriented quality, naturally becoming a hub node in the regional talent flow network
+
+#### Positioning 3: Beijing's AI Industry-Oriented + Smart-Oriented Spatial Quality Main Supply Area
+
+**(Economic restatement of the original "Main Bearing Area of Beijing's AI Trillion-Level Industrial Cluster")**
+
+**Connotation Interpretation**:
+The core of this positioning is not "introducing enterprises and forming clusters", but **constructing Beijing's highest-energy industry-oriented and smart-oriented spatial quality supply system** — through high-quality industrial supporting facilities, business services, application scenarios, and smart facilities, attracting AI industrial talent agglomeration. Through the centripetal force effect of talent agglomeration, it attracts innovation subjects to layout, ultimately supporting the formation of Beijing's AI trillion-level industrial cluster.
+
+- **Quality supply type**: With industry-oriented spatial quality as the leading factor (industrial chain completeness, business support level, application scenario richness), with smart-oriented spatial quality as the feature (AI scenario empowerment, digital infrastructure, smart governance level)
+- **Talent agglomeration goal**: AI industrial engineering talents, product managers, industry solution experts, operation management talents
+- **Innovation output direction**: AI industrialization scale growth, industry application innovation, AI + real economy integration
+- **Spatial bearing**: Dazhongsi District (core of industry-oriented quality) + smart scenarios along the entire line (smart-oriented quality supply)
+
+**Core Support (New Spatial Economics Interpretation)**:
+- Beijing's AI industry foundation (enterprise count, talent scale, and financing volume all rank first in the country) provides the demand foundation and initial conditions for self-organized evolution of industry-oriented quality
+- Haidian District's AI industry concentration (accounting for over 60% of the city) means the initial agglomeration density of industrial talents is approaching critical mass [metric:haidian-ai-share]
+- The renewal potential of existing spatial resources along the Jing-Zhang line provides the spatial carrier for continuous improvement of industry-oriented quality — gradually releasing high-quality industrial space through stock renewal to match the growing demand of industrial talents
+- The improvement of industry-oriented quality will further attract talents, and talent agglomeration will attract more enterprise layout, forming a circular cumulative causation effect of "quality → talent → industry → quality", ultimately supporting the realization of the trillion-level industrial cluster goal
 
 ### 3.3 Five Core Functions
 
@@ -763,18 +831,63 @@ By 2030, the Centennial Jing-Zhang AI Innovation Belt will be built into:
 
 The "Central Axis - Diameter" innovation spatial paradigm proposed in this proposal is not only applicable to the specific scenario of the Centennial Jing-Zhang AI Innovation Belt, but also has universal theoretical value and promotion significance. As an urban innovation spatial organization model based on New Spatial Economics, it responds to the core proposition of urban innovation spatial organization in the AI era — how to achieve maximum innovation agglomeration effect with minimal spatial cost under the constraint of stock space.
 
+Evolving from a spatial paradigm to a **spatial economic paradigm**: The diameter innovation paradigm is not only a spatial organization method, but also a set of innovation growth mechanisms based on New Spatial Economics. It takes "spatial quality enhancement → dynamic talent agglomeration → industrial innovation development" as the core causal chain, and through the design of the diameter-type spatial structure, systematically reduces the spatial transaction cost of knowledge exchange and drives the self-organized evolution of the innovation ecosystem.
+
 #### 3.8.1 Paradigm Definition and Core Characteristics
 
-The "Central Axis - Diameter" innovation paradigm refers to an innovation spatial organization model that takes a high-quality linear public space as the urban innovation central axis, connecting innovation nodes, industrial blocks, and living districts along the axis, forming a symmetrically balanced, bidirectionally empowered, and gradiently growing innovation spatial pattern.
+The "Central Axis - Diameter" innovation paradigm refers to an innovation spatial organization model that takes a high-quality linear public space as the urban innovation central axis, connecting innovation nodes, industrial blocks, and living districts along the axis, forming a symmetrically balanced, bidirectionally empowered, and gradiently growing innovation spatial pattern. Its underlying logic is the "quality - talent - innovation" causal chain of New Spatial Economics.
 
 **Core characteristics include:**
 
 - **Axial Symmetry**: Taking the linear public space as the diameter axis, the functions on both sides are symmetrically complementary and the landscape is evenly distributed, forming a spatial image with a strong sense of order and direction. Different from traditional urban central axes that center on ritual system and symbolism, the diameter innovation axis centers on efficiency and vitality, maximizing spatial utilization efficiency and innovation exchange density through symmetrical layout.
-- **Linear Quality Supply**: Continuously supplying high-quality public spaces along the axis — including green spaces, plazas, cultural facilities, exchange venues, etc. — forming an innovation atmosphere of "changing scenery with each step, innovation everywhere". Linear space has a longer contact interface and higher quality penetration rate than point-like space.
-- **Gradient Functional Organization**: Forming a functional gradient of "source — incubation — acceleration — industry" along the axis, corresponding to each link of the innovation chain. The functional gradient corresponds one-to-one with spatial positions, giving knowledge flow clear directionality and continuity, reducing cross-link communication friction.
-- **Dual-Ring Ecological Support**: Forming an industry-university-research collaboration ring and a scenario application ring on both sides of the main diameter, empowering the innovation axis from the knowledge supply side and the demand traction side respectively, constructing a complete innovation ecosystem of "one diameter leading, dual rings supporting".
+- **Linear Quality Supply**: Continuously supplying high-quality public spaces along the axis — including green spaces, plazas, cultural facilities, exchange venues, etc. — forming an innovation atmosphere of "changing scenery with each step, innovation everywhere". Linear space has a longer contact interface and higher quality penetration rate than point-like space, which is the spatial realization of New Spatial Economics' "linear contact efficiency advantage".
+- **Gradient Functional Organization**: Forming a functional gradient of "source — incubation — acceleration — industry" along the axis, corresponding to each link of the innovation chain. The functional gradient corresponds one-to-one with spatial positions, giving knowledge flow clear directionality and continuity, reducing cross-link communication friction. From the perspective of New Spatial Economics, this gradient is essentially **a talent flow gradient driven by quality gradient**.
+- **Dual-Ring Ecological Support**: Forming an industry-university-research collaboration ring and a scenario application ring on both sides of the main diameter, empowering the innovation axis from the knowledge supply side and the demand traction side respectively, constructing a complete innovation ecosystem of "one diameter leading, dual rings supporting". The economic significance of the dual rings lies in transforming one-way flow into circular flow, enhancing system resilience and self-organization capacity.
 
-#### 3.8.2 Comparison with the Traditional Central Axis Model
+#### 3.8.2 Economic Principles of the Paradigm
+
+The economic foundation of the "Central Axis - Diameter" innovation paradigm is the systematic application of the three propositions and two mechanisms of New Spatial Economics at the spatial level. Its economic principles can be summarized in the following five aspects:
+
+**Principle 1: Scale Effect of Linear Quality Supply**
+
+The diameter-type linear space, as the "spine" of quality supply, has obvious economies of scale characteristics: building a high-quality linear space can simultaneously benefit a large number of building interfaces and functional blocks on both sides, and the marginal cost of quality supply decreases with increasing length. It is estimated that within 500 meters on both sides of the 9-kilometer diameter axis, it can serve about 150,000 innovative employees, and the per capita quality supply cost is much lower than the point-like park model.
+
+**Principle 2: Law of Diminishing Knowledge Exchange Distance**
+
+The efficiency of knowledge exchange has a non-linear diminishing relationship with spatial distance — the closer the distance, the exponentially increasing the exchange frequency. The diameter-type layout closely arranges innovation subjects along the linear corridor, compressing most exchange distances within a 5-15 minute walking range, thereby systematically improving the frequency and quality of knowledge spillovers. This is the spatial realization of the New Spatial Economics proposition of "minimizing the spatial transaction cost of knowledge exchange".
+
+**Principle 3: Dynamic Agglomeration Driven by Gradient Differences**
+
+The diameter axis forms a quality gradient of "learning-oriented → innovation-oriented → industry-oriented" along the north-south direction, creating a "quality differential" for talent flow. Talents flow between different nodes due to changes in quality preferences, and the flow process itself generates knowledge spillovers. This dynamic talent flow based on quality gradients has more innovative vitality than static talent distribution — flowing talents carry knowledge and transmit it between different nodes, promoting the connection and feedback of all links in the innovation chain.
+
+**Principle 4: Innovation Multiplier Effect of Bidirectional Flow**
+
+The "bidirectional gradient" feature of the diameter structure (learning-oriented quality is strongest at the northern end, industry-oriented quality is strongest at the southern end) makes talent flow bidirectional: research talents go south to participate in industrial transformation, and industrial talents go north to seek technological sources. Bidirectional flow generates more knowledge collisions and cross-innovation opportunities than unidirectional flow, having an innovation multiplier effect. This is the core economic advantage of the diameter structure that distinguishes it from the traditional "one axis with multiple centers" (unidirectional gradient).
+
+**Principle 5: Self-Organized Evolution of Circular Cumulative Causation**
+
+The ultimate goal of the diameter paradigm is to promote the region to cross the critical mass of talent agglomeration through initial spatial quality supply, entering the circular cumulative causation track of "quality enhancement → talent agglomeration → innovation growth → further quality enhancement". Once entering the self-organized evolution stage, the innovation ecosystem will have endogenous growth momentum without continuous reliance on external policy injection.
+
+#### 3.8.3 Comparison with Traditional Spatial Development Theories: Transcendence from the Perspective of New Spatial Economics
+
+The diameter innovation paradigm is built on the basis of traditional spatial development theories, but achieves important transcendence in core logic. The following compares three classical spatial development theories from the perspective of New Spatial Economics:
+
+| Theory | Core Logic | Driving Mechanism | Spatial Form | Transcendence of the Diameter Paradigm |
+|--------|------------|-------------------|--------------|----------------------------------------|
+| **Growth Pole Theory** (Perroux) | Polarization effect + diffusion effect | Industrial agglomeration drives growth | Point-like growth pole radiation | Transcending the "industry-driven" logic and shifting to the "quality-driven" logic; the growth pole is the result of enterprise agglomeration, while the diameter paradigm is the result of talent agglomeration |
+| **Point-Axis Development Theory** (Lu Dadao) | Point-axis-plane progressive diffusion | Transportation corridors drive development | Point-axis spatial structure | Transcending the "transportation-driven" logic and shifting to the "quality-driven" logic; the function of the axis is upgraded from a transportation channel to a quality spine + exchange corridor |
+| **Industrial Cluster Theory** (Porter) | Diamond model + external economy | Enterprise geographical proximity | Industrial agglomeration zone | Transcending the "enterprise cluster" perspective and shifting to the "talent agglomeration + knowledge spillover" perspective; the core of the cluster is upgraded from enterprise proximity to talent flow and knowledge exchange |
+| **Diameter Innovation Paradigm** (This Proposal) | Quality → Talent → Innovation | Spatial quality drives dynamic talent agglomeration | Diameter-type linear innovation space | Systematic integration from the perspective of New Spatial Economics: taking quality as the traction, talent as the core, knowledge spillover as the mechanism, and self-organization as the goal |
+
+Specifically, the diameter paradigm achieves transcendence in the following three aspects:
+
+1. **From "transportation cost" to "exchange cost"**: Traditional theories focus on minimizing freight transportation costs (such as industrial location theory, point-axis development theory), while the diameter paradigm focuses on minimizing knowledge exchange costs. In the AI era, the transportation (exchange) cost of knowledge is more important than the transportation cost of goods.
+
+2. **From "enterprise agglomeration" to "talent agglomeration"**: The analytical unit of traditional theories is the enterprise (industrial clusters, growth poles are all enterprise-level concepts), while the analytical unit of the diameter paradigm is talent — talent is the carrier of knowledge, talent flow is the way of knowledge spillover, and talent agglomeration is the root of innovation vitality. Enterprises are attracted by talents, not recruited by policies.
+
+3. **From "top-down planning" to "self-organized evolution"**: The implicit logic of traditional theories is the top-down path of "planning and construction → industrial development", while the logic of the diameter paradigm is the bottom-up path of "quality supply → talent agglomeration → ecosystem self-organized emergence". The role of planning shifts from "designing industry" to "creating conditions".
+
+#### 3.8.4 Comparison with the Traditional Central Axis Model
 
 The diameter innovation paradigm inherits the spatial wisdom of China's traditional urban central axis, but achieves contemporary translation in value orientation, functional logic, and operating mechanism:
 
@@ -786,10 +899,11 @@ The diameter innovation paradigm inherits the spatial wisdom of China's traditio
 | Driving Mechanism | Top-down power construction | Bottom-up innovation emergence |
 | Cultural Connotation | Unity of heaven and humanity, ritual civilization | Tracing origins to inspire innovation, wisdom creates the future |
 | Service Objects | National governance and citizen life | Innovation population and industrial ecosystem |
+| Economic Foundation | Administrative resource allocation efficiency | Minimization of knowledge exchange transaction costs |
 
 The paradigm evolution from the traditional central axis to the diameter innovation axis is essentially a reflection of the transformation of urban development driving force from "administrative-driven" to "innovation-driven" in spatial form. Beijing, as a "dual central axis" city with both a traditional central axis and an innovation diameter, will form a unique urban spatial pattern of "one ancient and one modern, one cultural and one technological, symmetrically symbiotic".
 
-#### 3.8.3 Applicability Conditions and Promotion Value
+#### 3.8.5 Applicability Conditions and Promotion Value
 
 **Applicability Conditions**:
 - The city has linear infrastructure heritage that can be renovated and utilized (railways, river channels, elevated roads, etc.)
@@ -803,7 +917,7 @@ The paradigm evolution from the traditional central axis to the diameter innovat
 - **Cultural inheritance and innovation**: Transforming industrial heritage or historical corridors into innovation spines, realizing a time-space dialogue between historical memory and future development
 - **Replicable and promotable**: The paradigm has clear spatial organization logic and quantifiable quality evaluation system, facilitating other cities to carry out adaptive applications according to their own conditions
 
-#### 3.8.4 Strategic Significance of Beijing's Dual Central Axis Pattern
+#### 3.8.6 Strategic Significance of Beijing's Dual Central Axis Pattern
 
 Beijing's traditional central axis (Yongdingmen — Bell and Drum Towers) represents the ritual order and cultural accumulation of five thousand years of Chinese civilization; while the Jing-Zhang AI Innovation Diameter Axis represents China's innovation confidence and future exploration as it moves toward the AI era. The two axes face each other east-west, echoing ancient and modern, together constituting Beijing's dual-wheel-driven spatial pattern of "cultural ancient capital + innovative famous city".
 
@@ -937,7 +1051,7 @@ From the perspective of Beijing's city-wide innovation spatial pattern, the Diam
 | **Governance Experimental Field** | Moderate scope and diverse ownership, suitable for institutional innovation pilots | Piloting governance models first, and promoting to the region after maturity |
 
 **Regional Synergy Spatial Pattern Schematic**:
-- Taking the Diameter Intelligence Axis as the north-south main ridge, connecting Zhongguancun Science City in the west and Xueyuan Road Innovation Belt in the east, forming a "丰" (abundance) shaped regional innovation structure
+- Taking the Diameter Intelligence Axis as the north-south main ridge, connecting Zhongguancun Science City in the west and Xueyuan Road Innovation Belt in the east, forming a "丰" (abundance) shaped regional innovation structure — note: the Chinese character "丰" symbolizes abundance and the multi-axis intersection pattern
 - The north-south innovation corridor from Future Science City in the north to E-Town in the south, together with the Diameter Intelligence Axis, constitutes a "double vertical" pattern
 - Huairou Science City links with the main urban area through the Jingshen/Jingtong direction corridor, and the Diameter Intelligence Axis is its "first stop" into the central city
 
@@ -985,25 +1099,62 @@ Build an industrial system of "one main, two wings, multiple supports":
 
 #### 4.2.1 Overall Layout: One Diameter · Three Cores · Two Rings · Multiple Courts
 
-With the Jing-Zhang Innovation Diameter as the spine, three core districts as nodes, east-west dual rings as support, and multiple innovation courtyards as infill, forming a spatial structure with appropriate density and clear hierarchy.
+Taking the causal chain of New Spatial Economics — "spatial quality → dynamic talent agglomeration → industrial innovation" — as the design logic, with the Jing-Zhang Innovation Diameter as the quality spine, three core districts as gradient quality nodes, east-west dual rings as circular reflux support, and multiple innovation courtyards as meso-level exchange infill, forming a spatial structure with appropriate density and clear hierarchy. Each structural element corresponds to a specific spatial economic mechanism.
 
-![Diameter-type Spatial Structure Diagram](assets/figures/01_spatial_structure_diagram.png)
+![Diameter-type Spatial Structure Diagram](assets/figures/land-use-structure.png)
 
-**Spatial Structure Interpretation**:
+**Spatial Structure Interpretation (Economic Perspective)**:
 
-| Structural Element | Spatial Form | Functional Connotation | Design Key Points |
-|-------------------|--------------|------------------------|-------------------|
-| **One Diameter** | 9km north-south linear space | Innovation hub, social bond, ecological corridor | Seven cross-sections, 500m node density, full tree-lined coverage |
-| **Three Cores** | Three district-level cores | Three functional polar cores, gradient progression | Differentiated positioning, coordinated development, distinctive features |
-| **Two Rings** | Two symmetric east-west circles | Industry-University-Research Vitality Ring + Scenario Life Ring | Complementary functions, east-west echo, symmetric layout |
-| **Multiple Courts** | Micro-spaces scattered along the line | Innovation interaction, rest and stay, event hosting | 300-500m spacing, varied themes, changing scenery with each step |
+| Structural Element | Spatial Form | Economic Function | New Spatial Economics Mechanism | Design Key Points |
+|-------------------|--------------|-------------------|----------------------------------|-------------------|
+| **One Diameter** | 9km north-south linear space | Quality spine, talent flow corridor, knowledge spillover trunk | Contact efficiency advantage of linear space (maximized contact interface, maximized chance encounter probability, structured reduction of mobility costs) | Seven cross-sections, 500m node density, full tree-lined coverage |
+| **Three Cores** | Three district-level cores | Talent agglomeration polar cores, quality gradient nodes, innovation ecological niches | Dynamic agglomeration driven by gradient differences (learning-oriented → innovation-oriented → industry-oriented quality gradient) | Differentiated positioning, coordinated development, distinctive features |
+| **Two Rings** | Two symmetric east-west circles | Talent reflux mechanism, system resilience guarantee, dual-end empowerment | Spatialization of circular cumulative causation (not unidirectional flow but circular flow, enhancing system resilience) | Complementary functions, east-west echo, symmetric layout |
+| **Multiple Courts** | Micro-spaces scattered along the line | Meso-level exchange nodes, mobility cost reducers, density regulators | Minimization of spatial transaction costs of knowledge exchange (exchange scenarios of different densities) | 300-500m spacing, varied themes, changing scenery with each step |
+
+**Economic Logic of "One Diameter": Efficiency Advantage of Diameter-Type Structure**
+
+Why is the diameter-type structure better than the traditional "one axis with multiple centers"? From the perspective of New Spatial Economics, its core advantages lie in:
+
+- **Flow diversity of bidirectional gradients**: The diameter structure creates a north-south bidirectional quality gradient (learning-oriented quality is strongest at the northern end, industry-oriented quality is strongest at the southern end), and talent flow is therefore bidirectional — there is not only the southward flow of "from research to industry", but also the northward flow of "returning to research sources with industrial problems". Bidirectional flow generates more knowledge collisions than unidirectional flow.
+- **Optimal coverage and efficiency of diameter geometry**: Within the research scope, the diameter is the longest chord in a circle — this means the maximum coverage of linear quality space, benefiting the most building interfaces and functional blocks; meanwhile, the midpoint of the diameter (AI Origin) has the shortest distance to both ends — this means the highest accessibility of the core exchange node and the lowest spatial transaction cost of knowledge exchange.
+- **Maximized contact probability of symmetric layout**: Symmetrically arranging the functional zones on both sides along the diameter axis enables innovation subjects on both east and west sides to access the main axis quality space at the shortest distance, maximizing spatial contact efficiency.
+
+**Economic Logic of "Three Cores": Talent Flow Driven by Quality Gradient**
+
+The three cores (Collective Intelligence Park — AI Origin — Dazhongsi) are not simply functional divisions, but a **spatial quality gradient sequence** formed along the diameter axis, corresponding to different stages of dynamic talent agglomeration:
+
+- **North Core · Collective Intelligence Park (learning-oriented quality-led)**: Relying on university research resources, it supplies the highest density of learning-oriented spatial quality, attracting research talent agglomeration, and is the source of knowledge spillovers and the starting point of talent flow.
+- **Central Core · AI Origin (innovation-oriented quality-led)**: Supplying the highest density of innovation-oriented spatial quality, it is the intersection and converter of learning-oriented and industry-oriented quality, attracting entrepreneurial talent agglomeration, and is the core of innovation incubation and the hub of talent flow.
+- **South Core · Dazhongsi (industry-oriented quality-led)**: Supplying the highest density of industry-oriented spatial quality, attracting industrial talent agglomeration, it is the terminal of achievement transformation and the "sink point" of talent flow, while reverse-pulling knowledge production at the northern end through industrial chain demand.
+
+This gradient configuration creates a "quality differential" for talent flow — talents flow between different nodes due to changes in quality preferences, and the flow itself is the process of knowledge spillover.
+
+**Economic Logic of "Two Rings": Circular Flow and System Resilience**
+
+The dual rings are not simply "functional supplements", but **circular reflux mechanisms** that ensure the sustainability of dynamic talent agglomeration:
+
+- **West Ring · Industry-University-Research Vitality Ring**: Connecting universities, research institutes, laboratories, and incubators, forming a small cycle of knowledge production of "basic research → applied research → technology incubation", continuously supplying knowledge sources and research talents for the innovation axis.
+- **East Ring · Scenario Life Ring**: Connecting application scenarios, community life, commercial services, and cultural and sports facilities, forming a small cycle of demand feedback of "scenario verification → life services → consumption support", providing demand traction and life quality support for the innovation axis.
+
+The economic significance of the dual rings lies in: they transform the one-way "north → south" talent flow into a three-dimensional circular flow — talents not only flow north-south along the main diameter, but also form reflux and recirculation through the east-west dual rings. This circular flow has stronger system resilience than unidirectional flow: when fluctuations occur in a certain link, the circular system can self-regulate through other paths, avoiding system collapse.
+
+**Economic Logic of "Multiple Courts": Meso-Level Exchange Nodes and Density Stratification**
+
+The "multiple courts" system is meso-level knowledge exchange nodes — between the macro corridor (one diameter) and micro buildings, providing exchange scenarios of different densities and themes, whose economic function is **to reduce the search cost and adaptation cost of knowledge exchange**:
+
+- **Segmented reduction of mobility costs**: Setting up an innovation courtyard every 300-500 meters means that a 3-5 minute walk can reach an exchange node, decomposing long-distance knowledge exchange into short-distance segmented exchanges, reducing the time cost of exchange.
+- **Layered supply of exchange density**: Courtyards of different scales and themes provide exchange scenarios of different densities — from high-density startup fairs to medium-density themed salons to low-density academic tea lounges, meeting the exchange needs of different types and preferences of talents.
+- **Scenarization of informal exchange**: Innovation courtyards provide suitable spatial containers for "chance encounters", and such informal exchange is the core channel of tacit knowledge spillover.
 
 **Design Concept Note**:
-The overall spatial structure implies a spatial logic of "from north to south, born from the source" in its node layout and sequential organization — the north relies on the basic research source of universities and research institutes, and the innovation chain of knowledge nurturing, industrial incubation, ideological exchange, computing power support, and scenario verification unfolds southward along the linear space, ultimately facing the urban future with the southern gateway. This linear innovation sequence from source to future is just like the astronomical order of the North Star's orientation and the rotation of the Big Dipper. Taking "northward orientation, wisdom starts a new journey" as the implicit design concept, it embodies the sense of direction of sci-tech innovation and the constancy of spatial order within the structure.
+The overall spatial structure implies a spatial logic of "from north to south, born from the source" in its node layout and sequential organization — the north relies on the basic research source of universities and research institutes, and the innovation chain of knowledge nurturing, industrial incubation, ideological exchange, computing power support, and scenario verification unfolds southward along the linear space, ultimately facing the urban future with the southern gateway. From the perspective of New Spatial Economics, this spatial sequence is essentially a spatial economic value chain of "quality gradient → talent flow → knowledge spillover → innovation transformation".
 
-#### 4.2.2 Functional Mixing Strategy
+#### 4.2.2 Functional Mixing Strategy: Enhancing the Composite Supply Efficiency of Spatial Quality
 
-Based on the New Spatial Economics concept of "industry-city-people integration", high-intensity functional mixing is implemented:
+Based on the New Spatial Economics concept of "industry-city-people integration", high-intensity functional mixing is implemented. The economic significance of functional mixing is: **by superimposing multiple quality types in the same space, enhancing the composite supply efficiency of spatial quality, extending talent stay time, and increasing the opportunity density of knowledge exchange.**
+
+Functional mixing is not a simple patchwork of functions, but taking the daily behavior trajectory of talents as clues, organically organizing various activities such as work, life, learning, and socializing within walking distance, reducing the mobility cost of talents between different functional spaces and increasing the probability of chance encounters.
 
 **Vertical Mixing** (Building Level):
 - Basement: Parking, municipal utilities, commerce
@@ -1011,42 +1162,52 @@ Based on the New Spatial Economics concept of "industry-city-people integration"
 - Mid-rise (4-15F): Offices, R&D
 - High-rise (16F+): Residential, apartments, hotels
 
+The economic logic of vertical mixing: superimposing multiple functions such as residence, office, and commerce in the same building, enabling talents to meet multiple needs in the vertical direction, greatly reducing the mobility cost of cross-functional activities, while increasing the probability of encounters between people with different functions in the building's public spaces.
+
 **Horizontal Mixing** (Block Level):
 - Mixed layout of office, residential, commercial, and public services within each block unit
 - Basic needs for work, life, learning, and socializing are met within a 5-minute walk
 - Avoid tidal flow and nighttime empty cities caused by single-function districts
 
-**Mixing Ratio Control**:
+The economic logic of horizontal mixing: achieving functional compounding at the block scale, enabling talents to complete most daily activities within a 5-minute walk, reducing commuting and long-distance travel. More importantly, functional mixing enables the block to maintain a certain level of popularity and vitality at different times of the day, avoiding the tidal phenomenon of "busy during the day, empty at night" — continuous vitality means continuous knowledge spillover opportunities.
 
-| District | Industrial Office | Residential | Commercial Services | Public Space |
-|----------|-------------------|-------------|---------------------|--------------|
-| Collective Intelligence Park | 55% | 25% | 10% | 10% |
-| AI Origin Community | 45% | 30% | 15% | 10% |
-| Dazhongsi District | 60% | 15% | 15% | 10% |
+**Mixing Ratio Control (Differentiated Configuration Based on Talent Structure)**:
 
-#### 4.2.3 Spatial Economic Mechanism
+| District | Industrial Office | Residential | Commercial Services | Public Space | Mixing Logic (Based on Talent Types) |
+|----------|-------------------|-------------|---------------------|--------------|--------------------------------------|
+| Collective Intelligence Park | 55% | 25% | 10% | 10% | Research talents are the mainstay, requiring a higher proportion of R&D office and residence, while focusing on the academic exchange function of public space |
+| AI Origin Community | 45% | 30% | 15% | 10% | Entrepreneurial talents are the mainstay, requiring the highest proportion of residence and commercial services (social + life), with relatively flexible office space |
+| Dazhongsi District | 60% | 15% | 15% | 10% | Industrial talents are the mainstay, requiring the highest proportion of industrial office, with a lower proportion of residence but high requirements for business support |
 
-The design logic of the diameter-type spatial structure is rooted in the core theory of New Spatial Economics, and its economic rationality is reflected in the following three aspects:
+The differentiated configuration of mixing ratios embodies the New Spatial Economics principle of "quality supply matching talent preferences" — different types of talents have different preferences for the ratio of functional mixing, and the three-core districts carry out targeted functional mixing design according to their respective dominant talent types, maximizing the matching efficiency of quality supply.
 
-**(1) Linear Quality Supply and Talent Agglomeration Effect**
+#### 4.2.3 Summary of Spatial Economic Mechanisms
+
+The design logic of the diameter-type spatial structure is rooted in the core theory of New Spatial Economics, and its economic rationality is reflected in the complete framework of "three mechanisms + one closed loop":
+
+**Mechanism 1: Talent Agglomeration Effect of Linear Quality Supply**
 
 Jing-Zhang Railway Heritage Park, as a continuous high-quality public space of 6.2 kilometers in length, continuously supplies diverse spatial quality elements such as landscape, culture, leisure, and exchange along the axis. According to the New Spatial Economics theory of "spatial quality drives talent agglomeration", high-quality linear space has significant attractiveness to high-human-capital populations — AI R&D talents, entrepreneurs, engineers and other innovation subjects tend to choose to work and live around spaces with beautiful environments, convenient communication, and rich life.
 
 The unique advantage of the diameter-type layout lies in: linear space has a longer contact interface than point-like or planar space, can benefit more building interfaces and functional blocks, and maximizes the coverage efficiency of quality supply. It is estimated that within 500 meters on both sides of the main path of Jing-Zhang Heritage Park, it can directly serve about 8 million square meters of R&D office area and about 150,000 innovation employees, and the spatial penetration rate of quality dividend is much higher than the traditional point-like park model.
 
-**(2) Minimization of Knowledge Exchange Costs**
+**Mechanism 2: Minimization of Spatial Transaction Costs of Knowledge Exchange**
 
-The core driving force of innovation is the flow and collision of knowledge, and the efficiency of knowledge exchange is negatively correlated with spatial distance. Through the spatial organization of "one diameter stringing three cores, dual rings connecting multiple courts", the diameter-type layout arranges innovation subjects such as universities and research institutes, R&D institutions, startup enterprises, investment institutions, and service platforms closely along the linear corridor, greatly shortening the physical distance between innovation subjects and reducing the mobility cost and time cost of face-to-face communication.
+The core driving force of innovation is the flow and collision of knowledge, and the efficiency of knowledge exchange is negatively correlated with spatial distance. Through the spatial organization of "one diameter stringing three cores, dual rings connecting multiple courts", the diameter-type layout arranges innovation subjects such as universities and research institutes, R&D institutions, startup enterprises, investment institutions, and service platforms closely along the linear corridor, greatly shortening the physical distance between innovation subjects and reducing the mobility cost, search cost, and adaptation cost of face-to-face communication.
 
 In particular, linear innovation districts support the informal knowledge exchange mode of "exchanging while walking" — which is one of the most important channels for creative generation and interdisciplinary collision. The slow-traffic system and exchange nodes along Jing-Zhang Railway Heritage Park provide rich spatial carriers for informal knowledge exchange, forming a complete innovation social spectrum from formal meetings to chance encounters.
 
-**(3) Gradient Growth and Circular Cumulative Causation**
+**Mechanism 3: Dynamic Agglomeration Effect Driven by Gradient Growth**
 
-The diameter-type spatial structure presents a functional gradient of "basic research → technology R&D → industrial application" from north to south, consistent with the chain logic of knowledge production and transformation. The northern Collective Intelligence Park continues to output innovation sources relying on the advantages of university basic research, the central AI Origin undertakes transformation and incubates startup projects, and the southern Dazhongsi agglomerates mature enterprises to form industrial scale — the three form a closed loop of knowledge flow and feedback along the main diameter, constituting a growth mechanism of circular cumulative causation.
+The diameter-type spatial structure presents a quality gradient of "learning-oriented quality → innovation-oriented quality → industry-oriented quality" from north to south, consistent with the preference differences of talent flow and the chain logic of knowledge production and transformation. The northern Collective Intelligence Park continues to output research talents and knowledge sources relying on the advantages of university basic research, the central AI Origin undertakes transformation and incubates startup projects, and the southern Dazhongsi agglomerates mature enterprises and industrial talents to form industrial scale — the three form a closed loop of talent flow and knowledge spillover along the main diameter, constituting a growth mechanism of circular cumulative causation.
 
-This "source-flow-sink" gradient spatial organization not only ensures the specialized division of labor of each functional section, but also realizes efficient knowledge spillover and industrial linkage through linear corridors, avoiding the problem of vitality fault and innovation islands that may occur in single-function zones.
+This "source-flow-sink" gradient spatial organization not only ensures the specialized division of labor of each functional section (specialization improves efficiency), but also realizes efficient knowledge spillover and industrial linkage through linear corridors (connectivity generates spillovers), avoiding the problem of vitality fault and innovation islands that may occur in single-function zones.
 
-The above three spatial economic mechanisms — linear quality supply, knowledge exchange efficiency, and gradient growth cycle — together constitute the economic theoretical foundation of the "Central Axis - Diameter" innovation paradigm, proving that the diameter-type spatial structure not only has formal beauty and sense of order, but also has inherent rationality and promotable value at the level of innovation economics.
+**One Closed Loop: Self-Organized Evolution of Circular Cumulative Causation**
+
+The three mechanisms work together to form a positive feedback closed loop of spatial quality and talent agglomeration: quality enhancement attracts more talents → talent agglomeration enhances innovation vitality → innovation vitality drives industrial development → industrial development feeds back to quality enhancement. Once crossing the critical mass threshold, the innovation ecosystem will enter the self-organized evolution track, no longer relying on continuous injection of external policies, and achieving sustainable endogenous growth.
+
+The above three spatial economic mechanisms — linear quality supply, knowledge exchange efficiency, and gradient growth cycle — together with the self-organized closed loop of circular cumulative causation, constitute the economic theoretical foundation of the "Central Axis - Diameter" innovation paradigm, proving that the diameter-type spatial structure not only has formal beauty and sense of order, but also has inherent rationality and promotable value at the level of innovation economics.
 
 ### 4.3 Spatial Implementation of the Central Axis - Diameter Innovation Paradigm: Beijing's Dual Central Axis Pattern
 
@@ -1109,7 +1270,7 @@ Combined with Beijing's warm temperate semi-humid continental monsoon climate ch
 
 **Summer · Shade Path (Early June — Late August)**
 - **Thematic Imagery**: Lush Green Shade · Creative Intelligence Growing
-- **Plant Configuration**: Using tall deciduous trees such as Chinese scholar tree, ash tree, plane tree, and goldenrain tree as the skeleton, forming dense shade coverage; lower layer配置 shade-tolerant perennial flowers such as hydrangea, plantain lily, and dwarf lilyturf
+- **Plant Configuration**: Using tall deciduous trees such as Chinese scholar tree, ash tree, plane tree, and goldenrain tree as the skeleton, forming dense shade coverage; lower layer features shade-tolerant perennial flowers such as hydrangea, plantain lily, and dwarf lilyturf
 - **Cooling Design**: Tree shade coverage ≥70%, mist forest systems, shade pergolas, and spray cooling devices at key nodes, perceived temperature reduction of 5-8°C
 - **Event Arrangement**: Summer Night Film Season · Beer Garden · Innovation Night Market · AI Music Festival
 - **Space Utilization**: Extended opening hours at night, using night lighting and cool temperatures to host night economy activities
@@ -1143,7 +1304,7 @@ Centered around the lifestyle patterns of innovative people, the diameter space 
 
 **Morning Peak · Commute Mode (7:00-9:30)**
 - **Dominant Function**: Commuter passage, morning exercise
-- **Space Focus**: East-west walkways and bicycle lanes operate efficiently, with人流 dominated by commuting between the three cores and connecting to rail stations
+- **Space Focus**: East-west walkways and bicycle lanes operate efficiently, with pedestrian flow dominated by commuting between the three cores and connecting to rail stations
 - **Supporting Services**: Breakfast carts, convenience kiosks, shared bicycle dispatch points, coffee outdoor seating opens early
 - **Landscape Atmosphere**: Morning light through the shade, fresh and brisk, with runners and commuters moving side by side
 - **Traffic Organization**: Bicycle lanes guaranteed for two-way peak hours, walkways with diversion guidance to ensure passage efficiency
@@ -1378,10 +1539,19 @@ The diameter innovation axis adopts a composite street cross-section design of "
 
 **Positioning**: Core bearing area of AI full-stack independent innovation system, first station for university achievement transformation in North Campus area, main front for "from 0 to 1" original breakthroughs.
 
+**Economic Logic of Positioning**:
+From the perspective of New Spatial Economics, the core value of the Collective Intelligence Park District lies in it being **the highest-density supply area of learning-oriented spatial quality** — adjacent to top universities such as Tsinghua, Peking University, Beihang, and BUPT, it naturally possesses the richest academic resources, the strongest research atmosphere, and the highest density of research talent reserves. This learning-oriented quality is the "source endowment" of dynamic talent agglomeration and also the starting point of knowledge spillovers for the entire innovation belt.
+
+- **Quality type**: Learning-oriented spatial quality as the leading factor, superimposed with initial supply of innovation-oriented quality
+- **Talent agglomeration type**: AI scientists, researchers, young scholars, doctoral students and other research talents
+- **Knowledge spillover direction**: Spilling over from universities to the park (basic research results → technology transformation)
+- **Position in the diameter gradient**: The northern starting point of the quality gradient, the "source point" of talent flow
+
 **Core Values**:
-- Adjacent to top universities such as Tsinghua, Peking University, Beihang, and BUPT, with significant knowledge source advantages
-- Surrounded by numerous national key laboratories and research institutions
-- Appropriate spatial scale, with conditions for building low-density garden-style innovation parks
+- Adjacent to top universities such as Tsinghua, Peking University, Beihang, and BUPT — the initial endowment of learning-oriented spatial quality is the highest — this is the natural "gravity source" of talent agglomeration, no need to build quality from scratch, only need to activate and amplify existing quality
+- Surrounded by numerous national key laboratories and research institutions — this means the initial density of research talents is approaching critical mass, and once the spatial barriers between universities and local areas are opened up, the knowledge spillover effect will quickly manifest
+- Appropriate spatial scale, with conditions for building low-density garden-style innovation parks — the low-density, garden-style environment precisely matches the quality preference of research talents for quiet and beautiful working environments
+- The northern endpoint of the diameter innovation axis — talents flow southward along the axis from here, carrying knowledge to the innovation incubation and industrial transformation links, serving as the "knowledge source" of the entire "source-flow-sink" system
 
 #### 5.1.2 Spatial Structure
 
@@ -1507,11 +1677,20 @@ The diameter innovation axis adopts a composite street cross-section design of "
 
 **Positioning**: AI technology source and talent vitality core, energy hub of the innovation diameter, destination for global AI young talents, main front for "from 1 to 100" technology incubation.
 
+**Economic Logic of Positioning**:
+From the perspective of New Spatial Economics, the core value of the AI Origin Community lies in it being **the highest-density supply area of innovation-oriented spatial quality** — located at the midpoint of the diameter axis, it is the intersection and converter of learning-oriented quality and industry-oriented quality. Here, there is not only knowledge and research talents spilling over from the northern universities, but also market channels leading to the southern industrial zone. The convergence of the two types of quality generates the highest intensity of knowledge collisions and innovation vitality.
+
+- **Quality type**: Innovation-oriented spatial quality as the leading factor, being the composite intersection area of learning-oriented and industry-oriented quality
+- **Talent agglomeration type**: Entrepreneurs, product managers, technical partners, investors and other entrepreneurial ecosystem talents
+- **Knowledge spillover mechanism**: Bidirectional knowledge spillover — research results are transformed southward into startup projects, industrial demands are fed back northward into research topics
+- **Position in the diameter gradient**: The core conversion node of the quality gradient, the "hub" of talent flow
+
 **Core Values**:
-- Wudaokou: "Center of the Universe", gathering of universities, youth convergence, high degree of internationalization
-- Zhichun Road: Zhongguancun sci-tech enterprise agglomeration, strong entrepreneurial atmosphere
-- Transportation hub: Line 13 Wudaokou Station, Zhichun Road Station, Line 10 Zhichun Road Station
-- Mature commercial support, high convenience of life
+- Wudaokou's "Center of the Universe" international atmosphere and youth convergence effect — this is precisely the core element of innovation-oriented quality: multiculturalism, youthful vitality, open exchange, with strong attractiveness to entrepreneurial talents
+- Zhichun Road's mature entrepreneurial ecosystem and tech enterprise agglomeration — the entrepreneurial atmosphere itself is a kind of quality, and the fact that "there are many entrepreneurs nearby" itself will attract more entrepreneurs, forming a circular cumulative causation effect
+- Transportation hub status (intersection of Line 13 and Line 10) — traffic accessibility reduces the time cost of talent flow, making the origin the core node in the entire talent flow network
+- Mature commercial support, high convenience of life — livable quality supports innovation-oriented quality, extending talent stay time and activity level, making 24-hour innovation possible
+- Geometric midpoint of the diameter axis — from spatial economics, the midpoint position has the shortest distance to the north and south ends, the lowest spatial transaction cost of knowledge exchange, and the highest innovation efficiency
 
 #### 5.2.2 Spatial Structure
 
@@ -1661,11 +1840,20 @@ The diameter innovation axis adopts a composite street cross-section design of "
 
 **Positioning**: AI industry landing and application promotion gateway, southern gateway image display zone, main front for "from 100 to N" industry amplification.
 
+**Economic Logic of Positioning**:
+From the perspective of New Spatial Economics, the core value of Dazhongsi District lies in it being **the highest-density supply area of industry-oriented spatial quality** — located at the southern end of the diameter axis, it is the terminal link where innovation achievements are transformed into industrial value. Here, it undertakes startup projects and technological achievements incubated and matured at the central origin, and through the agglomeration and scaling of the industrial chain, innovation value is transformed into industrial value and economic output.
+
+- **Quality type**: Industry-oriented spatial quality as the leading factor, superimposed with smart-oriented quality (scenario applications)
+- **Talent agglomeration type**: Enterprise executives, industrial engineers, product operations, business services and other industrial talents
+- **Knowledge spillover direction**: Industrial demand feedback northward (market demand → technology iteration → basic research), while radiating outside Beijing
+- **Position in the diameter gradient**: The southern terminal of the quality gradient, the "sink point" of talent flow and the starting point of feedback
+
 **Core Values**:
-- Southern gateway: Adjacent to Xizhimen transportation hub, first impression zone entering the innovation belt
-- Convenient transportation: Subway Line 13 Dazhongsi Station, convenient ring road transportation
-- Industrial foundation: Surrounded by numerous sci-tech enterprises and business offices
-- Strong exhibition value: Facing main urban roads, high gateway display value
+- Southern gateway location, adjacent to Xizhimen transportation hub — transportation convenience is an important dimension of industry-oriented quality, facilitating enterprises to connect with clients, partners, and external resources
+- Surrounded by numerous sci-tech enterprises and business offices — the existing industrial foundation is the "seed" of industrial chain self-organization, on which it is easier to form the circular cumulative causation effect of industrial agglomeration
+- Mature business support, complete service system — an important component of industry-oriented quality, including professional services such as finance, law, and consulting, which are attractive to mature enterprises
+- Strong exhibition value facing main urban roads — display value itself is a kind of quality (brand quality), conducive to corporate image building and brand communication
+- Southern "sink point" of the diameter axis — talents and knowledge flow southward along the axis from the northern end, converging here and transforming into industrial achievements, while demand information from the industrial end flows back to the northern end, forming a feedback closed loop of the innovation chain
 
 #### 5.3.2 Spatial Structure
 
@@ -1787,54 +1975,137 @@ The diameter innovation axis adopts a composite street cross-section design of "
 
 ### 6.1 AI Innovation Ecosystem System
 
+From the perspective of New Spatial Economics, the AI innovation ecosystem is not "built" by planning, but **self-organized and emerged** through spatial quality supply attracting dynamic talent agglomeration, and then on the basis of talent flow and knowledge spillovers. The role of planning and design is not to preset the form of the ecosystem, but to create spatial quality conditions conducive to ecosystem evolution. This section elaborates on the construction of the innovation ecosystem of the Jing-Zhang AI Innovation Belt based on the evolutionary logic of "spatial quality → talent agglomeration → innovation ecosystem".
 
-#### 6.1.1 Full-Chain Innovation Ecosystem
+#### 6.1.1 Ecosystem Evolution Logic Based on Spatial Quality
 
-Build a full-chain innovation ecosystem of "basic research — technology R&D — achievement transformation — industrial agglomeration — scenario application":
+The formation of the AI innovation ecosystem follows the evolutionary path of "quality supply → talent agglomeration → ecosystem self-organization":
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│           Self-Organized Evolution Path of the Innovation Ecosystem      │
+├───────────────┬───────────────┬─────────────────────────────────────────┤
+│  Phase 1      │  Phase 2      │  Phase 3                                │
+│  Quality      │  Talent       │  Ecosystem                              │
+│  Supply       │  Agglomeration│  Emergence                              │
+├───────────────┼───────────────┼─────────────────────────────────────────┤
+│ Spatial       │ Dynamic       │ Innovation ecosystem self-organization  │
+│ quality       │ talent        │                                        │
+│ enhancement   │ agglomeration │  (knowledge spillover driven)          │
+│ (design-      │ (quality-     │                                        │
+│  driven)      │  driven)      │  • Basic research layer                 │
+│               │               │  • Technology R&D layer                 │
+│ • Learning-   │ • Research    │  • Achievement transformation layer     │
+│   oriented    │   talents     │  • Industrial agglomeration layer       │
+│   quality     │ • Entrepreneur│  • Scenario application layer           │
+│ • Innovation- │   talents     │                                        │
+│   oriented    │ • Industrial  │                                        │
+│   quality     │   talents     │                                        │
+│ • Industry-   │ • Service     │                                        │
+│   oriented    │   talents     │                                        │
+│   quality     │               │                                        │
+│ • Livable     │ • ……          │                                        │
+│   quality     │               │                                        │
+│ • ……          │               │                                        │
+└───────────────┴───────────────┴─────────────────────────────────────────┘
+```
+
+**Phase 1: Quality Supply Period (Design-Driven)**
+
+Planning and design systematically supply diversified spatial quality through the diameter-type spatial structure — from learning-oriented quality to innovation-oriented quality, from industry-oriented quality to livable quality — providing differentiated quality choices for different types of AI talents. The core task of this phase is to build a sufficiently rich and high-quality quality supply system, creating the "pulling force" for talent agglomeration.
+
+**Phase 2: Talent Agglomeration Period (Quality-Driven)**
+
+As quality supply is gradually released, various AI talents choose to agglomerate at different nodes according to their own quality preferences. Research talents gather in Collective Intelligence Park where learning-oriented quality is highest, entrepreneurial talents gather in AI Origin where innovation-oriented quality is highest, and industrial talents gather in Dazhongsi where industry-oriented quality is highest. Talents continuously flow between the three cores along the diameter axis, and knowledge spillovers occur during the flow process.
+
+**Phase 3: Ecosystem Emergence Period (Knowledge Spillover-Driven)**
+
+When talent density reaches critical mass, the positive feedback effect of knowledge spillovers begins to manifest: knowledge spillovers give birth to startup projects, startup projects attract capital and services, successful enterprises drive industrial chain agglomeration, and industrial chain agglomeration further enhances spatial quality, attracting more talents — the innovation ecosystem enters a virtuous cycle of self-organized evolution. At this point, the ecosystem no longer relies on continuous intervention from external planning, but is a complex adaptive system with endogenous growth momentum.
+
+#### 6.1.2 Spatial Quality Foundation of the Full-Chain Innovation Ecosystem
+
+The full-chain innovation ecosystem (basic research — technology R&D — achievement transformation — industrial agglomeration — scenario application) is not a static chain structure, but a dynamic ecosystem distributed along the quality gradient of the diameter axis. Each ecological niche corresponds to specific spatial quality types and talent types.
 
 ```
 Basic Research Layer → Technology R&D Layer → Achievement Transformation Layer → Industrial Agglomeration Layer → Scenario Application Layer
   (Universities & Institutes)  (Key Laboratories)  (Incubators & Accelerators)  (Enterprise HQs)  (City-level Scenarios)
       ↓                    ↓                      ↓                        ↓                  ↓
   Collective Intelligence  Collective Intelligence + Origin  Origin + Collective Intelligence  Dazhongsi + Origin   East Wing + Full Length
+      ↑                    ↑                      ↑                        ↑                  ↑
+Learning-oriented Quality  Learning + Innovation  Innovation-oriented Quality  Innovation + Industry   Smart-oriented Quality
+ Research Talents           R&D Talents            Entrepreneurial Talents       Industrial Talents     Application Talents
 ```
 
-**Basic Research Layer**:
-- Leveraging AI-related departments and national key laboratories of Tsinghua, Peking University, Beihang and other universities
+**Basic Research Layer (learning-oriented quality → research talents → knowledge source)**:
+- **Quality foundation**: Learning-oriented spatial quality (university research resources, academic cultural atmosphere, quiet research environment)
+- **Talent carrier**: AI scientists, researchers, young scholars
+- **Spatial bearing**: Collective Intelligence Park District (adjacent to Tsinghua, Peking University, Beihang and other universities)
+- **Core mechanism**: Source of knowledge spillovers — the agglomeration and flow of research talents produce basic research results, providing knowledge supply for the entire innovation ecosystem
 - Deploying frontier directions such as AI basic theory research, large model basic algorithms, artificial general intelligence
 - Building AI for Science joint laboratory cluster (life science, materials science, physics, etc.)
 
-**Technology R&D Layer**:
+**Technology R&D Layer (learning-oriented + innovation-oriented quality → R&D talents → technology transformation)**:
+- **Quality foundation**: Composite supply of learning-oriented quality + innovation-oriented quality (with both academic resources and entrepreneurial atmosphere)
+- **Talent carrier**: Technology R&D experts, algorithm engineers, interdisciplinary researchers
+- **Spatial bearing**: Collective Intelligence Park + AI Origin (transition zone of quality gradient)
+- **Core mechanism**: "Translation" and "transformation" of knowledge — transforming basic research results into applicable technical solutions
 - Key laboratories, engineering technology centers, enterprise R&D centers
 - Directions: Computer vision, natural language processing, multimodal, reinforcement learning, embodied intelligence
 - Industry-university-research joint research mechanism
 
-**Achievement Transformation Layer**:
-- Five-level startup acceleration system: Top talent introduction type / university incubation type / vertical field type / open source community type / large enterprise venture capital type
+**Achievement Transformation Layer (innovation-oriented quality → entrepreneurial talents → startup incubation)**:
+- **Quality foundation**: Innovation-oriented spatial quality (entrepreneurial services, exchange density, capital network)
+- **Talent carrier**: Entrepreneurs, product managers, technology transformation experts
+- **Spatial bearing**: AI Origin + Collective Intelligence Park (areas with highest innovation quality)
+- **Core mechanism**: Emergence of entrepreneurship — combination of knowledge spillovers and entrepreneurial services gives birth to a large number of startup projects
+- Five-level startup acceleration system: top talent introduction type / university incubation type / vertical field type / open source community type / large enterprise venture capital type
 - Incubators, accelerators, maker spaces, seed funds
 - Technology transfer centers, intellectual property services
 
-**Industrial Agglomeration Layer**:
+**Industrial Agglomeration Layer (innovation-oriented + industry-oriented quality → industrial talents → industrial chain formation)**:
+- **Quality foundation**: Industry-oriented spatial quality (business support, industrial chain completeness, market proximity)
+- **Talent carrier**: Enterprise executives, industrial engineers, operation management talents
+- **Spatial bearing**: Dazhongsi + AI Origin (areas with highest industrial quality)
+- **Core mechanism**: Industrial chain self-organization based on spatial proximity — talent agglomeration attracts enterprise layout, and enterprise agglomeration forms the industrial chain
 - AI leading enterprise headquarters, unicorn enterprises, growth enterprises
 - Industrial chain upstream and downstream supporting enterprises
 - Sci-tech service institutions (finance, law, consulting, human resources)
 
-**Scenario Application Layer**:
+**Scenario Application Layer (smart-oriented quality → application talents → demand traction)**:
+- **Quality foundation**: Smart-oriented spatial quality (AI scenarios, digital facilities, open data)
+- **Talent carrier**: AI application experts, solution engineers, product operation talents
+- **Spatial bearing**: East Wing + full length (areas with the richest scenarios)
+- **Core mechanism**: Demand-traction reverse innovation — application scenario demand feedback drives technology iteration and product optimization
 - City-level AI application scenario opening
 - Diverse scenario supply from government, enterprises, and society
 - First trial and first use, first-batch application policy support
 
-#### 6.1.2 Multi-Level Startup Acceleration System
+#### 6.1.3 Talent Flow: The "Blood Circulatory System" of the Innovation Ecosystem
 
-Build a five-level AI startup acceleration system, covering the full lifecycle from idea to scale-up:
+Under the framework of New Spatial Economics, talent flow is the core dynamic mechanism of the innovation ecosystem — just as the blood circulatory system delivers oxygen and nutrients to all parts of the body, talent flow delivers knowledge and creativity to all links of the innovation ecosystem. The diameter-type spatial structure provides an efficient spatial carrier for talent flow:
 
-| Acceleration Level | Target Objects | Acceleration Period | Support Provided | Space Carrier |
-|-------------------|---------------|---------------------|-----------------|---------------|
-| Seed Acceleration | Early-stage startup teams, student entrepreneurs | 3-6 months | Seed funding, mentorship, basic office space | University incubators, maker spaces |
-| Startup Acceleration | Startups with product prototypes | 6-12 months | Angel investment, technical support, market matchmaking | Collective Intelligence Park AI Incubator |
-| Growth Acceleration | Growth enterprises with certain revenue | 12-18 months | Series A financing, talent recruitment, site expansion | AI Origin Accelerator |
-| Unicorn Cultivation | High-potential pre-unicorn enterprises | 1-2 years | Series B/C financing, policy matchmaking, headquarters space | Dazhongsi Headquarters Base |
-| Ecosystem Acceleration | Listed / leading enterprises | Ongoing | Industrial ecosystem construction, global resource matchmaking | Entire region |
+- **North-south main flow**: North-south flow along the diameter axis, corresponding to the talent development path of "research → entrepreneurship → industry" and the transformation path of "knowledge → technology → product"
+- **Reverse flow**: Industrial talents go north with practical problems seeking research cooperation, and entrepreneurs go south to understand market demand. This reverse flow promotes information feedback in all links of the innovation chain
+- **East-west circular flow**: East-west flow realized through the dual rings, with the West Ring connecting research institutions to promote knowledge production, and the East Ring connecting communities and scenarios to promote demand feedback
+- **Micro daily flow**: Short-distance flow within the multi-court system, which is the main source of informal knowledge exchange, corresponding to the "microcirculation" of "blood circulation"
+
+The frequency, direction, and quality of talent flow determine the vitality and efficiency of the innovation ecosystem. One of the core goals of diameter-type spatial design is to maximize the efficiency of talent flow and the effect of knowledge spillovers through high-quality corridors, gradient nodes, and exchange networks.
+
+#### 6.1.4 Multi-Level Startup Acceleration System: Growth Ladder for Entrepreneurial Talents
+
+The startup acceleration system is not simply an "enterprise incubation facility", but **a growth ladder for entrepreneurial talents** — it provides adapted spatial quality and service support for entrepreneurial talents at different development stages, helping them achieve the identity transformation from "research talent" to "entrepreneurial talent" and then to "industrial talent".
+
+Build a five-level AI startup acceleration system, covering the full lifecycle from idea to scale-up. Each level corresponds to specific talent types and quality needs:
+
+| Acceleration Level | Target Objects (Talent Perspective) | Acceleration Period | Quality Supply Focus | Space Carrier |
+|-------------------|-------------------------------------|---------------------|----------------------|---------------|
+| Seed Acceleration | Student entrepreneurs, research talents starting their first business | 3-6 months | Low cost + learning-oriented quality (low threshold access, proximity to universities) | University incubators, maker spaces |
+| Startup Acceleration | Core members of startup teams with product prototypes | 6-12 months | Innovation-oriented quality (exchange density, mentor network, capital matchmaking) | Collective Intelligence Park AI Incubator |
+| Growth Acceleration | Founding teams and core backbones of growth enterprises | 12-18 months | Innovation-oriented + industry-oriented quality (talent recruitment, market matchmaking, spatial expansion) | AI Origin Accelerator |
+| Unicorn Cultivation | Executive teams of pre-unicorn enterprises | 1-2 years | Industry-oriented quality (policy matchmaking, headquarters space, industrial ecosystem) | Dazhongsi Headquarters Base |
+| Ecosystem Acceleration | Strategy and innovation teams of leading enterprises | Ongoing | Composite quality (industrial ecosystem, global resources, strategic synergy) | Entire region |
+
+The spatial layout of the startup acceleration system unfolds from north to south along the diameter axis, consistent with the quality gradient and the direction of talent flow. Entrepreneurial talents start from the learning-oriented quality area at the northern end and gradually grow southward along the axis. Each acceleration level brings a quality upgrade and capability improvement, eventually growing into mature enterprises and industrial talents in the industry-oriented quality area at the southern end.
 
 ### 6.2 AI Talent Profile and Demand Analysis
 
@@ -2955,6 +3226,44 @@ All investment data in this proposal are conceptual estimates. Specific costs ne
 > **Note**: The project delivery framework described in this section is a conceptual contract model recommendation and does not constitute any legal offer or commitment. The actual project contract terms, acceptance standards, cost amounts, and disposal methods shall be determined by relevant parties through negotiation in accordance with the law.
 
 ### 10.2 Phased Implementation Plan
+
+#### Economic Logic of Phasing: Gradual Agglomeration Along the Quality Gradient
+
+Phased implementation is not simply a schedule of engineering progress, but a strategic deployment that follows the causal chain of New Spatial Economics — "quality supply → talent agglomeration → industrial innovation" — and progresses gradually from north to south along the quality gradient of the diameter axis. Its core logic is: **first build the quality source and initiate talent agglomeration, then build the transformation node and catalyze innovation incubation, and finally build the industrial terminal and realize value amplification**. Each stage is based on the talent density and innovation vitality accumulated in the previous stage, gradually propelling the entire system to cross critical mass and enter the self-organized growth track of circular cumulative causation.
+
+```
+Phase 1 (Startup) →  Phase 2 (Acceleration) →  Phase 3 (Maturity)
+  Northern Section First     Central Section Rise      Southern Section Takes Shape
+    ↓                           ↓                           ↓
+Build quality source       Build innovation hub       Build industrial terminal
+    ↓                           ↓                           ↓
+Attract first batch of     Explosive growth of        Large-scale agglomeration of
+research talents           entrepreneurial talents     industrial talents
+    ↓                           ↓                           ↓
+Start circular cumulative  Breakthrough of critical   Enter self-organized evolution
+causation                  mass
+```
+
+**Why start with the northern section (Collective Intelligence Park)? — Build the quality supply source first and start positive feedback**
+
+From the perspective of New Spatial Economics, the Collective Intelligence Park District has the highest initial endowment of learning-oriented quality (adjacent to universities, high density of research talents), and is the "source" of talent flow. Building the northern section first can:
+- Activate the largest stock of initial talents at the lowest cost — university research talents are ready-made, and only need to break through the spatial barriers between universities and local areas and provide nearby transformation space to immediately generate knowledge spillover effects
+- Quickly start the positive feedback of circular cumulative causation — the improvement of learning-oriented quality → more agglomeration of research talents → more knowledge spillovers → rising demand for innovation-oriented quality, creating a demand foundation for the next stage of central section construction
+- Form a "source demonstration effect" — successful cases around universities are most easily recognized by academia and industry, which is conducive to brand building and subsequent investment attraction
+
+**Why the central section (Origin) comes second? — After talent agglomeration reaches critical mass, the demand for innovation incubation space naturally emerges**
+
+When the learning-oriented quality supply in the northern section attracts enough research talents and knowledge spillovers give birth to enough startup projects, the demand for innovation-oriented quality (entrepreneurial services, exchange spaces, capital matchmaking) will naturally emerge. Building the central section (AI Origin) at this time:
+- Is "demand-driven" rather than "supply-driven" — with real entrepreneurial demand, then building incubation space avoids the vacancy risk of "building first, then attracting investment"
+- Leverages the efficiency advantage of the geometric midpoint — the origin is the midpoint of the diameter axis, with the shortest distance to both north and south ends and the lowest knowledge exchange cost, making it most suitable as the core of innovation incubation
+- Undertakes entrepreneurial talents spilling over from the northern section, while reserving projects and enterprises for the industrial transformation of the southern section
+
+**Why the southern section (Dazhongsi) comes last? — Industrial transformation requires sufficient talent and innovation supply as a foundation**
+
+Industrial agglomeration requires upstream talent supply and innovation supply as support. If industrial space is built too early, it is prone to the vacancy situation of "buildings without enterprises". Building the southern section last:
+- Is the natural result of "industrial chain self-organization" — when enough mature enterprises are incubated in the central section, these enterprises naturally need larger headquarters space and more complete industrial support. Building the southern section at this time is responsive to the growth needs of enterprises
+- Leverages the brand effect accumulated in the first two stages — after the startup period and acceleration period, the innovation belt has already formed a certain brand awareness and talent attractiveness, and the success rate of introducing headquarters enterprises and industrial chain projects is higher at this time
+- Forms a complete "source-flow-sink" closed loop — after the southern section is completed, the quality gradient of the entire diameter axis is complete, the closed loop of talent flow and knowledge spillovers is formed, and the system enters the self-organized evolution stage
 
 #### Phase 1: Startup Period (2026-2027) — Lay Foundation, Establish Image, Produce Models
 

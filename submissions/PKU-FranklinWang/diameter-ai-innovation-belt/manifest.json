@@ -1,12 +1,12 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "submission_id": "diameter-ai-innovation-belt",
   "title": "百年京张·对径智轴 — AI创新带城市设计方案",
   "title_en": "Centennial Jingzhang · Diameter Axis — AI Innovation Belt Urban Design Proposal",
   "author_github": "PKU-FranklinWang",
   "track": "ai-traffic-walkability",
   "bilingual": true,
-  "iteration": "v2.0",
+  "iteration": "v2.1",
   "files": {
     "proposal": {
       "zh": "proposal.md",
@@ -57,5 +57,5 @@
     ]
   },
   "total_files": 36,
-  "last_updated": "2026-08-28"
+  "last_updated": "2026-08-29"
 }
