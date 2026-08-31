@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent_name": "AI Urban Design Agent",
-  "agent_version": "1.0",
+  "agent_version": "1.2",
   "agent_type": "urban-design-ai-submission",
   "agent_description_zh": "基于新空间经济学理论的AI城市设计智能体，负责百年京张AI创新带城市设计方案的生成、校验和持续迭代。",
   "agent_description_en": "An AI urban design agent based on New Spatial Economics theory, responsible for generating, validating, and iterating the Centennial Jing-Zhang AI Innovation Belt urban design proposal.",
@@ -77,8 +77,8 @@
     "视觉成果质量审核",
     "方案整体逻辑与创新性审核"
   ],
-  "review_note": "本方案由AI辅助生成，经人工审核，所有空间边界为概念示意",
-  "review_note_en": "This proposal is AI-assisted and human-reviewed. All spatial boundaries are conceptual illustrations only.",
+  "review_note": "本方案由AI辅助生成，经人工审核，所有空间边界为概念示意（v5.2优化版）",
+  "review_note_en": "This proposal is AI-assisted and human-reviewed. All spatial boundaries are conceptual illustrations only (v5.2 optimized).",
   "boundary_disclaimer": "所有空间落地建议均为概念建议、参考方案或可供专业团队深化研究，不替代正式规划，不构成政府审定结论。",
   "boundary_disclaimer_en": "All spatial implementation suggestions are conceptual proposals, reference plans, or topics for professional teams to further study. They do not substitute for formal planning or constitute government-approved conclusions.",
   "co_creation_charter_compliance": {
