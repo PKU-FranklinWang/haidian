@@ -21,7 +21,14 @@
         "boundary_status": "provisional",
         "status": "provisional",
         "year": 2024,
-        "source": "概念设计示意，非官方精确边界"
+        "source": "概念设计示意，非官方精确边界",
+        "id": "SB-001",
+        "layer": "SITE_BOUNDARY",
+        "confidence": "medium",
+        "geometry_role": "provisional_constraint",
+        "source_type": "agent_inferred_from_public_data",
+        "source_id": "AGENT-DIAMETER-DESIGN-001",
+        "official_boundary": false
       },
       "geometry": {
         "type": "Polygon",
@@ -113,7 +120,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "SB-001"
     },
     {
       "type": "Feature",
@@ -128,7 +136,14 @@
         "boundary_status": "provisional",
         "status": "provisional",
         "year": 2024,
-        "source": "概念设计示意，非官方精确边界"
+        "source": "概念设计示意，非官方精确边界",
+        "id": "SB-002",
+        "layer": "SITE_BOUNDARY",
+        "confidence": "medium",
+        "geometry_role": "provisional_constraint",
+        "source_type": "agent_inferred_from_public_data",
+        "source_id": "AGENT-DIAMETER-DESIGN-001",
+        "official_boundary": false
       },
       "geometry": {
         "type": "Polygon",
@@ -204,7 +219,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "SB-002"
     }
   ]
 }
