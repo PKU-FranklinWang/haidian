@@ -291,7 +291,7 @@
       "role": "visualization",
       "required": false,
       "language": "zh",
-      "sha256": "1107b2d4c97b34676248f26fdaa56b84ee54879fdc031e72ae5d9e061e126918"
+      "sha256": "5b5be154a4f21c01978e31b2bdbeae4bba7779bbbe72e01a14ea6676741cc113"
     },
     {
       "path": "geometry/buildings.geojson",
