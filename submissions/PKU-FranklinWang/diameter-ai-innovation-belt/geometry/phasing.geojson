@@ -21,7 +21,13 @@
         "investment_estimate": "约35亿元",
         "description": "AI原点核心启动区，含算力中心、展示中心、孵化楼",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-001",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -49,7 +55,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-001"
     },
     {
       "type": "Feature",
@@ -64,7 +71,13 @@
         "investment_estimate": "约1.5亿元",
         "description": "京张铁路遗址公园示范段，先行启动建设",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-002",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -92,7 +105,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-002"
     },
     {
       "type": "Feature",
@@ -107,7 +121,13 @@
         "investment_estimate": "约0.8亿元",
         "description": "中关村智造大街升级改造",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-003",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -135,7 +155,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-003"
     },
     {
       "type": "Feature",
@@ -150,7 +171,13 @@
         "investment_estimate": "约5亿元",
         "description": "大钟寺文创产业先导区，AIGC内容创作孵化",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-004",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -178,7 +205,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-004"
     },
     {
       "type": "Feature",
@@ -193,7 +221,13 @@
         "investment_estimate": "约80亿元",
         "description": "AI原点全面建成，总部办公+研发+配套",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-005",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -221,7 +255,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-005"
     },
     {
       "type": "Feature",
@@ -236,7 +271,13 @@
         "investment_estimate": "约12亿元",
         "description": "京张铁路遗址公园全线贯通",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-006",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -264,7 +305,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-006"
     },
     {
       "type": "Feature",
@@ -279,7 +321,13 @@
         "investment_estimate": "约45亿元",
         "description": "众智园核心建设区，AI交叉研究+人才培养",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-007",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -307,7 +355,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-007"
     },
     {
       "type": "Feature",
@@ -322,7 +371,13 @@
         "investment_estimate": "约60亿元",
         "description": "大钟寺片区整体城市更新",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-008",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -350,7 +405,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-008"
     },
     {
       "type": "Feature",
@@ -365,7 +421,13 @@
         "investment_estimate": "约55亿元",
         "description": "众智园北部拓展区，上地基地联动",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-009",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -393,7 +455,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-009"
     },
     {
       "type": "Feature",
@@ -408,7 +471,13 @@
         "investment_estimate": "约20亿元",
         "description": "创新带全域智慧化与精细化运营",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "PH-010",
+        "layer": "PHASE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -436,7 +505,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "PH-010"
     }
   ]
 }
