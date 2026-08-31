@@ -22,7 +22,15 @@
         "boundary_status": "provisional",
         "status": "provisional",
         "position": "北部核心",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "zhongzhiyuan_ai_acceleration_area",
+        "layer": "KEY_AREA",
+        "confidence": "medium",
+        "geometry_role": "provisional_constraint",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001",
+        "area_id": "zhongzhiyuan_ai_acceleration_area",
+        "official_boundary": false
       },
       "geometry": {
         "type": "Polygon",
@@ -74,7 +82,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "zhongzhiyuan_ai_acceleration_area"
     },
     {
       "type": "Feature",
@@ -90,7 +99,15 @@
         "boundary_status": "provisional",
         "status": "provisional",
         "position": "中部核心",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "beijing_ai_origin_community",
+        "layer": "KEY_AREA",
+        "confidence": "medium",
+        "geometry_role": "provisional_constraint",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001",
+        "area_id": "beijing_ai_origin_community",
+        "official_boundary": false
       },
       "geometry": {
         "type": "Polygon",
@@ -134,7 +151,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "beijing_ai_origin_community"
     },
     {
       "type": "Feature",
@@ -150,7 +168,15 @@
         "boundary_status": "provisional",
         "status": "provisional",
         "position": "南部核心",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "dazhongsi_ai_industry_cluster",
+        "layer": "KEY_AREA",
+        "confidence": "medium",
+        "geometry_role": "provisional_constraint",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001",
+        "area_id": "dazhongsi_ai_industry_cluster",
+        "official_boundary": false
       },
       "geometry": {
         "type": "Polygon",
@@ -198,7 +224,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "dazhongsi_ai_industry_cluster"
     }
   ]
 }
