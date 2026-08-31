@@ -12,7 +12,7 @@
       "type": "Feature",
       "properties": {
         "name": "AI超级算力中心",
-        "building_type": "产业-科研办公",
+        "building_type": "ai_r_and_d",
         "floors": 12,
         "height_m": 60,
         "status": "新建",
@@ -21,7 +21,13 @@
         "footprint_m2": 109725.0,
         "description": "新建建筑 - 产业-科研办公",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-001",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -49,13 +55,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-001"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "AI创新大厦",
-        "building_type": "产业-总部办公",
+        "building_type": "office",
         "floors": 28,
         "height_m": 120,
         "status": "新建",
@@ -64,7 +71,13 @@
         "footprint_m2": 68630.0,
         "description": "新建建筑 - 产业-总部办公",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-002",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -92,13 +105,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-002"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "智能孵化楼A座",
-        "building_type": "产业-孵化器",
+        "building_type": "incubator",
         "floors": 8,
         "height_m": 36,
         "status": "新建",
@@ -107,7 +121,13 @@
         "footprint_m2": 35968.0,
         "description": "新建建筑 - 产业-孵化器",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-003",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -135,13 +155,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-003"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "智能孵化楼B座",
-        "building_type": "产业-孵化器",
+        "building_type": "incubator",
         "floors": 8,
         "height_m": 36,
         "status": "新建",
@@ -150,7 +171,13 @@
         "footprint_m2": 38398.0,
         "description": "新建建筑 - 产业-孵化器",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-004",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -178,13 +205,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-004"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "AI展示交流中心",
-        "building_type": "公共-展览展示",
+        "building_type": "cultural",
         "floors": 4,
         "height_m": 24,
         "status": "新建",
@@ -193,7 +221,13 @@
         "footprint_m2": 71145.0,
         "description": "新建建筑 - 公共-展览展示",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-005",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -221,13 +255,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-005"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "AI国际会议中心",
-        "building_type": "公共-会议会展",
+        "building_type": "cultural",
         "floors": 5,
         "height_m": 28,
         "status": "新建",
@@ -236,7 +271,13 @@
         "footprint_m2": 56579.0,
         "description": "新建建筑 - 公共-会议会展",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-006",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -264,13 +305,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-006"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "清华科技园创新大厦",
-        "building_type": "产业-科研办公",
+        "building_type": "ai_r_and_d",
         "floors": 18,
         "height_m": 75,
         "status": "保留",
@@ -279,7 +321,13 @@
         "footprint_m2": 69968.0,
         "description": "保留建筑 - 产业-科研办公",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-007",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -307,13 +355,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-007"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "清华科技园科技大厦",
-        "building_type": "产业-科研办公",
+        "building_type": "ai_r_and_d",
         "floors": 22,
         "height_m": 90,
         "status": "保留",
@@ -322,7 +371,13 @@
         "footprint_m2": 67978.0,
         "description": "保留建筑 - 产业-科研办公",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-008",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -350,13 +405,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-008"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "紫光大厦",
-        "building_type": "产业-办公",
+        "building_type": "office",
         "floors": 20,
         "height_m": 80,
         "status": "保留",
@@ -365,7 +421,13 @@
         "footprint_m2": 38697.0,
         "description": "保留建筑 - 产业-办公",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-009",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -393,13 +455,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-009"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "智造大街A栋",
-        "building_type": "产业-改造",
+        "building_type": "existing_retained",
         "floors": 5,
         "height_m": 22,
         "status": "改造",
@@ -408,7 +471,13 @@
         "footprint_m2": 34430.0,
         "description": "改造建筑 - 产业-改造",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-010",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -436,13 +505,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-010"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "智造大街B栋",
-        "building_type": "产业-改造",
+        "building_type": "existing_retained",
         "floors": 4,
         "height_m": 18,
         "status": "改造",
@@ -451,7 +521,13 @@
         "footprint_m2": 27459.0,
         "description": "改造建筑 - 产业-改造",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-011",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -479,13 +555,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-011"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "大钟寺中坤广场",
-        "building_type": "商业-改造",
+        "building_type": "retail",
         "floors": 5,
         "height_m": 28,
         "status": "改造",
@@ -494,7 +571,13 @@
         "footprint_m2": 142713.0,
         "description": "改造建筑 - 商业-改造",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-012",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -522,13 +605,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-012"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "AI文创产业园",
-        "building_type": "产业-文创",
+        "building_type": "cultural",
         "floors": 6,
         "height_m": 28,
         "status": "改造",
@@ -537,7 +621,13 @@
         "footprint_m2": 92198.0,
         "description": "改造建筑 - 产业-文创",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-013",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -565,13 +655,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-013"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "钟音阁文化地标",
-        "building_type": "公共-文化",
+        "building_type": "cultural",
         "floors": 3,
         "height_m": 18,
         "status": "新建",
@@ -580,7 +671,13 @@
         "footprint_m2": 47075.0,
         "description": "新建建筑 - 公共-文化",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-014",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -608,13 +705,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-014"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "AI交叉研究中心",
-        "building_type": "科研-高校",
+        "building_type": "education",
         "floors": 10,
         "height_m": 45,
         "status": "新建",
@@ -623,7 +721,13 @@
         "footprint_m2": 113267.0,
         "description": "新建建筑 - 科研-高校",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-015",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -651,13 +755,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-015"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "智源研究院新楼",
-        "building_type": "科研-研发机构",
+        "building_type": "ai_r_and_d",
         "floors": 12,
         "height_m": 50,
         "status": "新建",
@@ -666,7 +771,13 @@
         "footprint_m2": 117691.0,
         "description": "新建建筑 - 科研-研发机构",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-016",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -694,13 +805,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-016"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "AI联合实验室",
-        "building_type": "科研-实验室",
+        "building_type": "lab",
         "floors": 6,
         "height_m": 28,
         "status": "新建",
@@ -709,7 +821,13 @@
         "footprint_m2": 69186.0,
         "description": "新建建筑 - 科研-实验室",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-017",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -737,13 +855,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-017"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "人才公寓1号楼",
-        "building_type": "居住-公寓",
+        "building_type": "talent_apartment",
         "floors": 20,
         "height_m": 60,
         "status": "新建",
@@ -752,7 +871,13 @@
         "footprint_m2": 33514.0,
         "description": "新建建筑 - 居住-公寓",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-018",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -780,13 +905,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-018"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "人才公寓2号楼",
-        "building_type": "居住-公寓",
+        "building_type": "talent_apartment",
         "floors": 20,
         "height_m": 60,
         "status": "新建",
@@ -795,7 +921,13 @@
         "footprint_m2": 34582.0,
         "description": "新建建筑 - 居住-公寓",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-019",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -823,13 +955,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-019"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "知春里小区",
-        "building_type": "居住-住宅",
+        "building_type": "residential",
         "floors": 6,
         "height_m": 18,
         "status": "保留",
@@ -838,7 +971,13 @@
         "footprint_m2": 151242.0,
         "description": "保留建筑 - 居住-住宅",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-020",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -866,13 +1005,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-020"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "五道口嘉园",
-        "building_type": "居住-住宅",
+        "building_type": "residential",
         "floors": 25,
         "height_m": 75,
         "status": "保留",
@@ -881,7 +1021,13 @@
         "footprint_m2": 88527.0,
         "description": "保留建筑 - 居住-住宅",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-021",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -909,13 +1055,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-021"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "上地创新大厦",
-        "building_type": "产业-办公",
+        "building_type": "office",
         "floors": 15,
         "height_m": 60,
         "status": "保留",
@@ -924,7 +1071,13 @@
         "footprint_m2": 71786.0,
         "description": "保留建筑 - 产业-办公",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-022",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -952,13 +1105,14 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-022"
     },
     {
       "type": "Feature",
       "properties": {
         "name": "联想大厦",
-        "building_type": "产业-总部",
+        "building_type": "office",
         "floors": 12,
         "height_m": 50,
         "status": "保留",
@@ -967,7 +1121,13 @@
         "footprint_m2": 70170.0,
         "description": "保留建筑 - 产业-总部",
         "data_status": "provisional",
-        "source": "概念设计示意"
+        "source": "概念设计示意",
+        "id": "BL-023",
+        "layer": "BUILDING_FOOTPRINT",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -995,7 +1155,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "BL-023"
     }
   ]
 }
