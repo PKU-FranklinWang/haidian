@@ -76,7 +76,7 @@
       "role": "self_check",
       "required": true,
       "language": "zh",
-      "sha256": "e758ce594d5ab0da763010a482fad9ebc625f4fe47b4217b80e165b224af9ea4"
+      "sha256": "b79121744e350c015827732c634523d4a703c3292192d091af24843b65850261"
     },
     {
       "path": "proposal.md",
