@@ -19,7 +19,13 @@
         "length_m": 9221.0,
         "status": "provisional",
         "description": "主干路 - 南北向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-001",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -49,7 +55,8 @@
             40.03
           ]
         ]
-      }
+      },
+      "id": "RD-001"
     },
     {
       "type": "Feature",
@@ -62,7 +69,13 @@
         "length_m": 8914.0,
         "status": "provisional",
         "description": "主干路 - 南北向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-002",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -92,7 +105,8 @@
             40.032
           ]
         ]
-      }
+      },
+      "id": "RD-002"
     },
     {
       "type": "Feature",
@@ -105,7 +119,13 @@
         "length_m": 5460.0,
         "status": "provisional",
         "description": "快速路 - 东西向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-003",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -131,7 +151,8 @@
             39.983
           ]
         ]
-      }
+      },
+      "id": "RD-003"
     },
     {
       "type": "Feature",
@@ -144,7 +165,13 @@
         "length_m": 4089.0,
         "status": "provisional",
         "description": "主干路 - 东西向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-004",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -170,7 +197,8 @@
             39.991
           ]
         ]
-      }
+      },
+      "id": "RD-004"
     },
     {
       "type": "Feature",
@@ -183,7 +211,13 @@
         "length_m": 4217.0,
         "status": "provisional",
         "description": "主干路 - 东西向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-005",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -209,7 +243,8 @@
             39.973
           ]
         ]
-      }
+      },
+      "id": "RD-005"
     },
     {
       "type": "Feature",
@@ -222,7 +257,13 @@
         "length_m": 3070.0,
         "status": "provisional",
         "description": "次干路 - 东西向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-006",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -244,7 +285,8 @@
             40.012
           ]
         ]
-      }
+      },
+      "id": "RD-006"
     },
     {
       "type": "Feature",
@@ -257,7 +299,13 @@
         "length_m": 2040.0,
         "status": "provisional",
         "description": "主干路 - 东西向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-007",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -275,7 +323,8 @@
             39.945
           ]
         ]
-      }
+      },
+      "id": "RD-007"
     },
     {
       "type": "Feature",
@@ -288,7 +337,13 @@
         "length_m": 3148.0,
         "status": "provisional",
         "description": "次干路 - 东西向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-008",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -310,7 +365,8 @@
             39.958
           ]
         ]
-      }
+      },
+      "id": "RD-008"
     },
     {
       "type": "Feature",
@@ -323,7 +379,13 @@
         "length_m": 4422.0,
         "status": "provisional",
         "description": "次干路 - 南北向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-009",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -345,7 +407,8 @@
             39.995
           ]
         ]
-      }
+      },
+      "id": "RD-009"
     },
     {
       "type": "Feature",
@@ -358,7 +421,13 @@
         "length_m": 3316.0,
         "status": "provisional",
         "description": "次干路 - 南北向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-010",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -380,7 +449,8 @@
             40.008
           ]
         ]
-      }
+      },
+      "id": "RD-010"
     },
     {
       "type": "Feature",
@@ -393,7 +463,13 @@
         "length_m": 700.0,
         "status": "provisional",
         "description": "支路 - 东西向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-011",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -411,7 +487,8 @@
             39.983
           ]
         ]
-      }
+      },
+      "id": "RD-011"
     },
     {
       "type": "Feature",
@@ -424,7 +501,13 @@
         "length_m": 1216.0,
         "status": "provisional",
         "description": "支路 - 南北向",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-012",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -442,7 +525,8 @@
             39.965
           ]
         ]
-      }
+      },
+      "id": "RD-012"
     },
     {
       "type": "Feature",
@@ -455,7 +539,13 @@
         "length_m": 1498.0,
         "status": "provisional",
         "description": "支路 - 环形",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "RD-013",
+        "layer": "ROAD_CENTERLINE",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -481,7 +571,8 @@
             39.978
           ]
         ]
-      }
+      },
+      "id": "RD-013"
     }
   ]
 }
