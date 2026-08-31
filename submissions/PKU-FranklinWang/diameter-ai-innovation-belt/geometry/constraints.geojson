@@ -18,7 +18,13 @@
         "length_m": 9764.0,
         "description": "京张铁路遗址暨地铁13号线，核心约束条件与设计骨架",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "CS-001",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -56,7 +62,8 @@
             40.032
           ]
         ]
-      }
+      },
+      "id": "CS-001"
     },
     {
       "type": "Feature",
@@ -68,7 +75,13 @@
         "length_m": 4823.0,
         "description": "地铁10号线，地下轨道交通控制保护区",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "CS-002",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -94,7 +107,8 @@
             39.97
           ]
         ]
-      }
+      },
+      "id": "CS-002"
     },
     {
       "type": "Feature",
@@ -106,7 +120,13 @@
         "length_m": 1990.0,
         "description": "地铁15号线，地下轨道交通控制保护区",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "CS-003",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -124,7 +144,8 @@
             40.012
           ]
         ]
-      }
+      },
+      "id": "CS-003"
     },
     {
       "type": "Feature",
@@ -136,7 +157,13 @@
         "length_m": 9237.0,
         "description": "小月河滨水生态廊道，蓝绿空间保护",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "CS-004",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "LineString",
@@ -162,7 +189,8 @@
             40.035
           ]
         ]
-      }
+      },
+      "id": "CS-004"
     },
     {
       "type": "Feature",
@@ -176,7 +204,13 @@
         "status": "provisional",
         "data_source": "概念设计示意",
         "protection_level": "全国重点文物保护单位",
-        "height_limit_m": 18
+        "height_limit_m": 18,
+        "id": "CS-005",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -204,7 +238,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "CS-005"
     },
     {
       "type": "Feature",
@@ -217,7 +252,13 @@
         "description": "京张铁路遗址（清华园站等），工业遗产保护与再利用",
         "status": "provisional",
         "data_source": "概念设计示意",
-        "protection_level": "工业遗产"
+        "protection_level": "工业遗产",
+        "id": "CS-006",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -245,7 +286,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "CS-006"
     },
     {
       "type": "Feature",
@@ -258,7 +300,13 @@
         "description": "元大都城墙遗址，文物保护范围及建设控制地带",
         "status": "provisional",
         "data_source": "概念设计示意",
-        "protection_level": "市级文保单位"
+        "protection_level": "市级文保单位",
+        "id": "CS-007",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -286,7 +334,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "CS-007"
     },
     {
       "type": "Feature",
@@ -298,7 +347,13 @@
         "area_ha": 75.52,
         "description": "清华大学校园，权属协调难度大",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "CS-008",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -326,7 +381,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "CS-008"
     },
     {
       "type": "Feature",
@@ -338,7 +394,13 @@
         "area_ha": 78.64,
         "description": "北京航空航天大学校园",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "CS-009",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -366,7 +428,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "CS-009"
     },
     {
       "type": "Feature",
@@ -378,7 +441,13 @@
         "area_ha": 35.15,
         "description": "北京北站（西直门）综合交通枢纽",
         "status": "provisional",
-        "data_source": "概念设计示意"
+        "data_source": "概念设计示意",
+        "id": "CS-010",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -406,7 +475,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "CS-010"
     },
     {
       "type": "Feature",
@@ -419,7 +489,13 @@
         "description": "大钟寺文保单位周边建设控制地带，高度≤18m",
         "status": "provisional",
         "data_source": "概念设计示意",
-        "height_limit_m": 18
+        "height_limit_m": 18,
+        "id": "CS-011",
+        "layer": "REGULATORY_CONTROL",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "source_type": "agent_generated_design",
+        "source_id": "AGENT-DIAMETER-DESIGN-001"
       },
       "geometry": {
         "type": "Polygon",
@@ -447,7 +523,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": "CS-011"
     }
   ]
 }
