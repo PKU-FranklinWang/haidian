@@ -110,12 +110,11 @@ translation_of: "proposal.md"
 
 ### 1.2 Centennial Jingzhang: From Railway Origin to Digital-Intelligence New Diameter
 
-#### 1.2.1 Historical Heritage: A Railway and a Nation's Innovation Consciousness
+#### 1.2.1 Historical Heritage: A Railway and a Nation's Innovation
 
-The century-old Jingzhang Railway is a spatial footnote of China's modernization journey. In 1909, the Beijing-Zhangjiakou Railway, chief-engineered by Zhan Tianyou, conquered the Badaling Pass with the iconic "herringbone" switchback, becoming China's first independently designed and constructed trunk railway. It marked the historical starting point of the Chinese nation's independent innovation amidst the wave of industrial civilization. Over the past century, the Jingzhang Railway has been more than a transportation corridor — it has been an innovation belt. From the breakthrough in railway engineering technology, to the gestation of industrial civilization along the line, to the continuous accumulation of science and education resources after the founding of New China, this railway has always carried the era's mission of China catching up with the world through independent innovation.
+The Beijing-Zhangjiakou Railway is a spatial footnote to China's modernization. In 1909, Zhan Tianyou led its construction with the "herringbone" track solving Badaling — China's first independently designed trunk railway, marking the start of Chinese independent innovation. Over the century, Jingzhang evolved from engineering breakthrough to industrial growth to sci-edu accumulation.
 
-A century later, artificial intelligence is triggering a new round of productivity revolution, and the digital-intelligence economy has become the core battlefield of great power competition. From railway to AI, from industrial civilization to digital-intelligence civilization, the Jingzhang corridor once again stands at the intersection of history. In the past, it was the starting point of modernization — "opening railways, connecting the world." Today, it is the origin of new quality productive forces — "connecting the intelligence diameter, creating the future." The Centennial Jingzhang is not merely a route in geographical space; it is the historical vertical axis of China's innovation spirit.
-
+Today, AI drives a new productivity revolution. From railway to AI, from industrial to digital civilization, Jingzhang stands again at history's intersection — from "opening railways, connecting the world" to "opening intelligence paths, creating the future." It is China's innovation spirit in space.
 #### 1.2.2 Era Proposition: The Changing Spatial Logic of the Digital-Intelligence Economy
 
 In the era of the digital-intelligence economy, the underlying logic of urban development is undergoing profound transformation. In the traditional industrial economy, industrial location depends on transportation costs, resource endowments, and scale effects. In the digital-intelligence economy, **innovation becomes the primary productive force, talent becomes the primary resource, and spatial quality becomes the primary determinant of talent location choice**.
@@ -281,22 +280,37 @@ The quality gradient of "learning-oriented → innovation-oriented → industry-
 ---
 
 
-### 1.6 Agent Six Required Tasks Mapping
+### 1.6 Task Book Requirements Response Matrix
 
-Per the taskbook [source:AGENT-TASKBOOK], six tasks are addressed as follows:
+Per the competition task book [source:AGENT-TASKBOOK], this proposal systematically responds to all core requirements:
 
-| ID | Task Name | Response Chapters | Completeness |
-|----|-----------|-------------------|-------------|
-| agent.1 | Overall Concept & Functional Coordination | Ch.1/3/4 + Spatial Structure | High |
-| agent.2 | Full-Stack AI Innovation Ecosystem Design | Ch.3.2-3.4 + Ch.6 | High |
-| agent.3 | AI+ Scenario Empowerment & Vital City Design | Ch.5/6 + Scenario Cards | High |
-| agent.4 | AI Public Space & Pilgrimage Landmarks | Ch.9 + Landmarks + Components | Med-High |
-| agent.5 | Tri-Culture Integration Narrative Design | Ch.1.2 + Ch.9.4 | Medium |
-| agent.6 | Global AI Activities & Long-Term Operation | Ch.10 + Vitality System | Medium |
+| Task Book Requirement | Proposal Response | Key Points |
+|----------------------|-------------------|------------|
+| **Jingzhang Railway Heritage** | Sec 1.2 + 4.3 + 9.2 | 9km heritage park, seven-path section, three-culture narrative |
+| **AI Innovation Belt Positioning** | Sec 3.1-3.4 + 6.1 | Diameter quality gradient, full-chain AI ecosystem, 13 scenarios |
+| **Urban Renewal & Reg Plan Depth** | Sec 4.4-4.7 + Ch 7 + 11 | Ten flagship projects, 32 indicators, compliance matrix |
+| **Key Area Detailed Design** | Ch 5 (5.1-5.3) | A1/A2/A3 detailed design, spatial structure, AI scenarios |
+| **Implementation Policy & Phasing** | Sec 10.1-10.5 | Three-phase path, ten projects, policy + operations |
+| **Indicator System** | Ch 11 + metrics.json | 6-dim 7-degree system, 32 core indicators |
+| **Public Interest & Inclusiveness** | Sec 9.3 + 10.6 | Three-level public space, co-governance, benefit sharing |
+| **Blue-Green Ecological Space** | Sec 9.1 + 8.5 | One-ridge three-corridors, sponge city |
+| **Transportation Optimization** | Sec 8.1-8.3 | Narrow roads dense net, rail micro-centers |
 
-> All content is conceptual proposal (provisional), not constituting approval/implementation basis. See Ch.12 for delivery audit.
 
-### 1.7 Terminology and Abbreviations
+### 1.7 Agent Six Mandatory Tasks Comparison Table
+
+Per the task book [source:AGENT-TASKBOOK], responses to six tasks are as follows:
+
+| ID | Task Name | Response Chapter | Completion |
+|----|-----------|-----------------|------------|
+| agent.1 | Overall Concept & Functional Coordination | Ch 1/3/4 + Spatial Structure | High |
+| agent.2 | AI Full-Stack Innovation System & Ecosystem | Sec 3.2-3.4 + Ch 6 | High |
+| agent.3 | AI+ Scenario Empowerment & Vibrant City | Ch 5/6 + Scenario Cards | High |
+| agent.4 | AI Public Space & Pilgrimage Landmarks | Ch 9 + Landmarks + Library | High |
+| agent.5 | Three-Culture Integrated Narrative | Sec 1.2 + 9.2/9.4 | Medium-High |
+| agent.6 | Global AI Activity & Operations | Ch 10 + Vitality System | Medium-High |
+
+### 1.8 Terminology and Abbreviations
 
 | Chinese | English | Abbrev. |
 |---------|---------|---------|
@@ -314,7 +328,7 @@ Per the taskbook [source:AGENT-TASKBOOK], six tasks are addressed as follows:
 
 > 11 core terms defined throughout the document. See terminology index for details.
 
-### 1.8 Source and Evidence Grading
+### 1.9 Source and Evidence Grading
 
 This proposal follows the organizer's source registry system, with 21 sources cited. Evidence status markers: `[source:SRC-XXX]` source citation, `[metric:xxx]` metric data, `provisional` pending verification, `scenario-target` scenario goal, `observed` current status data. See Section 12.3 and sources.json for detailed source audit.
 
@@ -434,6 +448,8 @@ Establish a quantifiable, monitorable, and iterable spatial quality assessment s
 
 ## Chapter 3 Coordinated Research Area: Industry and Future City Research
 
+> **📌 Task Book Response**: This chapter responds to "AI Innovation Belt Industry Positioning", proposing the development concept, strategic positioning, core functions, and spatial pattern from a New Spatial Economy perspective. All indicators are conceptual research parameters for reference only.
+
 
 > ⚠️ **Conceptual Research Chapter**: Content in this chapter represents conceptual scenario research parameters. All boundaries/indicators/schemes are provisional and do not constitute statutory basis.
 ### 3.1 Development Vision: Six-Dimension Quality Supply System Based on New Spatial Economics
@@ -490,22 +506,20 @@ The theoretical significance of this mapping lies in: it transforms the people's
 
 #### 3.1.3 Spatial Supply Pathways for Six Types of Quality
 
-Based on the above mapping framework, this proposal systematically supplies six types of spatial quality through the Diameter AI Innovation Belt spatial structure.
+Based on the mapping framework above, this proposal systematically supplies six types of spatial quality through the diameter-type spatial structure. Each quality type has clear spatial carriers and design strategies:
 
-**Innovation-oriented quality supply**: Taking "One Diameter · Three Cores · Multiple Courts" as the spatial carrier, reducing the mobility cost of knowledge exchange through linear corridors, meeting the spatial needs of different innovation stages through the three-core gradient configuration, and providing hierarchical exchange scenarios through the multi-court system.
+**Six Quality Types and Spatial Supply Paths**:
 
-**Livable quality supply**: Taking "multiple courts" living courtyards and the 15-minute living circle as spatial carriers, reducing commuting time through functional mixing, reducing living costs through talent housing security, and improving life convenience through improved public services.
+| Quality Type | Spatial Carrier | Design Strategies |
+|-------------|---------------|-------------------|
+| Innovation | One diameter · three cores · multi-courtyards | 5-min exchange circle, IUR proximity, shared spaces |
+| Livability | Multi-courtyards + 15-min life circles | Job-housing balance, walk-friendly, equal services |
+| Beauty | Jingzhang Heritage Park + blue-green system | Blue-green interweave, heritage activation, year-round |
+| Resilience | Disaster prevention + sponge city | Decentralized buffering, multi-source guarantee, smart warning |
+| Civilization | Cultural heritage axis + public art | Heritage activation, art embedding, cultural empowerment |
+| Smartness | AI urban brain + smart facilities | Public sensing (list pub), smart ops, data openness |
 
-**Beautiful quality supply**: Taking Jing-Zhang Railway Heritage Park vitality belt and the blue-green space system as spatial carriers, maximizing landscape coverage efficiency through linear green corridors, strengthening uniqueness and recognition through heritage cultural landscapes, and extending quality experience time through four-season landscape design.
-
-**Resilient quality supply**: Taking the disaster prevention space system and sponge city facilities as spatial carriers, constructing emergency evacuation corridors through linear open spaces, improving rainwater management elasticity through decentralized sponge facilities, and enhancing security assurance through smart security systems.
-
-**Civilized quality supply**: Taking the Jing-Zhang Railway cultural heritage axis and public art system as spatial carriers, shaping identity through the century-old Jing-Zhang historical context, enhancing place spirit through public art, and forging community consensus through innovative cultural activities.
-
-**Smart quality supply**: Taking the AI urban brain and full-scenario smart facilities as spatial carriers, improving spatial operation efficiency through the digital twin base, empowering innovation experience through AI scenarios, and reducing information costs through open data.
-
-The six types of quality are not isolated from each other, but form a composite and superimposed quality supply system along the diameter axis. The closer to the core node, the higher the degree of quality superposition, and the stronger the comprehensive attractiveness to talents.
-
+The six quality types are not isolated but form a composite overlay system along the diameter axis. Closer to core nodes means higher quality superposition and stronger comprehensive talent attraction. This composite quality strategy is the concrete practice of New Spatial Economy's "multi-dimensional quality synergistically driving talent agglomeration" theory in spatial design.
 ### 3.2 Three Strategic Positionings
 
 Based on the core logic of New Spatial Economics — "spatial quality drives talent agglomeration, talent agglomeration drives industrial innovation" — combined with the six-dimensional goals of the people's city and the requirements of the three-tier "15th Five-Year Plan", starting from **the hierarchy and types of spatial quality supply**, three strategic positionings for the Centennial Jing-Zhang AI Innovation Belt are established.
@@ -742,6 +756,8 @@ Spatial structure: Diameter as north-south spine, west linking Zhongguancun, eas
 > Note: Regional synergy mechanisms and spatial patterns are conceptual research proposals, not statutory planning or official commitments.
 
 ## Chapter 4 Overall Design Area: Urban Renewal and Regulatory-Plan-Level Urban Design
+
+> **📌 Task Book Response**: This chapter responds to "Urban Renewal & Regulatory Plan Depth", aligning with Haidian District Plan, proposing renewal framework, land optimization, and character guidance at master urban design level. All indicators are conceptual research parameters for reference only.
 
 
 > ⚠️ **Conceptual Research Chapter**: Content in this chapter represents conceptual scenario research parameters. All boundaries/indicators/schemes are provisional and do not constitute statutory basis.
@@ -1092,6 +1108,8 @@ This chapter has established the overall spatial structure of "One Diameter · T
 
 ## Chapter 5 Detailed Design of Key Areas
 
+> **📌 Task Book Response**: This chapter responds to "Detailed Design of Key Areas", conducting in-depth design for three core districts, covering spatial structure, building renewal, transport, public space, and AI scenarios. All indicators are conceptual research parameters for reference only.
+
 
 > ⚠️ **Conceptual Research Chapter**: Content in this chapter represents conceptual scenario research parameters. All boundaries/indicators/schemes are provisional and do not constitute statutory basis.
 ### 5.1 A1 District: Collective Intelligence Park AI Independent Innovation Acceleration Zone
@@ -1106,16 +1124,18 @@ This chapter has established the overall spatial structure of "One Diameter · T
 
 **Positioning**: Core bearing area of AI full-stack independent innovation system, first station for university achievement transformation in North Campus area, main front for "from 0 to 1" original breakthroughs.
 
-**Economic Logic of Positioning**:
-From the perspective of New Spatial Economics, the core value of the Collective Intelligence Park District lies in it being **the highest-density supply area of learning-oriented spatial quality** — adjacent to top universities such as Tsinghua, Peking University, Beihang, and BUPT, it naturally possesses the richest academic resources, the strongest research atmosphere, and the highest density of research talent reserves. This learning-oriented quality is the "source endowment" of dynamic talent agglomeration and also the starting point of knowledge spillovers for the entire innovation belt.
+**Economic logic**: Zhongzhiyuan is the **highest-density learning-quality supply area** — adjacent to top universities (Tsinghua, PKU, Beihang, BUPT) with richest academic resources and densest research talent. This learning quality is talent agglomeration's "source endowment" and the belt's knowledge spillover origin.
 
-- **Quality type**: Learning-oriented spatial quality as the leading factor, superimposed with initial supply of innovation-oriented quality
-- **Talent agglomeration type**: AI scientists, researchers, young scholars, doctoral students and other research talents
-- **Knowledge spillover direction**: Spilling over from universities to the park (basic research results → technology transformation)
-- **Position in the diameter gradient**: The northern starting point of the quality gradient, the "source point" of talent flow
+- **Quality type**: learning-oriented dominant + initial innovation-oriented supply
+- **Talent type**: AI scientists, researchers, young scholars, PhD candidates
+- **Spillover direction**: university-to-park (basic research → tech transformation)
+- **Gradient position**: northern start, talent flow "source point"
 
-**Core Values**:
-
+**Core value**:
+- Top-university learning-quality endowment — natural talent "gravity source"; activate, don't build from scratch
+- National labs nearby — research talent density near critical mass; breaking barriers rapidly releases spillovers
+- Low-density garden-style park scale — matches research talent preference for quiet, beautiful environments
+- Diameter axis northern endpoint — southward talent flow carries knowledge to incubation and transformation
 #### 5.1.2 Spatial Structure
 
 **"One Corridor · Two Belts · Three Parks · Multiple Courtyards" Spatial Structure**
@@ -1198,16 +1218,19 @@ The virtual space of the Collective Intelligence Park district is positioned as 
 
 **Positioning**: AI technology source and talent vitality core, energy hub of the innovation diameter, destination for global AI young talents, main front for "from 1 to 100" technology incubation.
 
-**Economic Logic of Positioning**:
-From the perspective of New Spatial Economics, the core value of the AI Origin Community lies in it being **the highest-density supply area of innovation-oriented spatial quality** — located at the midpoint of the diameter axis, it is the intersection and converter of learning-oriented quality and industry-oriented quality. Here, there is not only knowledge and research talents spilling over from the northern universities, but also market channels leading to the southern industrial zone.
+**Economic logic**: AI Origin Community is the **highest-density innovation-quality supply area** — at the diameter midpoint, it's the intersection/converter of learning and industry quality. Northern university knowledge meets southern industrial market access, generating maximum collision and vitality.
 
-- **Quality type**: Innovation-oriented spatial quality as the leading factor, being the composite intersection area of learning-oriented and industry-oriented quality
-- **Talent agglomeration type**: Entrepreneurs, product managers, technical partners, investors and other entrepreneurial ecosystem talents
-- **Knowledge spillover mechanism**: Bidirectional knowledge spillover — research results are transformed southward into startup projects, industrial demands are fed back northward into research topics
-- **Position in the diameter gradient**: The core conversion node of the quality gradient, the "hub" of talent flow
+- **Quality type**: innovation-oriented dominant, composite learning+industry zone
+- **Talent type**: entrepreneurs, product managers, technical partners, investors
+- **Spillover mechanism**: bidirectional — research results transform south, industry demand feeds north
+- **Gradient position**: core transformation node, talent flow "hub"
 
-**Core Values**:
-
+**Core value**:
+- Wudaokou's international atmosphere and youth convergence — core innovation-quality elements
+- Zhichun Road's mature startup ecosystem — startup atmosphere itself is quality; circular cumulative causation
+- Transport hub (Lines 13 & 10) — reduces flow time cost, core node of talent network
+- Mature commerce, high convenience — livability supports innovation quality, 24hr innovation possible
+- Diameter geometric midpoint — shortest distances to both ends, lowest exchange cost, highest efficiency
 #### 5.2.2 Spatial Structure
 
 **"One Core · Two Axes · Three Slices · Multiple Nodes" Spatial Structure**
@@ -1467,18 +1490,22 @@ AI innovation ecosystem evolution follows the New Spatial Economy "quality-talen
 
 The diameter-type spatial structure drives dynamic talent distribution through quality gradients — northern learning quality attracts research talent, middle innovation quality attracts entrepreneurial talent, southern industrial quality attracts industry talent. The linear corridor promotes talent flow between nodes, enabling knowledge spillover and innovation diffusion.
 
-#### 6.1.2 Spatial Quality Foundation of the Full-Chain Innovation Ecosystem
+#### 6.1.2 Spatial Quality Foundation of Full-Chain Innovation Ecosystem
 
-The full-chain AI innovation ecosystem includes five stages: basic research → technological breakthrough → startup incubation → industrial transformation → scenario application. Each stage corresponds to different spatial quality requirements and is carried by different spatial nodes along the diameter:
+AI innovation ecosystems need concrete spatial quality carriers. The full chain from basic research to industry corresponds to a complete quality gradient from learning to industry. **Each innovation chain link needs specific quality support; gradient continuity determines ecosystem integrity and efficiency**.
 
-| Innovation Stage | Spatial Carrier | Quality Type | Core Talent |
-|-----------------|---------------|-------------|------------|
-| Basic Research | Zhongzhiyuan (North Core) | Learning-oriented | Researchers, PhDs, professors |
-| Tech Breakthrough | Zhongzhiyuan + AI Origin | Learning + Innovation | R&D engineers, technical experts |
-| Startup Incubation | AI Origin (Middle Core) | Innovation-oriented | Founders, product managers, developers |
-| Industrial Transformation | Dazhongsi (South Core) | Industry-oriented | Executives, industrial engineers, operations |
-| Scenario Application | Along the diameter + two rings | Smart + Lifestyle | Scenario architects, UX designers, operators |
+- **Basic research**: needs learning quality — quiet environment, academic atmosphere, rich resources, convenient exchange. Universities supply this naturally; diameter structure extends spillover to parks
+- **Tech incubation**: needs innovation quality — high-density exchange, startup services, investment atmosphere, diverse talent. Achieved via small blocks, mixed functions, shared spaces
+- **Industrial transformation**: needs industry quality — large-scale offices, business support, supply chains, market access. Needs spatial linkage with upstream to avoid "innovation islands"
 
+**Gradient continuity is critical**: quality faults block talent flow and spillovers, breaking the chain. Diameter structure linearly distributes learning-innovation-industry gradients along the axis, ensuring smooth transitions.
+
+**Six-quality synergy logic**:
+- **Core driver**: learning + innovation + industry gradient → drives full chain
+- **Basic guarantee**: livability + beauty + resilience → extends stay, improves life, ensures safety
+- **Efficiency amplifier**: smartness → reduces info cost, accelerates flow, improves governance
+
+Ecosystem cultivation is gradual. Quality supply pace must match evolution: learning quality first to activate stock, then innovation to catalyze incubation, then industry for value amplification. This is phasing's economic basis.
 #### 6.1.3 Talent Flow: "Circulatory System" of the Innovation Ecosystem
 
 Talent frequency, direction, and quality of flow determine ecosystem vitality. The diameter design maximizes talent flow efficiency through high-quality corridors, gradient nodes, and exchange networks. The "source-flow-sink" gradient spatial organization ensures both specialized division of labor and efficient knowledge spillover.
@@ -1844,6 +1871,15 @@ A dynamic compliance review mechanism is established: regular reassessment as re
 
 [metric:floor-area-by-function]
 
+**Affordable Space Allocation** (provisional):
+
+| Space Type | Scale (10k m²) | % of Function | Beneficiaries |
+|------------|----------------|---------------|---------------|
+| Affordable rental housing | ~90 | ~20% res. | New citizens, youth, low-income |
+| Talent apartments | ~63 | ~14% res. | Young S&T talent |
+| Non-profit maker spaces | ~32 | ~4% office | Startups, students, social entreps |
+| Non-profit cultural facilities | ~13 | ~10% pub. svc | All citizens free |
+| **Total** | **~198** | **~11% total** | - |
 #### 7.2.3 FAR Conceptual Suggestions (for Specialized Research Reference)
 
 > The FAR and building scale in the table below are **conceptual suggestion parameters** for professional teams to further study, not statutory control indicators.
@@ -2206,6 +2242,12 @@ According to the "15-minute quality living circle" standard, build a three-tier 
 | Community Level | 500-800m | Primary schools, community health centers, cultural stations, sports facilities | 1 per community |
 | Neighborhood Level | 300m | Kindergartens, convenience stores, pocket parks, elderly service stations | Balanced layout as needed |
 
+**Equalization measures** (provisional):
+- Balanced distribution: unified standards across districts, per-capita facility deviation ≤10%
+- Vulnerable priority: accessibility, senior/child facilities in early construction
+- Welfare guarantee: ≥60% public education/medical/cultural facilities
+- AI-enabled equity: smart services tilted to vulnerable groups
+
 #### 8.6.2 Key Public Service Facilities List
 
 **Educational Facilities**:
@@ -2408,7 +2450,21 @@ The temporal design is organically combined with the seven scenario courtyards, 
 
 ### 9.5 AI Pilgrimage Landmarks
 
-#### Landmark 1: AI Origin Tower (No.1 Innovation Origin)
+####
+#### 9.3.5 Inclusive and All-Age Friendly Design
+
+**Inclusive Design Targets** (provisional):
+
+| Group | Design Focus | Standard |
+|-------|-------------|----------|
+| Seniors | Ramps, rest seats, anti-slip, large-print | Rest every 200m, ≥20 seats/km |
+| Children | Safe play, nature exploration, family WC | Activity point every 500m |
+| Disabled | Full barrier-free, tactile paths, audio | 100% wheelchair access |
+| Low-income | Non-profit makers, affordable dining | ≥15% public makers, 300m cover |
+| Women | Safe lighting, nursing rooms, night escort | Nursing rooms in major spaces |
+
+**Principles**: universal design, minimum intervention, mixed services, cultural inclusion.
+ Landmark 1: AI Origin Tower (No.1 Innovation Origin)
 
 **Location**: Core area of AI Origin Community, intersection of Jing-Zhang Innovation Diameter and Chengfu Road
 **Height**: ~150 meters, 30 floors
@@ -2580,6 +2636,8 @@ This proposal constructs a **public space AI component library with 7 categories
 
 ## Chapter 10 Renewal Projects, Implementation Policy, and Phasing
 
+> **📌 Task Book Response**: This chapter responds to "Implementation Policy & Phasing", proposing renewal project list, phased implementation path, policy support system, and operations mechanism. All indicators are conceptual research parameters for reference only.
+
 
 > ⚠️ **Conceptual Research Chapter**: Content in this chapter represents conceptual scenario research parameters. All boundaries/indicators/schemes are provisional and do not constitute statutory basis.
 > **Concept Scenario Disclaimer**: All projects, investments, timelines, and policy tools in this chapter are **conceptual scenario assumptions** and do not constitute government commitments or approval conclusions. The initiation, progression, and exit of action packages depend on prerequisites such as superior planning approval, funding availability, and market participant willingness.
@@ -2660,32 +2718,16 @@ All investment data in this proposal are conceptual estimates. Specific costs ne
 
 ### 10.2 Phased Scenario Planning (Research Parameters)
 
-#### Economic Logic of Phasing: Gradual Agglomeration Along the Quality Gradient
+#### Economic Logic of Phasing: Gradual Agglomeration Along Quality Gradients
 
-Phased implementation is not simply a schedule of engineering progress, but a strategic deployment that follows the causal chain of New Spatial Economics — "quality supply → talent agglomeration → industrial innovation" — and progresses gradually from north to south along the quality gradient of the diameter axis. Its core logic is: **first build the quality source and initiate talent agglomeration, then build the transformation node and catalyze innovation incubation, and finally build the industrial terminal and realize value amplification**.
+Phased implementation follows the New Spatial Economy chain of "quality supply → talent agglomeration → industrial innovation," advancing north-to-south along the gradient: **build quality sources first → initiate talent agglomeration → build transformation nodes → build industrial terminals for value amplification**. Each stage builds on prior talent density and vitality, pushing the system across critical mass into self-organizing circular cumulative causation.
 
-```
-Phase 1 (Startup) →  Phase 2 (Acceleration) →  Phase 3 (Maturity)
-  Northern Section First     Central Section Rise      Southern Section Takes Shape
-    ↓                           ↓                           ↓
-Build quality source       Build innovation hub       Build industrial terminal
-    ↓                           ↓                           ↓
-Attract first batch of     Explosive growth of        Large-scale agglomeration of
-research talents           entrepreneurial talents     industrial talents
-    ↓                           ↓                           ↓
-Start circular cumulative  Breakthrough of critical   Enter self-organized evolution
-causation                  mass
-```
+**Three-Stage Path**:
+- **North First** (Zhongzhiyuan): leverage university learning-quality endowment, activate talent stock at lowest cost, start positive feedback
+- **Middle Undertaking** (AI Origin): when north reaches critical mass and demand emerges, use midpoint geometry (lowest exchange cost) for incubation — demand-driven, reducing vacancy risk
+- **South Completion** (Dazhongsi): when middle incubates mature enterprises, build industrial terminals forming "source-flow-convergence" loop, system enters self-organization
 
-**Economic Logic: Gradual Agglomeration Along the Quality Gradient (Three-Phase Path)**
-
-Following the New Spatial Economics causal chain of "quality supply → talent agglomeration → industrial innovation," phasing follows a progressive path: northern start → central rise → southern take shape.
-
-- **Northern start (CIP)**: Leverage the initial learning-quality endowment of university resources to activate talent stock at lowest cost, quickly starting the positive feedback of "quality improvement → talent agglomeration → innovation growth," forming a source demonstration effect.
-- **Central承接 (AI Origin)**: When northern talent reaches critical mass and entrepreneurial demand naturally emerges, build incubation space using the geometric advantage of the diameter midpoint (lowest knowledge exchange cost), achieving "demand-driven" rather than "supply-driven" to reduce vacancy risk.
-- **Southern completion (Dazhongsi)**: When mature enterprises are incubated in the central section and industrial demand overflows, build industrial terminal space to form a complete "source-flow-convergence" closed loop, entering self-organized evolution.
-
-
+Risk assessment based on multiple studies including [source:SRC-001].
 #### Three-Phase Implementation Roadmap (Text Version · Concept Scenario)
 
 Three-phase implementation follows the economic logic of "gradual agglomeration along the quality gradient", with each phase corresponding to different AI technology maturity nodes, ensuring technology supply and spatial construction advance in sync.
@@ -2795,7 +2837,19 @@ The **"AI Space Operator" (AISO) model** proposed in this scheme is an operation
 
 ### 10.5 Vitality Construction System
 
-"Activity-Space-Community" trinity vitality system: brand activity matrix (AI conjecture conference, Jing-Zhang innovation week, Seven Star creative market), vitality space network (24h innovation district, night economy belt, cultural spaces), community ecosystem (tech communities, industry alliances, interest groups).
+
+#### Three-Level Public Participation
+
+**Full-process participation** (pre/during/post planning):
+
+| Stage | Methods | Participants | Output |
+|-------|---------|-------------|--------|
+| Pre | Surveys, interviews, hearings | Residents, enterprises, experts | Needs report |
+| During | Display, workshops, councils, vote | Citizens, stakeholders | Adoption statement |
+| Post | Satisfaction, ops assessment, council | Residents, enterprises, 3rd party | Annual assessment |
+
+**Guarantees**: multi-channel access, multilingual info, feedback, monitoring.
+
 
 ### 10.5.1 Seven-Star Diameter System AI Governance Innovation
 
@@ -2906,6 +2960,7 @@ The "Co-Creation · Co-Building · Co-Sharing" system is the **core engine for g
 ---
 ## Chapter 11 Metrics, Area Recalculation, and Compliance Matrix
 
+> **📌 Task Book Response**: This chapter responds to the task book requirement for "Indicator System," constructing a 6-dimension 7-degree integrated indicator system with 32 core indicators covering industry, space, ecology, transport, public services, and innovation ecosystem, with area recalculation and compliance matrix for quantifiable monitoring and evaluation.
 
 > ⚠️ **Conceptual Research Chapter**: Content in this chapter represents conceptual scenario research parameters. All boundaries/indicators/schemes are provisional and do not constitute statutory basis.
 

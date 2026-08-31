@@ -296,14 +296,14 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "27e3eb4199e95224f81c9f2aa8a19d3ac964ed420e35794cb88185606db988f7"
+      "sha256": "9e7d2b57226f902c357ba7331f119f7863efe33c5c250cb12cc9a13540e9f11f"
     },
     {
       "path": "proposal.md",
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "36e839bd330de173f6c9a479f4020993d43d74b61d2caf2652ee51141e3c9de1"
+      "sha256": "1db37b1bb2e30892519d96ada1d728d6423e90f4b99bc7aa6f33fbd280d72d41"
     },
     {
       "path": "report/copyright_statement.md",
