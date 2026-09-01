@@ -1069,5 +1069,26 @@
     }
   ],
   "complete_count": 29,
-  "coverage_rate": 1.0
+  "coverage_rate": 1.0,
+  "scope_statement": {
+    "zh": "设计深度矩阵基于三层范围体系：统筹研究层43.6km²、总体设计层11.4km²、重点区域层368.4ha（A1众智园/A2AI原点/A3大钟寺三大片区）。不同深度要求对应不同范围层级，所有空间边界均为provisional状态。",
+    "en": "Design depth matrix is based on a three-level scope system: coordinated research level (43.6km²), overall design level (11.4km²), key areas level (368.4ha across A1/A2/A3 districts). Different depth requirements correspond to different scope levels. All spatial boundaries are provisional.",
+    "three_levels": [
+      {
+        "level": "research",
+        "area": "43.6km²",
+        "description_zh": "统筹研究范围"
+      },
+      {
+        "level": "design",
+        "area": "11.4km²",
+        "description_zh": "总体设计范围"
+      },
+      {
+        "level": "detailed",
+        "area": "368.4ha",
+        "description_zh": "重点区域（A1/A2/A3三大片区）"
+      }
+    ]
+  }
 }

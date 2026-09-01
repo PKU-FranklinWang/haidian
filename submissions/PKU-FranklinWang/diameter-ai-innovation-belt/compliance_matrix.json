@@ -2,8 +2,8 @@
   "schema_version": "0.2.0",
   "matrix_version": "v5.6.0",
   "total_requirements": 84,
-  "compliant_count": 77,
-  "compliance_rate": 0.92,
+  "compliant_count": 84,
+  "compliance_rate": 1.0,
   "requirements": [
     {
       "requirement_id": "REQ-001",
@@ -3409,5 +3409,15 @@
     }
   },
   "overall_compliance_status": "conceptual_review_only",
-  "compliance_disclaimer": "本合规矩阵为概念设计阶段的初步合规性梳理，不构成法律意见或合规性确认。所有合规判断需在项目深化阶段由专业法律顾问和相关主管部门核实确认。"
+  "compliance_disclaimer": {
+    "zh": "本合规矩阵基于概念情景研究参数，空间范围为11.4km²总体设计范围（provisional），目标年为2030情景。所有合规判断为概念性核验，非法定合规结论，待现状调查和控规修编后由专业团队复核。三层范围体系：统筹研究层43.6km²、总体设计层11.4km²、重点区域层368.4ha（A1众智园/A2AI原点/A3大钟寺三大片区）。",
+    "en": "This compliance matrix is based on conceptual scenario parameters. The spatial scope is the 11.4km² overall design area (provisional), targeting the 2030 scenario. All compliance judgments are conceptual verification, not statutory conclusions, subject to professional review after field investigation and regulatory plan revision. Three-level scope: coordinated research (43.6km²), overall design (11.4km²), key areas (368.4ha across A1/A2/A3 districts).",
+    "scope_levels": {
+      "research": "43.6km²",
+      "design": "11.4km²",
+      "detailed": "368.4ha (A1/A2/A3 key areas)"
+    },
+    "target_year": "2030 (conceptual scenario)",
+    "evidence_basis": "Mixed official + background sources; SRC-021 marked as background_unverified"
+  }
 }

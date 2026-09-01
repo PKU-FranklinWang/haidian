@@ -55,7 +55,7 @@
       "role": "compliance_matrix",
       "required": true,
       "language": "zh",
-      "sha256": "597b3c44673c579b4921ba3153e008e773341941895f03d982d170fa8c81676e"
+      "sha256": "a748f4ab6b71ee1cf4aa73b633aaf90c28e110d1c061605eaf1c194f765214e8"
     },
     {
       "path": "standard_matrix.json",
@@ -69,7 +69,7 @@
       "role": "design_depth_matrix",
       "required": true,
       "language": "zh",
-      "sha256": "d6b2ecbdd9e2e53fed1b19728c6b74da149c8bc2033ec90735bf5e5c6532913a"
+      "sha256": "c5c7243e3ce38fc379e98fd654ff15f62d9a07b85a8f59244c13cb0029f42965"
     },
     {
       "path": "self_check.json",
