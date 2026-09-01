@@ -8,11 +8,11 @@
   },
   "metrics": {
     "IND-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 3000,
       "unit": "count",
       "source_files": [],
-      "formula": "scenario target 2030; based on industry agglomeration forecast; confidence=low",
+      "formula": "2035 planning target; based on industry agglomeration forecast; confidence=low",
       "confidence": "scenario target",
       "assumptions": [],
       "name": "AI企业数量",
@@ -22,23 +22,25 @@
       "source_refs": [
         "scenario estimate, based on Haidian AI industry agglomeration forecast"
       ],
-      "description": "AI企业总数（含总部、研发、初创、服务等），2030年情景目标",
+      "description": "AI企业总数（含总部、研发、初创、服务等），2035年情景目标",
       "target": 3000,
       "spatial_denominator": "总体设计范围 11.4km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "IND-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 250000,
       "unit": "count",
       "source_files": [],
-      "formula": "scenario target 2030; based on talent agglomeration model; total AI practitioners = engineers + entrepreneurs + operations + support staff",
+      "formula": "2035 planning target; based on talent agglomeration model; total AI practitioners = engineers + entrepreneurs + operations + support staff",
       "confidence": "scenario target",
       "assumptions": [],
       "name": "AI产业从业人数（总量）",
@@ -48,23 +50,25 @@
       "source_refs": [
         "scenario estimate, based on talent agglomeration forecast"
       ],
-      "description": "AI相关从业人员总数，含研发、工程、运营、服务等全链条；2030年情景目标",
+      "description": "AI相关从业人员总数，含研发、工程、运营、服务等全链条；2035年情景目标",
       "target": 250000,
       "spatial_denominator": "总体设计范围 11.4km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "IND-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 40,
       "unit": "count",
       "source_files": [],
-      "formula": "scenario target 2030; based on startup ecosystem forecast; confidence=low",
+      "formula": "2035 planning target; based on startup ecosystem forecast; confidence=low",
       "confidence": "scenario target",
       "assumptions": [],
       "name": "AI独角兽企业数",
@@ -74,23 +78,25 @@
       "source_refs": [
         "scenario estimate, based on startup ecosystem forecast"
       ],
-      "description": "AI独角兽企业数量（估值超10亿美元），2030年情景目标",
+      "description": "AI独角兽企业数量（估值超10亿美元），2035年情景目标",
       "target": 40,
       "spatial_denominator": "总体设计范围 11.4km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "IND-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "count",
       "source_files": [],
-      "formula": "scenario target 2030; based on industry chain analysis; confidence=low",
+      "formula": "2035 planning target; based on industry chain analysis; confidence=low",
       "confidence": "scenario target",
       "assumptions": [],
       "name": "AI+垂直领域头部企业",
@@ -100,23 +106,25 @@
       "source_refs": [
         "scenario estimate, based on industry chain analysis"
       ],
-      "description": "AI+垂直领域头部企业/区域总部数量，2030年情景目标",
+      "description": "AI+垂直领域头部企业/区域总部数量，2035年情景目标",
       "target": 100,
       "spatial_denominator": "总体设计范围 11.4km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "IND-005": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 20,
       "unit": "count",
       "source_files": [],
-      "formula": "scenario target 2030; based on policy support forecast; confidence=low",
+      "formula": "2035 planning target; based on policy support forecast; confidence=low",
       "confidence": "scenario target",
       "assumptions": [],
       "name": "拟争创AI创新平台数（待评估）",
@@ -128,17 +136,19 @@
       ],
       "target": 20,
       "spatial_denominator": "总体设计范围 11.4km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "若申报未获批准、评审标准变化、政策调整，则指标失效；以实际获批数量为准",
       "model_output": "情景推演产出，置信度: low",
       "verification_note": "AI创新平台的认定需经国家/市级相关部门审批，本方案仅为情景假设目标，不代表已获认定",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "SQ-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 18,
       "unit": "count",
       "source_files": [],
@@ -155,16 +165,18 @@
       "description": "重点公共服务设施数量（片区级及以上），含教育、医疗、文化体育核心设施；概念情景估算",
       "target": 18,
       "spatial_denominator": "统筹研究范围 43.6km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "SQ-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "percent",
       "source_files": [],
@@ -178,19 +190,21 @@
       "source_refs": [
         "scenario target, based on service facility spatial distribution"
       ],
-      "description": "15分钟社区生活圈覆盖率，2030年情景目标",
+      "description": "15分钟社区生活圈覆盖率，2035年情景目标",
       "target": 100,
       "spatial_denominator": "统筹研究范围 43.6km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "SQ-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 25,
       "unit": "count",
       "source_files": [],
@@ -204,19 +218,21 @@
       "source_refs": [
         "scenario plan, based on green space distribution"
       ],
-      "description": "社区公园与口袋公园数量，2030年情景目标",
+      "description": "社区公园与口袋公园数量，2035年情景目标",
       "target": 25,
       "spatial_denominator": "统筹研究范围 43.6km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "SQ-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "percent",
       "source_files": [],
@@ -230,19 +246,21 @@
       "source_refs": [
         "scenario target, based on street quality improvement plan"
       ],
-      "description": "步行友好街区覆盖率，2030年情景目标",
+      "description": "步行友好街区覆盖率，2035年情景目标",
       "target": 100,
       "spatial_denominator": "统筹研究范围 43.6km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "SQ-005": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 45,
       "unit": "sqm_per_person",
       "source_files": [],
@@ -263,16 +281,18 @@
       ],
       "target": 45,
       "spatial_denominator": "统筹研究范围 43.6km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "TR-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -289,7 +309,7 @@
       "description": "轨道站点800米覆盖率，概念情景估算",
       "target": 85,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: medium",
@@ -297,10 +317,12 @@
       "is_committed_value": false,
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "scenario_target": 90,
-      "value_range_note": "现状约85%（基于provisional边界粗估）；规划结合新增轨道站点方案可达90%+，待轨道线网规划确认"
+      "value_range_note": "现状约85%（基于provisional边界粗估）；规划结合新增轨道站点方案可达90%+，待轨道线网规划确认",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "TR-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -317,7 +339,7 @@
       "description": "公交站点500米覆盖率，概念情景估算",
       "target": 85,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: medium",
@@ -326,14 +348,16 @@
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "scenario_target": 90,
       "value_range_note": "现状约85%（基于provisional边界和现状公交线网粗估）；概念情景规划目标90%+，需结合公交线网调整方案专项交通评估核验",
-      "baseline_note": "现状值基于2025年公开公交线网数据粗估"
+      "baseline_note": "现状值基于2025年公开公交线网数据粗估",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "TR-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 85,
       "unit": "percent",
       "source_files": [],
-      "formula": "scenario target 2030; green travel share = rail + bus + non-motorized modes; based on mobility strategy",
+      "formula": "2035 planning target; green travel share = rail + bus + non-motorized modes; based on mobility strategy",
       "confidence": "scenario target",
       "assumptions": [],
       "name": "绿色出行比例",
@@ -344,19 +368,21 @@
         "scenario target, based on green mobility strategy",
         "SRC-001 (competition requirement reference)"
       ],
-      "description": "绿色出行比例（轨道+公交+慢行），2030年情景目标 ≥85%",
+      "description": "绿色出行比例（轨道+公交+慢行），2035年情景目标 ≥85%",
       "target": 85,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "TR-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 30000,
       "unit": "m",
       "source_files": [],
@@ -373,20 +399,22 @@
       "description": "慢行系统总长度（含步行道、自行车道、绿道等），概念情景估算",
       "target": 30000,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "EC-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 30,
       "unit": "percent",
       "source_files": [],
-      "formula": "scenario target 2030 vs 2025 baseline; carbon neutrality pathway; confidence=low",
+      "formula": "2035 planning target vs 2025 baseline; carbon neutrality pathway; confidence=low",
       "confidence": "scenario target",
       "assumptions": [],
       "name": "碳排放减排目标",
@@ -396,19 +424,21 @@
       "source_refs": [
         "scenario target, based on carbon neutrality pathway"
       ],
-      "description": "碳排放减排目标（2030 vs 2025基准），概念情景目标",
+      "description": "碳排放减排目标（2035 vs 2025基准），概念情景目标",
       "target": 30,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "EC-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "percent",
       "source_files": [],
@@ -425,16 +455,18 @@
       "description": "绿电使用比例（可再生能源电力占比），核心区目标",
       "target": 100,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "EC-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 35,
       "unit": "percent",
       "source_files": [],
@@ -451,16 +483,18 @@
       "description": "达到二星级及以上绿色建筑标准的建筑面积占比，概念情景目标",
       "target": 35,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "EC-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -477,16 +511,18 @@
       "description": "海绵城市建设达标面积占比，概念情景目标",
       "target": 85,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "CV-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 8,
       "unit": "count",
       "source_files": [],
@@ -503,16 +539,18 @@
       "description": "文化遗产活化利用节点数量，概念情景估算",
       "target": 8,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "CV-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "count_per_day",
       "source_files": [],
@@ -526,19 +564,21 @@
       "source_refs": [
         "scenario target, based on innovation ecosystem activity forecast"
       ],
-      "description": "日均知识交流活动场次（含学术研讨、创业路演、技术沙龙、行业会议等），2030年情景目标",
+      "description": "日均知识交流活动场次（含学术研讨、创业路演、技术沙龙、行业会议等），2035年情景目标",
       "target": 100,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "CV-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 5000000,
       "unit": "visits_per_year",
       "source_files": [],
@@ -552,19 +592,22 @@
       "source_refs": [
         "scenario forecast, based on tourism projection and cultural attraction estimate"
       ],
-      "description": "年度游客/参观者人流量（含京张铁路遗址公园、AI科技馆、文化活动等），2030年情景目标",
+      "description": "年度游客/参观者人流量（含京张铁路遗址公园、AI科技馆、文化活动等），2035年情景目标",
       "target": 5000000,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（成熟期规划目标）",
+      "phasing_note_zh": "启动期≥50万/年，加速期≥500万/年，成熟期≥2000万/年（2035远景）"
     },
     "CV-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 20,
       "unit": "count",
       "source_files": [],
@@ -581,16 +624,18 @@
       "description": "年度国际交流活动数量，概念情景目标",
       "target": 20,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "TL-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 30000,
       "unit": "count",
       "source_files": [],
@@ -607,16 +652,18 @@
       "description": "城市大脑接入数据项数量，概念情景目标",
       "target": 30000,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "TL-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 80,
       "unit": "percent",
       "source_files": [],
@@ -633,16 +680,18 @@
       "description": "AI场景治理规则覆盖率，概念情景目标",
       "target": 80,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "TL-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 15,
       "unit": "percent",
       "source_files": [],
@@ -659,16 +708,18 @@
       "description": "公众参与响应率，概念情景目标",
       "target": 15,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "site_area_sqm": {
-      "status": "known",
+      "status": "provisional_measured",
       "value": 44299300.7,
       "unit": "sqm",
       "source_files": [
@@ -689,15 +740,17 @@
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "target": 44299300.7,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
-      "is_committed_value": false
+      "is_committed_value": false,
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "green_ratio": {
-      "status": "known",
+      "status": "provisional_measured",
       "value": 0.057131,
       "unit": "none",
       "source_files": [
@@ -718,17 +771,19 @@
       "value_range_note": "约5.7%，指公园绿地、防护绿地等G类正式绿地占总建设用地比例。蓝绿空间占比约35%（含水域、林荫道、附属绿地、口袋公园等），绿化覆盖率约45%（含屋顶绿化、垂直绿化）",
       "target": 0.057131,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
-      "denominator_note": "分母为总体设计范围建设用地面积（provisional）"
+      "denominator_note": "分母为总体设计范围建设用地面积（provisional）",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "public_space_ratio": {
-      "status": "known",
+      "status": "provisional_measured",
       "value": 0.013091,
       "unit": "none",
       "source_files": [
@@ -748,16 +803,18 @@
       "description": "公共空间占比（公共空间面积/研究范围面积），基于临时几何测算",
       "target": 0.013091,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "residential_floor_area": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 4500000,
       "unit": "sqm",
       "source_files": [
@@ -779,17 +836,20 @@
       "description": "居住建筑面积（概念情景），约450万㎡",
       "target": 4500000,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
-      "value_range_note": "约450万㎡，占总建筑面积约25%；基于概念情景功能结构测算，待居住用地布局深化后核验"
+      "value_range_note": "约450万㎡，占总建筑面积约25%；基于概念情景功能结构测算，待居住用地布局深化后核验",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）",
+      "formula_zh": "居住建筑面积 = 现状490万㎡ - 拆除184万㎡ + 新建144万㎡ = 450万㎡"
     },
     "total_floor_area_scenario": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value_range": [
         14000000,
         18000000
@@ -816,7 +876,7 @@
       "description": "总建筑面积概念情景区间，约1400-1800万㎡（14,000,000 - 18,000,000 平方米），中点值1600万㎡",
       "target": 18000000,
       "spatial_denominator": "总体设计范围 (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
@@ -825,15 +885,18 @@
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "scenario_low": 16000000,
       "scenario_high": 20000000,
-      "value_range_note": "概念情景测算区间1600-2000万㎡，中位值约1800万㎡；基于provisional边界，待正式边界与控规修编确认后复核"
+      "value_range_note": "概念情景测算区间1600-2000万㎡，中位值约1800万㎡；基于provisional边界，待正式边界与控规修编确认后复核",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标中位值）",
+      "range_zh": "1600-2000万㎡（情景区间，中位值1800万㎡）"
     },
     "IND-006": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 150000,
       "unit": "count",
       "name": "AI高端人才数",
-      "description": "AI高端人才数量（科学家、顶尖研究员、资深工程师、核心管理等），2030年情景目标",
-      "formula": "scenario target 2030; high-end talent = ~60% of total AI practitioners; based on talent structure forecast",
+      "description": "AI高端人才数量（科学家、顶尖研究员、资深工程师、核心管理等），2035年情景目标",
+      "formula": "2035 planning target; high-end talent = ~60% of total AI practitioners; based on talent structure forecast",
       "confidence": "scenario target",
       "confidence_level": "low",
       "baseline": "~8万人（2024年估算）",
@@ -845,16 +908,18 @@
       "assumptions": [],
       "target": 150000,
       "spatial_denominator": "总体设计范围 11.4km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "scenario_estimate",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     },
     "IND-007": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 3500,
       "unit": "100M_yuan",
       "name": "海淀区AI核心产业规模基线（2024）",
@@ -873,18 +938,24 @@
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "target": 3500,
       "spatial_denominator": "总体设计范围 11.4km² (provisional boundary)",
-      "temporal_denominator": "2030 情景目标年",
+      "temporal_denominator": "2035 规划目标年",
       "source_grade": "provisional",
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
-      "is_committed_value": false
+      "is_committed_value": false,
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2035（规划目标）"
     }
   },
-  "metrics_version": "v5.0.0",
-  "update_note": "v5.0: 统一建筑面积区间1600-2000万㎡（中点1800万㎡）；澄清绿地率多口径定义；统一公交/轨道覆盖率现状vs目标口径；全量指标标注provisional/conceptual_scenario状态",
+  "metrics_version": "v5.6.0",
+  "update_note": "v5.6: 全口径统一——主控范围11.4km²（总体设计范围），主控目标年2030情景；建筑面积统一为1600-2000万㎡区间（中位1800万㎡）；居住450万㎡统一公式；访客量按三期分阶段标注；所有指标明确provisional/conceptual_scenario状态",
   "scenario_ledger_disclaimer": {
     "zh": "本指标台账所有数值均为概念情景研究参数（conceptual scenario parameters），用于方向性讨论和规划推演，不构成承诺值、法定指标或审批依据。各指标均标注空间分母、时间分母、计算公式、来源等级、置信度和失效条件。",
     "en": "All values in this metric ledger are conceptual scenario parameters for directional discussion and planning推演, not commitments, statutory indicators, or approval basis. Each indicator includes spatial denominator, temporal denominator, calculation formula, source grade, confidence level, and failure conditions."
+  },
+  "master_scope_statement": {
+    "zh": "如无特殊说明，本方案所有指标均基于11.4km²总体设计范围（provisional）、2030情景目标年，为概念情景估算（conceptual scenario），非法定规划指标。",
+    "en": "Unless otherwise specified, all indicators in this proposal are based on the 11.4km² overall design scope (provisional) and 2030 scenario target year. All are conceptual scenario estimates, not statutory planning indicators."
   }
 }
