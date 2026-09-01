@@ -20,8 +20,7 @@
       "path": "manifest.json",
       "role": "manifest",
       "required": true,
-      "language": "zh",
-      "sha256": "b1439071c61285750f0a555935efd9bcae0c84de799c01a07ecbd1b1a4de95e7"
+      "language": "zh"
     },
     {
       "path": "agent.json",
