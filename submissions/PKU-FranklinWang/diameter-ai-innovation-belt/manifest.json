@@ -2,7 +2,7 @@
   "schema_version": "0.2.0",
   "package_id": "diameter-ai-innovation-belt",
   "project_id": "centennial-jingzhang-ai-belt",
-  "site_package_version": "v5.6.1",
+  "site_package_version": "v5.5.1",
   "package_type": "professional_design_package",
   "package_state": "ready_for_review",
   "submission_stage": "formal",
@@ -14,7 +14,7 @@
     "model_family": "other",
     "model_detail": "Multi-agent collaborative generation via Coze platform"
   },
-  "generated_at": "2026-09-02T03:00:00+08:00",
+  "generated_at": "2026-09-01T03:30:00Z",
   "files": [
     {
       "path": "manifest.json",
@@ -120,13 +120,6 @@
       "required": false,
       "language": "neutral",
       "sha256": "60bf50a59104158bdab8e5ca43c26cc0e95faf101867e4663a9c06e4a22ba518"
-    },
-    {
-      "path": "assets/figures/05_phasing_timeline.png",
-      "role": "proposal_figure",
-      "required": false,
-      "language": "neutral",
-      "sha256": "81cf1e40eafb5362f6223cd79a74281ed921e89d2b2a658968c71c2205fd8487"
     },
     {
       "path": "assets/figures/brand-identity-system.png",
@@ -362,6 +355,15 @@
       "required": true,
       "language": "neutral",
       "sha256": "353f6692d815d570eebb7e207362c3b87e80c934054bead1f472cd74b0a268d5"
+    },
+    {
+      "path": "assets/figures/05_phasing_timeline.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "neutral",
+      "sha256": "81cf1e40eafb5362f6223cd79a74281ed921e89d2b2a658968c71c2205fd8487",
+      "title_zh": "分期实施时间轴",
+      "title_en": "Phasing Timeline"
     }
   ],
   "validation_claim": {
