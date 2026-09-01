@@ -1,6 +1,6 @@
 {
   "schema_version": "0.2.0",
-  "matrix_version": "v4.0",
+  "matrix_version": "v5.6.1",
   "total_requirements": 84,
   "compliant_count": 77,
   "compliance_rate": 0.92,
@@ -12,8 +12,8 @@
       "category": "官方公告要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第二章 三层范围工作框架",
+        "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -22,7 +22,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -40,9 +40,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第二章 三层范围工作框架",
+        "第十一章 指标体系、面积复算与合规矩阵"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-002",
@@ -51,8 +53,8 @@
       "category": "官方公告要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第二章 三层范围工作框架",
+        "第七章 用地、建筑规模与拆改留方案"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -61,7 +63,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -79,9 +81,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第二章 三层范围工作框架",
+        "第七章 用地、建筑规模与拆改留方案"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-003",
@@ -90,8 +94,8 @@
       "category": "官方公告要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第四章 总体设计范围城市更新与控规深度城市设计",
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -100,7 +104,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -118,9 +122,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第四章 总体设计范围城市更新与控规深度城市设计",
+        "第九章 蓝绿空间、公共空间与城市风貌"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-004",
@@ -129,8 +135,8 @@
       "category": "官方公告要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第三章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -139,7 +145,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -157,9 +163,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第一章 设计依据与资料清单",
+        "第三章 统筹研究范围产业与未来城市研究"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-005",
@@ -168,8 +176,8 @@
       "category": "智能体任务书要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -178,7 +186,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -196,9 +204,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第一章 设计依据与资料清单",
+        "第十一章 指标体系、面积复算与合规矩阵"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-006",
@@ -207,8 +217,8 @@
       "category": "智能体任务书要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -217,7 +227,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -235,9 +245,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-007",
@@ -246,8 +258,8 @@
       "category": "智能体任务书要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -256,7 +268,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -274,9 +286,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第十一章 指标体系、面积复算与合规矩阵"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-008",
@@ -285,8 +299,8 @@
       "category": "智能体任务书要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -295,7 +309,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -313,9 +327,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-009",
@@ -324,8 +340,8 @@
       "category": "智能体任务书要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -334,7 +350,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -352,9 +368,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-010",
@@ -363,8 +381,8 @@
       "category": "智能体任务书要求",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -373,7 +391,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -391,9 +409,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-011",
@@ -402,8 +422,8 @@
       "category": "边界条款合规",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第二章 三层范围工作框架",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -412,7 +432,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -430,9 +450,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第二章 三层范围工作框架",
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-012",
@@ -441,8 +463,8 @@
       "category": "边界条款合规",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -451,7 +473,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -469,9 +491,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-013",
@@ -480,8 +504,8 @@
       "category": "边界条款合规",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -490,7 +514,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -508,9 +532,11 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-014",
@@ -519,8 +545,8 @@
       "category": "理论创新性与方案深度",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -529,7 +555,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -541,15 +567,17 @@
         "CHECK-014"
       ],
       "status": "compliant",
-      "evidence_summary_zh": "第三章3.8节系统提出范式定义、核心特征、传统中轴比较、适用条件与推广价值、北京双中轴战略意义",
+      "evidence_summary_zh": "第三章第3.8节系统提出范式定义、核心特征、传统中轴比较、适用条件与推广价值、北京双中轴战略意义",
       "source_ids": [
         "SRC-001",
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-015",
@@ -558,8 +586,8 @@
       "category": "理论创新性与方案深度",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第三章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -568,7 +596,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -580,15 +608,17 @@
         "CHECK-001"
       ],
       "status": "compliant",
-      "evidence_summary_zh": "1.2节核心理论、3.1.3节三大命题、4.2.3节空间经济机制，全案以新空间经济学为理论基础",
+      "evidence_summary_zh": "第1.2节核心理论、第3.1.3节三大命题、第4.2.3节空间经济机制，全案以新空间经济学为理论基础",
       "source_ids": [
         "SRC-001",
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第一章 设计依据与资料清单",
+        "第三章 统筹研究范围产业与未来城市研究"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-016",
@@ -597,8 +627,8 @@
       "category": "理论创新性与方案深度",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -607,7 +637,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -619,15 +649,17 @@
         "CHECK-002"
       ],
       "status": "compliant",
-      "evidence_summary_zh": "3.1节发展理念、11.1.1节六维×七度融合指标体系，价值-目标-路径-空间四层融合",
+      "evidence_summary_zh": "第3.1节发展理念、第11.1.1节六维×七度融合指标体系，价值-目标-路径-空间四层融合",
       "source_ids": [
         "SRC-001",
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第十一章 指标体系、面积复算与合规矩阵"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-017",
@@ -636,8 +668,8 @@
       "category": "理论创新性与方案深度",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第九章 蓝绿空间、公共空间与城市风貌",
+        "第十章 更新项目清单、实施政策与分期计划"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -646,7 +678,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -658,15 +690,17 @@
         "CHECK-003"
       ],
       "status": "compliant",
-      "evidence_summary_zh": "第九章9.4节四时·昼夜·周律·年轮四级时间周期设计体系",
+      "evidence_summary_zh": "第九章第9.4节四时·昼夜·周律·年轮四级时间周期设计体系",
       "source_ids": [
         "SRC-001",
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第九章 蓝绿空间、公共空间与城市风貌",
+        "第十章 更新项目清单、实施政策与分期计划"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-018",
@@ -675,8 +709,8 @@
       "category": "理论创新性与方案深度",
       "mandatory": true,
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第四章 总体设计范围城市更新与控规深度城市设计",
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -685,7 +719,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -697,15 +731,17 @@
         "CHECK-004"
       ],
       "status": "compliant",
-      "evidence_summary_zh": "第四章4.7节科技交流空间+无人餐饮系统+街道一体化设计，9.3.4节街道公共空间设计原则",
+      "evidence_summary_zh": "第四章第4.7节科技交流空间+无人餐饮系统+街道一体化设计，第9.3.4节街道公共空间设计原则",
       "source_ids": [
         "SRC-001",
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
-      ]
+        "第四章 总体设计范围城市更新与控规深度城市设计",
+        "第九章 蓝绿空间、公共空间与城市风貌"
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.3.1",
@@ -716,10 +752,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -742,7 +778,9 @@
       "source_ids": [
         "SRC-001",
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.3.2",
@@ -753,10 +791,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -779,7 +817,9 @@
       "source_ids": [
         "SRC-001",
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.3.3",
@@ -790,10 +830,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -816,7 +856,9 @@
       "source_ids": [
         "SRC-001",
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.4.1",
@@ -827,10 +869,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -853,7 +895,9 @@
       "source_ids": [
         "SRC-001",
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.4.2",
@@ -864,10 +908,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -890,7 +934,9 @@
       "source_ids": [
         "SRC-001",
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.4.3",
@@ -901,10 +947,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -927,7 +973,9 @@
       "source_ids": [
         "SRC-001",
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.1.1",
@@ -938,10 +986,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -964,7 +1012,9 @@
       "source_ids": [
         "SRC-001",
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.1.2",
@@ -975,10 +1025,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1001,7 +1051,9 @@
       "source_ids": [
         "SRC-001",
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.1.3",
@@ -1012,10 +1064,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1037,7 +1089,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.2.1",
@@ -1048,10 +1102,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1073,7 +1127,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.2.2",
@@ -1084,10 +1140,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1109,7 +1165,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.2.3",
@@ -1120,10 +1178,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1145,7 +1203,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.6.1",
@@ -1156,10 +1216,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1181,7 +1241,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.6.2",
@@ -1192,10 +1254,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1217,7 +1279,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.6.3",
@@ -1228,10 +1292,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1253,7 +1317,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-2.1.1",
@@ -1264,10 +1330,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1289,7 +1355,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-2.1.2",
@@ -1300,10 +1368,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1325,7 +1393,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-2.2.1",
@@ -1336,10 +1406,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1361,7 +1431,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-2.2.2",
@@ -1372,10 +1444,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1397,7 +1469,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-3.1.1",
@@ -1408,10 +1482,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1433,7 +1507,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-3.1.2",
@@ -1444,10 +1520,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1469,7 +1545,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-3.2.1",
@@ -1480,10 +1558,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1505,7 +1583,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-3.2.2",
@@ -1516,10 +1596,10 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第一章 设计依据与资料清单"
       ],
       "report_sections": [
-        "第1章"
+        "第一章 设计依据与资料清单"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1541,7 +1621,9 @@
       ],
       "source_ids": [
         "SRC-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-1.1",
@@ -1552,10 +1634,10 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/land_use.geojson"
@@ -1577,7 +1659,9 @@
       ],
       "source_ids": [
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-1.2",
@@ -1588,10 +1672,10 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/land_use.geojson"
@@ -1613,7 +1697,9 @@
       ],
       "source_ids": [
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-1.3",
@@ -1624,10 +1710,10 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/land_use.geojson"
@@ -1649,7 +1735,9 @@
       ],
       "source_ids": [
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-2.1",
@@ -1660,10 +1748,10 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/land_use.geojson"
@@ -1685,7 +1773,9 @@
       ],
       "source_ids": [
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-2.2",
@@ -1696,10 +1786,10 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/land_use.geojson"
@@ -1721,7 +1811,9 @@
       ],
       "source_ids": [
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-2.3",
@@ -1732,10 +1824,10 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/land_use.geojson"
@@ -1757,7 +1849,9 @@
       ],
       "source_ids": [
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-3.1",
@@ -1768,10 +1862,10 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/land_use.geojson"
@@ -1793,7 +1887,9 @@
       ],
       "source_ids": [
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-3.2",
@@ -1804,10 +1900,10 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
-        "第6章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/land_use.geojson"
@@ -1829,7 +1925,9 @@
       ],
       "source_ids": [
         "SRC-002"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.3.1",
@@ -1841,12 +1939,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖总体空间结构设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Overall spatial structure design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第四章 总体设计范围城市更新与控规深度城市设计",
+        "第三章 统筹研究范围产业与未来城市研究"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第四章 总体设计范围城市更新与控规深度城市设计",
+        "第三章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1855,7 +1953,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -1869,7 +1967,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.3.2",
@@ -1881,12 +1981,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖用地功能布局相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Land use functional layout, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第七章 用地、建筑规模与拆改留方案",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第七章 用地、建筑规模与拆改留方案",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1895,7 +1995,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -1909,7 +2009,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.3.3",
@@ -1921,12 +2023,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖开发强度控制相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Development intensity control, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第七章 用地、建筑规模与拆改留方案",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第七章 用地、建筑规模与拆改留方案",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1935,7 +2037,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -1949,7 +2051,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.4.1",
@@ -1961,12 +2065,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖重点片区详细设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Key area detailed design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第五章 重点区域详细设计"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第五章 重点区域详细设计"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1975,7 +2077,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -1989,7 +2091,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.4.2",
@@ -2001,12 +2105,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖建筑风貌引导相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Architectural character guidance, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第九章 蓝绿空间、公共空间与城市风貌",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第九章 蓝绿空间、公共空间与城市风貌",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2015,7 +2119,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2029,7 +2133,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.4.3",
@@ -2041,12 +2147,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖公共空间设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Public space design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2055,7 +2159,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2069,7 +2173,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.1.1",
@@ -2081,12 +2187,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖道路交通系统-轨道相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Transportation system - rail, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2095,7 +2199,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2109,7 +2213,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.1.2",
@@ -2121,12 +2227,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖道路交通系统-慢行相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Transportation system - slow traffic, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2135,7 +2239,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2149,7 +2253,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.1.3",
@@ -2161,12 +2267,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖道路交通系统-停车相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Transportation system - parking, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2175,7 +2279,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2189,7 +2293,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.2.1",
@@ -2201,12 +2307,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-能源相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - energy, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2215,7 +2319,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2229,7 +2333,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.2.2",
@@ -2241,12 +2347,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-供水相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - water supply, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2255,7 +2359,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2269,7 +2373,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.2.3",
@@ -2281,12 +2387,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-排水相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - drainage, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2295,7 +2399,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2309,7 +2413,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.2.4",
@@ -2321,12 +2427,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-通信相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - communication, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2335,7 +2439,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2349,7 +2453,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.2.5",
@@ -2361,12 +2467,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-环卫相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - sanitation, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第八章 交通、轨道、市政与公共服务设施"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2375,7 +2479,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2389,7 +2493,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.3.1",
@@ -2401,12 +2507,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖生态环境系统-蓝绿空间相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Ecological environment - blue-green space, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2415,7 +2519,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2429,7 +2533,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.3.2",
@@ -2441,12 +2547,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖生态环境系统-低碳韧性相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Ecological environment - low carbon resilience, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2455,7 +2559,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2469,7 +2573,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.6.1",
@@ -2481,12 +2587,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖分期实施策略相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Phasing implementation strategy, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第十章 更新项目清单、实施政策与分期计划"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第十章 更新项目清单、实施政策与分期计划"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2495,7 +2599,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2509,7 +2613,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.6.2",
@@ -2521,12 +2627,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖治理机制创新相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Governance mechanism innovation, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第十章 更新项目清单、实施政策与分期计划",
+        "第十二章 风险、版权与合规说明"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第十章 更新项目清单、实施政策与分期计划",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2535,7 +2641,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2549,7 +2655,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.6.3",
@@ -2561,12 +2669,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖公众参与机制相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Public participation mechanism, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第十章 更新项目清单、实施政策与分期计划"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第十章 更新项目清单、实施政策与分期计划"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2575,7 +2681,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2589,7 +2695,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "2.1.1",
@@ -2601,12 +2709,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖空间数据要求-GeoJSON相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Spatial data requirement - GeoJSON, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第二章 三层范围工作框架",
+        "第七章 用地、建筑规模与拆改留方案"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第二章 三层范围工作框架",
+        "第七章 用地、建筑规模与拆改留方案"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2615,7 +2723,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2629,7 +2737,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "2.1.2",
@@ -2641,12 +2751,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖空间数据要求-属性字段相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Spatial data requirement - attribute fields, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第七章 用地、建筑规模与拆改留方案"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第七章 用地、建筑规模与拆改留方案"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2655,7 +2763,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2669,7 +2777,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "2.2.1",
@@ -2681,12 +2791,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖成果形式-方案文本相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Deliverable format - proposal text, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第一章 设计依据与资料清单",
+        "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2695,7 +2805,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2709,7 +2819,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "2.2.2",
@@ -2721,12 +2833,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖成果形式-图纸图件相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Deliverable format - drawings, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第四章 总体设计范围城市更新与控规深度城市设计",
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第四章 总体设计范围城市更新与控规深度城市设计",
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2735,7 +2847,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2749,7 +2861,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "3.1.1",
@@ -2761,12 +2875,10 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖AI场景设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover AI scenario design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2775,7 +2887,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2789,7 +2901,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "3.1.2",
@@ -2801,12 +2915,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖AI治理机制相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover AI governance mechanism, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景",
+        "第十二章 风险、版权与合规说明"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2815,7 +2929,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2829,7 +2943,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "3.2.1",
@@ -2841,12 +2957,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖智能体参与过程留痕相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Agent participation trace, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第一章 设计依据与资料清单",
+        "第十二章 风险、版权与合规说明"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2855,7 +2971,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2869,7 +2985,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "3.2.2",
@@ -2881,12 +2999,12 @@
       "evidence_summary_zh": "方案第3-10章已系统覆盖全过程AI辅助设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
       "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Full-process AI-assisted design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
       "report_sections": [
-        "总体概念",
-        "空间结构"
+        "第一章 设计依据与资料清单",
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第一章 设计依据与资料清单",
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2895,7 +3013,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2909,7 +3027,9 @@
       ],
       "self_check_ids": [
         "CHECK-001"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "agent.1",
@@ -2921,14 +3041,12 @@
       "evidence_summary_zh": "智能体身份与能力声明已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
       "evidence_summary_en": "Agent identity and capability declaration fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
       "report_sections": [
-        "总体概念",
-        "空间结构",
-        "功能布局",
-        "区域协作"
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2937,7 +3055,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2955,7 +3073,9 @@
       "evidence_refs": [
         "proposal.md §1.6 任务对照表",
         "proposal.md 第1章相关内容"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "agent.2",
@@ -2967,13 +3087,12 @@
       "evidence_summary_zh": "设计过程AI留痕已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
       "evidence_summary_en": "AI trace in design process fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
       "report_sections": [
-        "AI创新生态",
-        "产业体系",
-        "创新层级"
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第三章 统筹研究范围产业与未来城市研究",
+        "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2982,7 +3101,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3000,7 +3119,9 @@
       "evidence_refs": [
         "proposal.md §1.6 任务对照表",
         "proposal.md 第2章相关内容"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "agent.3",
@@ -3012,13 +3133,12 @@
       "evidence_summary_zh": "空间数据生成与验证已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
       "evidence_summary_en": "Spatial data generation and validation fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
       "report_sections": [
-        "AI场景",
-        "智慧城市",
-        "活力营造"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景",
+        "第五章 重点区域详细设计"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第六章 AI 创新生态、人才画像与 AI+ 场景",
+        "第五章 重点区域详细设计"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -3027,7 +3147,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3045,7 +3165,9 @@
       "evidence_refs": [
         "proposal.md §1.6 任务对照表",
         "proposal.md 第3章相关内容"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "agent.4",
@@ -3057,13 +3179,12 @@
       "evidence_summary_zh": "多源信息整合分析已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
       "evidence_summary_en": "Multi-source information integration and analysis fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
       "report_sections": [
-        "公共空间",
-        "朝圣地标",
-        "智能原生业态"
+        "第九章 蓝绿空间、公共空间与城市风貌",
+        "第五章 重点区域详细设计"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第九章 蓝绿空间、公共空间与城市风貌",
+        "第五章 重点区域详细设计"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -3072,7 +3193,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3090,7 +3211,9 @@
       "evidence_refs": [
         "proposal.md §1.6 任务对照表",
         "proposal.md 第4章相关内容"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "agent.5",
@@ -3102,14 +3225,12 @@
       "evidence_summary_zh": "方案自评估与迭代已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
       "evidence_summary_en": "Proposal self-evaluation and iteration fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
       "report_sections": [
-        "文化叙事",
-        "京张遗产",
-        "中关村文化",
-        "AI新文化"
+        "第一章 设计依据与资料清单",
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第一章 设计依据与资料清单",
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -3118,7 +3239,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3136,7 +3257,9 @@
       "evidence_refs": [
         "proposal.md §1.6 任务对照表",
         "proposal.md 第5章相关内容"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "agent.6",
@@ -3148,13 +3271,10 @@
       "evidence_summary_zh": "开源协作与社区参与已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
       "evidence_summary_en": "Open source collaboration and community participation fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
       "report_sections": [
-        "运营体系",
-        "创新活动",
-        "长期治理"
+        "第十章 更新项目清单、实施政策与分期计划"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第十章 更新项目清单、实施政策与分期计划"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -3163,7 +3283,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3181,7 +3301,9 @@
       "evidence_refs": [
         "proposal.md §1.6 任务对照表",
         "proposal.md 第6章相关内容"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.3.3",
@@ -3193,10 +3315,10 @@
       "evidence_summary_zh": "方案系统构建蓝绿空间网络和生态环境体系，包含生态环境系统-生物多样性相关内容",
       "evidence_summary_en": "The proposal systematically constructs a blue-green spatial network and ecological environment system, including Ecological environment - biodiversity",
       "report_sections": [
-        "第7章 生态低碳与韧性安全"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "proposal_sections": [
-        "第7章 生态低碳与韧性安全"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/green_space.geojson"
@@ -3205,7 +3327,7 @@
         "IND-011"
       ],
       "drawings": [
-        "drawings/07_ecological_system.svg"
+        "assets/figures/mobility-bluegreen.png"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3218,7 +3340,9 @@
       ],
       "self_check_ids": [
         "CHECK-004"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     },
     {
       "requirement_id": "1.5.3.required",
@@ -3230,10 +3354,10 @@
       "evidence_summary_zh": "方案系统构建蓝绿空间网络和生态环境体系，包含生态环境系统-总体要求相关内容",
       "evidence_summary_en": "The proposal systematically constructs a blue-green spatial network and ecological environment system, including Ecological environment - overall requirements",
       "report_sections": [
-        "第7章 生态低碳与韧性安全"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "proposal_sections": [
-        "第7章 生态低碳与韧性安全"
+        "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/green_space.geojson"
@@ -3242,7 +3366,7 @@
         "IND-011"
       ],
       "drawings": [
-        "drawings/07_ecological_system.svg"
+        "assets/figures/mobility-bluegreen.png"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3255,7 +3379,9 @@
       ],
       "self_check_ids": [
         "CHECK-004"
-      ]
+      ],
+      "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
+      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
     }
   ],
   "asset_rights": {
@@ -3287,8 +3413,8 @@
       },
       {
         "category": "concept_figures",
-        "count": 22,
-        "files_note": "assets/figures/*.png (20 unique, 2 neutral language variants)",
+        "count": 20,
+        "files_note": "assets/figures/*.png (20 张概念图，均为中文标注)",
         "authorship": "AI image generation + human post-production and annotation",
         "generation_date": "2026-08",
         "license": "COMMUNITY-DISPLAY-ONLY",
@@ -3409,5 +3535,7 @@
     }
   },
   "overall_compliance_status": "conceptual_review_only",
-  "compliance_disclaimer": "本合规矩阵为概念设计阶段的初步合规性梳理，不构成法律意见或合规性确认。所有合规判断需在项目深化阶段由专业法律顾问和相关主管部门核实确认。"
+  "compliance_disclaimer": "本合规矩阵为概念设计阶段的初步合规性梳理，不构成法律意见或合规性确认。所有合规判断需在项目深化阶段由专业法律顾问和相关主管部门核实确认。",
+  "evidence_grading_disclaimer_zh": "证据等级说明：本方案引用来源按证据等级分为官方公开来源（15项）、研究参考来源（4项）、未核验/临时来源（2项）三级。由于组织方source registry为空，所有来源均视为「待组织方核验」状态。非官方来源（研究参考、未核验/临时）仅用于背景参考和理论支撑，不用于证明现状基线或合规结论。SRC-021遗址公园规划未取得正式文本，仅供概念设计参考，不作法定规划依据。",
+  "evidence_grading_disclaimer_en": "Evidence Grading Disclaimer: Sources cited in this proposal are graded into three levels: official public sources (15 items), research references (4 items), and unverified/provisional sources (2 items). Since the organizer source registry is empty, all sources are treated as 'pending organizer verification'. Non-official sources (research references, unverified/provisional) are for background reference and theoretical support only, and cannot be used to prove baseline status or compliance conclusions. SRC-021 Heritage Park Plan has not obtained official text and is for conceptual design reference only, not a statutory planning basis."
 }
