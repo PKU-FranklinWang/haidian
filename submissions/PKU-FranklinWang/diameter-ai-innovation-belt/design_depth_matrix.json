@@ -1,6 +1,6 @@
 {
   "schema_version": "0.2.0",
-  "matrix_version": "v1.0",
+  "matrix_version": "v5.6.0",
   "total_items": 29,
   "items": [
     {
@@ -25,7 +25,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -34,8 +34,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第3章 统筹研究范围产业与未来城市研究",
+        "第4章 总体设计范围城市更新与控规深度城市设计"
       ],
       "depth_id": "spatial_structure",
       "self_check_description": "已完成总体空间结构与功能统筹相关内容，见proposal.md对应章节"
@@ -62,7 +62,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -71,8 +71,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第4章 总体设计范围城市更新与控规深度城市设计",
+        "第7章 用地、建筑规模与拆改留方案"
       ],
       "depth_id": "land_use_layout",
       "self_check_description": "已完成用地功能布局与结构优化相关内容，见proposal.md对应章节"
@@ -99,7 +99,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -108,8 +108,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第4章 总体设计范围城市更新与控规深度城市设计",
+        "第5章 重点区域详细设计"
       ],
       "depth_id": "height_massing_character",
       "self_check_description": "已完成高度分区与空间形态引导相关内容，见proposal.md对应章节"
@@ -136,7 +136,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -145,8 +145,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第7章 用地、建筑规模与拆改留方案",
+        "第11章 指标体系、面积复算与合规矩阵"
       ],
       "depth_id": "development_intensity_controls",
       "self_check_description": "已完成开发强度与容量控制相关内容，见proposal.md对应章节"
@@ -173,7 +173,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -182,8 +182,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第8章 交通、轨道、市政与公共服务设施"
       ],
       "depth_id": "mobility_accessibility",
       "self_check_description": "已完成综合交通与可达性系统相关内容，见proposal.md对应章节"
@@ -210,7 +209,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -219,8 +218,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第9章 蓝绿空间、公共空间与城市风貌"
       ],
       "depth_id": "blue_green_public_space",
       "self_check_description": "已完成蓝绿空间与公共空间体系相关内容，见proposal.md对应章节"
@@ -247,7 +245,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -256,8 +254,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第8章 交通、轨道、市政与公共服务设施"
       ],
       "depth_id": "public_facility_layout",
       "self_check_description": "已完成公共服务设施布局相关内容，见proposal.md对应章节"
@@ -284,7 +281,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -293,8 +290,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第9章 蓝绿空间、公共空间与城市风貌",
+        "第5章 重点区域详细设计"
       ],
       "depth_id": "urban_design_character",
       "self_check_description": "已完成城市设计风貌与特色营造相关内容，见proposal.md对应章节"
@@ -321,7 +318,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -330,8 +327,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第1章 设计依据与资料清单",
+        "第2章 三层范围工作框架"
       ],
       "depth_id": "existing_conditions_diagnosis",
       "self_check_description": "已完成现状诊断与问题识别相关内容，见proposal.md对应章节"
@@ -358,7 +355,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -367,8 +364,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第11章 指标体系、面积复算与合规矩阵"
       ],
       "depth_id": "metrics_recalculation",
       "self_check_description": "已完成核心指标体系与量化校核相关内容，见proposal.md对应章节"
@@ -395,7 +391,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -404,8 +400,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第10章 更新项目清单、实施政策与分期计划"
       ],
       "depth_id": "phasing_strategy",
       "self_check_description": "已完成分期实施与路径策略相关内容，见proposal.md对应章节"
@@ -432,7 +427,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -441,8 +436,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "depth_id": "ai_innovation_scenarios",
       "self_check_description": "已完成AI创新场景与产业生态相关内容，见proposal.md对应章节"
@@ -469,7 +463,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -478,8 +472,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第10章 更新项目清单、实施政策与分期计划",
+        "第12章 风险、版权与合规说明"
       ],
       "depth_id": "governance_framework",
       "self_check_description": "已完成AI治理框架与风险防控相关内容，见proposal.md对应章节"
@@ -506,7 +500,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -515,8 +509,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第10章 更新项目清单、实施政策与分期计划"
       ],
       "depth_id": "implementation_policy",
       "self_check_description": "已完成实施政策与机制创新相关内容，见proposal.md对应章节"
@@ -543,7 +536,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -552,8 +545,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第10章 更新项目清单、实施政策与分期计划"
       ],
       "depth_id": "community_engagement",
       "self_check_description": "已完成公众参与与社区营造相关内容，见proposal.md对应章节"
@@ -580,7 +572,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -589,8 +581,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "depth_id": "overall_spatial_structure",
       "self_check_description": "已完成三级范围空间框架相关内容，见proposal.md对应章节"
@@ -617,7 +609,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -626,8 +618,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第8章 交通、轨道、市政与公共服务设施"
       ],
       "depth_id": "municipal_new_infrastructure",
       "self_check_description": "已完成市政与新型基础设施相关内容，见proposal.md对应章节"
@@ -654,7 +645,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -663,8 +654,7 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第10章 更新项目清单、实施政策与分期计划"
       ],
       "depth_id": "phasing_implementation",
       "self_check_description": "已完成分期实施与项目库相关内容，见proposal.md对应章节"
@@ -691,7 +681,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -700,8 +690,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第9章 蓝绿空间、公共空间与城市风貌",
+        "第1章 设计依据与资料清单"
       ],
       "depth_id": "heritage_conservation",
       "self_check_description": "已完成文化遗产保护与活化相关内容，见proposal.md对应章节"
@@ -728,7 +718,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -737,8 +727,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "depth_id": "innovation_ecosystem",
       "self_check_description": "已完成AI创新生态系统设计相关内容，见proposal.md对应章节"
@@ -765,7 +755,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -774,8 +764,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第5章 重点区域详细设计",
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "depth_id": "talent_community",
       "self_check_description": "已完成人才社区与居住空间相关内容，见proposal.md对应章节"
@@ -802,7 +792,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -811,8 +801,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第3章 统筹研究范围产业与未来城市研究",
+        "第7章 用地、建筑规模与拆改留方案"
       ],
       "depth_id": "industrial_layout",
       "self_check_description": "已完成产业空间布局相关内容，见proposal.md对应章节"
@@ -839,7 +829,7 @@
         "空间结构"
       ],
       "drawing_refs": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "geometry_refs": [
         "geometry/site_boundary.geojson"
@@ -848,8 +838,8 @@
         "IND-001"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第3章 空间结构"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景",
+        "第8章 交通、轨道、市政与公共服务设施"
       ],
       "depth_id": "smart_city_integration",
       "self_check_description": "已完成智慧城市与数字底座相关内容，见proposal.md对应章节"
@@ -862,15 +852,14 @@
       "professional_dimension": "总体规划",
       "required": true,
       "status": "complete",
-      "evidence_summary_zh": "方案明确划定三级范围：统筹研究范围4360ha（京张铁路沿线）、城市设计范围约1500ha（对径带核心区段）、重点片区约300ha（三核重点片区）；各级范围有明确的设计深度和管控要求差异化策略",
+      "evidence_summary_zh": "方案明确划定三级范围：统筹研究范围4360ha（京张铁路沿线）、城市设计范围约11.4km²（对径带核心区段）、重点片区约368.4ha（三核重点片区）；各级范围有明确的设计深度和管控要求差异化策略",
       "evidence_summary_en": "Three-level Scope Framework is comprehensively covered in the proposal.",
       "report_sections": [
         "第1章 设计背景与范围",
         "第3章 空间结构"
       ],
       "proposal_sections": [
-        "第1章 设计背景与范围",
-        "第3章 空间结构"
+        "第2章 三层范围工作框架"
       ],
       "drawing_refs": [
         "drawings/01_overall_structure.svg"
@@ -908,8 +897,8 @@
         "第5章 新型城市形态设计"
       ],
       "proposal_sections": [
-        "第2章 现状诊断",
-        "第5章 新型城市形态设计"
+        "第7章 用地、建筑规模与拆改留方案",
+        "第5章 重点区域详细设计"
       ],
       "drawing_refs": [
         "drawings/05_building_character.svg"
@@ -945,7 +934,7 @@
         "第6章 交通与基础设施系统"
       ],
       "proposal_sections": [
-        "第6章 交通与基础设施系统"
+        "第8章 交通、轨道、市政与公共服务设施"
       ],
       "drawing_refs": [
         "drawings/06_transportation.svg"
@@ -982,8 +971,7 @@
         "第9章 三大核心片区详细设计"
       ],
       "proposal_sections": [
-        "第4章 AI创新生态空间布局",
-        "第9章 三大核心片区详细设计"
+        "第5章 重点区域详细设计"
       ],
       "drawing_refs": [
         "drawings/04_key_areas_detailed.svg"
@@ -1020,8 +1008,7 @@
         "第11章 重点项目库"
       ],
       "proposal_sections": [
-        "第10章 实施路径与行动计划",
-        "第11章 重点项目库"
+        "第10章 更新项目清单、实施政策与分期计划"
       ],
       "drawing_refs": [
         "drawings/10_phasing.svg"
@@ -1058,8 +1045,7 @@
         "第13章 假设与说明"
       ],
       "proposal_sections": [
-        "第12章 风险与不确定性",
-        "第13章 假设与说明"
+        "第12章 风险、版权与合规说明"
       ],
       "drawing_refs": [
         "drawings/10_phasing.svg"

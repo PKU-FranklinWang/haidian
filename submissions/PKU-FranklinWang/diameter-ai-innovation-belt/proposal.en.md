@@ -14,7 +14,7 @@ translation_of: "proposal.md"
 ---
 
 # Centennial Jingzhang · Diameter AI Innovation Belt
-## — AI Innovation Belt Urban Design Proposal (v5.4)
+## — AI Innovation Belt Urban Design Proposal (v5.6)
 
 > **Guiding Ideology**: General Secretary Xi Jinping's important concept of "people's city built by the people, people's city for the people"
 > **Theoretical Mainline**: New Spatial Economics causal chain — "spatial quality enhancement → dynamic talent agglomeration → industrial innovation development"
@@ -3333,7 +3333,7 @@ Spatial data sources include Haidian GIS data [metric:haidian-gis^provisional], 
 
 ### 13.2 Planned Research Activities Statement
 
-All field research, building surveys, enterprise interviews, and resident questionnaires are in planned status as of v5.4. Planned activities: ① Full-line site reconnaissance (from H2 2026); ② Stakeholder interviews (progress depends on coordination); ③ Continuous review of existing public materials. Research plan is provisional; authorization and compliance must be confirmed before formal implementation.
+All field research, building surveys, enterprise interviews, and resident questionnaires are in planned status as of v5.6. Planned activities: ① Full-line site reconnaissance (from H2 2026); ② Stakeholder interviews (progress depends on coordination); ③ Continuous review of existing public materials. Research plan is provisional; authorization and compliance must be confirmed before formal implementation.
 
 
 ## Chapter 14 Conclusion and Outlook

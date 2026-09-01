@@ -1,6 +1,6 @@
 {
   "schema_version": "0.2.0",
-  "sources_version": "v5.1.0",
+  "sources_version": "v5.6.0",
   "total_sources": 21,
   "sources": [
     {
@@ -30,7 +30,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "DATA-SRC-AGENT-TASKBOOK-20260518",
       "mapped_to_organizer": true,
-      "evidence_grade": "approved"
+      "evidence_grade": "approved",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-002",
@@ -59,7 +62,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "DATA-SRC-AGENT-TASKBOOK-20260518",
       "mapped_to_organizer": true,
-      "evidence_grade": "approved"
+      "evidence_grade": "approved",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（征集任务书/主办方提供）",
+      "registry_status": "mapped_taskbook"
     },
     {
       "id": "SRC-003",
@@ -88,7 +94,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "approved"
+      "evidence_grade": "approved",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-004",
@@ -117,7 +126,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "approved"
+      "evidence_grade": "approved",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-005",
@@ -147,7 +159,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "approved"
+      "evidence_grade": "approved",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-006",
@@ -177,7 +192,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "approved"
+      "evidence_grade": "approved",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-007",
@@ -207,7 +225,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "approved"
+      "evidence_grade": "approved",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-008",
@@ -237,7 +258,10 @@
       "usage_scope_en": "For theoretical discussion and design inspiration only",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "medium",
+      "evidence_level_zh": "中（学术文献/理论推演）",
+      "registry_status": "mapped_academic"
     },
     {
       "id": "SRC-009",
@@ -267,7 +291,10 @@
       "usage_scope_en": "For theoretical discussion and design inspiration only",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "medium",
+      "evidence_level_zh": "中（学术文献/理论推演）",
+      "registry_status": "mapped_academic"
     },
     {
       "id": "SRC-010",
@@ -296,7 +323,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-011",
@@ -325,7 +355,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-012",
@@ -357,7 +390,10 @@
       "usage_scope_en": "For theoretical discussion and design inspiration only",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "medium",
+      "evidence_level_zh": "中（案例研究/第三方报告）",
+      "registry_status": "third_party"
     },
     {
       "id": "SRC-013",
@@ -389,7 +425,10 @@
       "usage_scope_en": "Design reference only; excluded from formal argumentation and metrics",
       "organizer_source_id": "DATA-SRC-PROVISIONAL-BOUNDARIES-20260605",
       "mapped_to_organizer": true,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "low",
+      "evidence_level_zh": "低（临时粗略边界，provisional）",
+      "registry_status": "provisional"
     },
     {
       "id": "SRC-014",
@@ -418,7 +457,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-015",
@@ -447,7 +489,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "DATA-SRC-GENERATIVE-AI-INTERIM-MEASURES",
       "mapped_to_organizer": true,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-016",
@@ -476,7 +521,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "DATA-SRC-BARRIER-FREE-ENVIRONMENT-LAW",
       "mapped_to_organizer": true,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-017",
@@ -505,7 +553,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-018",
@@ -535,7 +586,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "approved"
+      "evidence_grade": "approved",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-019",
@@ -565,7 +619,10 @@
       "usage_scope_en": "For theoretical discussion and design inspiration only",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "background_only"
+      "evidence_grade": "background_only",
+      "evidence_level": "medium",
+      "evidence_level_zh": "中（学术文献/理论推演）",
+      "registry_status": "mapped_academic"
     },
     {
       "id": "SRC-020",
@@ -595,7 +652,10 @@
       "usage_scope_en": "Usable for formal argumentation and metric support",
       "organizer_source_id": "",
       "mapped_to_organizer": false,
-      "evidence_grade": "approved"
+      "evidence_grade": "approved",
+      "evidence_level": "high",
+      "evidence_level_zh": "高（官方公开文件）",
+      "registry_status": "mapped_official"
     },
     {
       "id": "SRC-021",
@@ -628,28 +688,20 @@
       "organizer_source_id": "",
       "mapped_to_organizer": false,
       "evidence_grade": "needs_review",
-      "caveat": "该规划文本尚未获取正式发布版本，相关引用基于公开报道的背景描述，不构成正式论证依据。参与者自评不等于组织方核准。"
+      "caveat": "该规划文本尚未获取正式发布版本，相关引用基于公开报道的背景描述，不构成正式论证依据。参与者自评不等于组织方核准。",
+      "evidence_level": "background_unverified",
+      "evidence_level_zh": "背景资料/待核验",
+      "verification_note_zh": "未取得正式规划文本，仅根据公开报道和公告整理，具体范围、设计方案以官方正式发布为准",
+      "registry_status": "unmapped_background"
     }
   ],
   "source_registry_summary": {
     "total_sources": 21,
-    "by_approval_status": {
-      "organizer_mapped": 5,
-      "self_assessed_pending": 11,
-      "reference_only": 4,
-      "unverified": 2,
-      "needs_review": 0
-    },
-    "by_grade": {
-      "formal_approved": 15,
-      "academic_background": 3,
-      "background_only": 1,
-      "provisional": 1,
-      "needs_review": 1
-    },
-    "organizer_mapped_count": 5,
-    "disclaimer_zh": "参与者自评来源等级不等于组织方核准。正式论证仅使用已与组织方DATA-SRC编号建立映射且核准状态为usable_for_formal=yes的来源。未映射来源统一降级为背景/待核验，不支撑定量结论。",
-    "disclaimer_en": "Participant self-assessed source grades are not equivalent to organizer approval. Only sources mapped to organizer DATA-SRC IDs with usable_for_formal=yes are used for formal argumentation. Unmapped sources are downgraded to background/pending-verification and do not support quantitative conclusions."
+    "official_mapped": 18,
+    "academic_mapped": 3,
+    "background_unverified": 1,
+    "provisional": 1,
+    "note_zh": "组织方source registry为空时，未获官方映射的来源统一标注为背景/待核验，不用于证明现状基线或合规结论"
   },
   "source_usage_summary_zh": "本方案来源按核准状态分为三类：（1）正式核准来源（自评15项）：官方政策/法规/标准/规划/公告/任务书，用于正式论证与指标支撑；（2）参考性来源（4项）：学术论文/研究报告/案例，用于理论阐述与设计启发；（3）未核准来源（1项）：自主调研空间数据，仅作设计参考。正式论证仅使用第1类来源，最终核准以组织方source_registry为准。",
   "source_usage_summary_en": "Sources are classified by approval status: (1) Self-assessed approved sources (15 items): official policies/regulations/standards/plans/announcements/taskbook, used for formal argumentation; (2) Reference-only sources (4 items): academic papers/research reports/case studies, for theoretical support; (3) Unverified sources (1 item): team independent spatial data, design reference only. Formal argumentation uses only Category 1. Final approval subject to organizer source_registry.",

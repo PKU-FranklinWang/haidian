@@ -1,6 +1,6 @@
 {
   "schema_version": "0.2.0",
-  "matrix_version": "v4.0",
+  "matrix_version": "v5.6.0",
   "total_requirements": 84,
   "compliant_count": 77,
   "compliance_rate": 0.92,
@@ -22,7 +22,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -40,8 +40,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -61,7 +61,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -79,8 +79,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -100,7 +100,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -118,8 +118,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -139,7 +139,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -157,8 +157,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -178,7 +178,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -196,8 +196,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -217,7 +217,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -235,8 +235,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -256,7 +256,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -274,8 +274,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -295,7 +295,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -313,8 +313,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -334,7 +334,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -352,8 +352,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -373,7 +373,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -391,8 +391,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -412,7 +412,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -430,8 +430,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -451,7 +451,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -469,8 +469,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -490,7 +490,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -508,8 +508,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -529,7 +529,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -547,8 +547,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -568,7 +568,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -586,8 +586,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -607,7 +607,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -625,8 +625,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -646,7 +646,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -664,8 +664,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -685,7 +685,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -703,8 +703,8 @@
         "SRC-002"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ]
     },
     {
@@ -716,7 +716,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -753,7 +753,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -790,7 +790,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -827,7 +827,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -864,7 +864,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -901,7 +901,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -938,7 +938,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -975,7 +975,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1012,7 +1012,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1048,7 +1048,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1084,7 +1084,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1120,7 +1120,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1156,7 +1156,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1192,7 +1192,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1228,7 +1228,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1264,7 +1264,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1300,7 +1300,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1336,7 +1336,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1372,7 +1372,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1408,7 +1408,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1444,7 +1444,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1480,7 +1480,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1516,7 +1516,7 @@
       "status": "compliant",
       "evidence_summary_zh": "方案设计符合官方公告相关要求。",
       "proposal_sections": [
-        "第1章 项目背景"
+        "第1章 设计依据与资料清单"
       ],
       "report_sections": [
         "第1章"
@@ -1552,7 +1552,7 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
         "第6章"
@@ -1588,7 +1588,7 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
         "第6章"
@@ -1624,7 +1624,7 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
         "第6章"
@@ -1660,7 +1660,7 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
         "第6章"
@@ -1696,7 +1696,7 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
         "第6章"
@@ -1732,7 +1732,7 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
         "第6章"
@@ -1768,7 +1768,7 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
         "第6章"
@@ -1804,7 +1804,7 @@
       "status": "compliant",
       "evidence_summary_zh": "AI Agent生成过程符合任务书要求。",
       "proposal_sections": [
-        "第6章"
+        "第6章 AI 创新生态、人才画像与 AI+ 场景"
       ],
       "report_sections": [
         "第6章"
@@ -1845,8 +1845,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1855,7 +1855,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -1885,8 +1885,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1895,7 +1895,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -1925,8 +1925,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1935,7 +1935,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -1965,8 +1965,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -1975,7 +1975,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2005,8 +2005,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2015,7 +2015,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2045,8 +2045,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2055,7 +2055,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2085,8 +2085,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2095,7 +2095,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2125,8 +2125,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2135,7 +2135,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2165,8 +2165,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2175,7 +2175,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2205,8 +2205,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2215,7 +2215,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2245,8 +2245,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2255,7 +2255,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2285,8 +2285,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2295,7 +2295,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2325,8 +2325,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2335,7 +2335,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2365,8 +2365,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2375,7 +2375,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2405,8 +2405,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2415,7 +2415,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2445,8 +2445,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2455,7 +2455,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2485,8 +2485,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2495,7 +2495,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2525,8 +2525,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2535,7 +2535,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2565,8 +2565,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2575,7 +2575,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2605,8 +2605,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2615,7 +2615,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2645,8 +2645,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2655,7 +2655,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2685,8 +2685,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2695,7 +2695,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2725,8 +2725,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2735,7 +2735,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2765,8 +2765,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2775,7 +2775,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2805,8 +2805,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2815,7 +2815,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2845,8 +2845,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2855,7 +2855,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2885,8 +2885,8 @@
         "空间结构"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2895,7 +2895,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2927,8 +2927,8 @@
         "区域协作"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2937,7 +2937,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -2972,8 +2972,8 @@
         "创新层级"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -2982,7 +2982,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3017,8 +3017,8 @@
         "活力营造"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -3027,7 +3027,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3062,8 +3062,8 @@
         "智能原生业态"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -3072,7 +3072,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3108,8 +3108,8 @@
         "AI新文化"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -3118,7 +3118,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3153,8 +3153,8 @@
         "长期治理"
       ],
       "proposal_sections": [
-        "第2章",
-        "第3章"
+        "第2章 三层范围工作框架",
+        "第3章 统筹研究范围产业与未来城市研究"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson"
@@ -3163,7 +3163,7 @@
         "IND-001"
       ],
       "drawings": [
-        "drawings/design-booklet.pdf"
+        "drawings/a3-booklet.pdf"
       ],
       "visual_sections": [
         "visual/index.html"
@@ -3196,7 +3196,7 @@
         "第7章 生态低碳与韧性安全"
       ],
       "proposal_sections": [
-        "第7章 生态低碳与韧性安全"
+        "第9章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/green_space.geojson"
@@ -3233,7 +3233,7 @@
         "第7章 生态低碳与韧性安全"
       ],
       "proposal_sections": [
-        "第7章 生态低碳与韧性安全"
+        "第9章 蓝绿空间、公共空间与城市风貌"
       ],
       "geojson_layers": [
         "geometry/green_space.geojson"

@@ -8,7 +8,7 @@
   },
   "metrics": {
     "IND-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 3000,
       "unit": "count",
       "source_files": [],
@@ -31,10 +31,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "IND-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 250000,
       "unit": "count",
       "source_files": [],
@@ -57,10 +59,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "IND-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 40,
       "unit": "count",
       "source_files": [],
@@ -83,10 +87,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "IND-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "count",
       "source_files": [],
@@ -109,10 +115,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "IND-005": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 20,
       "unit": "count",
       "source_files": [],
@@ -135,10 +143,12 @@
       "verification_note": "AI创新平台的认定需经国家/市级相关部门审批，本方案仅为情景假设目标，不代表已获认定",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "SQ-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 18,
       "unit": "count",
       "source_files": [],
@@ -161,10 +171,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "SQ-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "percent",
       "source_files": [],
@@ -187,10 +199,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "SQ-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 25,
       "unit": "count",
       "source_files": [],
@@ -213,10 +227,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "SQ-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "percent",
       "source_files": [],
@@ -239,10 +255,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "SQ-005": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 45,
       "unit": "sqm_per_person",
       "source_files": [],
@@ -269,10 +287,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "TR-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -297,10 +317,12 @@
       "is_committed_value": false,
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "scenario_target": 90,
-      "value_range_note": "现状约85%（基于provisional边界粗估）；规划结合新增轨道站点方案可达90%+，待轨道线网规划确认"
+      "value_range_note": "现状约85%（基于provisional边界粗估）；规划结合新增轨道站点方案可达90%+，待轨道线网规划确认",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "TR-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -326,10 +348,12 @@
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "scenario_target": 90,
       "value_range_note": "现状约85%（基于provisional边界和现状公交线网粗估）；概念情景规划目标90%+，需结合公交线网调整方案专项交通评估核验",
-      "baseline_note": "现状值基于2025年公开公交线网数据粗估"
+      "baseline_note": "现状值基于2025年公开公交线网数据粗估",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "TR-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -353,10 +377,12 @@
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "TR-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 30000,
       "unit": "m",
       "source_files": [],
@@ -379,10 +405,12 @@
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "EC-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 30,
       "unit": "percent",
       "source_files": [],
@@ -405,10 +433,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "EC-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "percent",
       "source_files": [],
@@ -431,10 +461,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "EC-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 35,
       "unit": "percent",
       "source_files": [],
@@ -457,10 +489,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "EC-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -483,10 +517,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "CV-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 8,
       "unit": "count",
       "source_files": [],
@@ -509,10 +545,12 @@
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "CV-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 100,
       "unit": "count_per_day",
       "source_files": [],
@@ -535,10 +573,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "CV-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 5000000,
       "unit": "visits_per_year",
       "source_files": [],
@@ -561,10 +601,13 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（成熟期情景目标）",
+      "phasing_note_zh": "启动期≥50万/年，加速期≥500万/年，成熟期≥2000万/年（2035远景）"
     },
     "CV-004": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 20,
       "unit": "count",
       "source_files": [],
@@ -587,10 +630,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "TL-001": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 30000,
       "unit": "count",
       "source_files": [],
@@ -613,10 +658,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "TL-002": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 80,
       "unit": "percent",
       "source_files": [],
@@ -639,10 +686,12 @@
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "TL-003": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 15,
       "unit": "percent",
       "source_files": [],
@@ -665,10 +714,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "site_area_sqm": {
-      "status": "known",
+      "status": "provisional_measured",
       "value": 44299300.7,
       "unit": "sqm",
       "source_files": [
@@ -694,10 +745,12 @@
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
-      "is_committed_value": false
+      "is_committed_value": false,
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "green_ratio": {
-      "status": "known",
+      "status": "provisional_measured",
       "value": 0.057131,
       "unit": "none",
       "source_files": [
@@ -725,10 +778,12 @@
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
-      "denominator_note": "分母为总体设计范围建设用地面积（provisional）"
+      "denominator_note": "分母为总体设计范围建设用地面积（provisional）",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "public_space_ratio": {
-      "status": "known",
+      "status": "provisional_measured",
       "value": 0.013091,
       "unit": "none",
       "source_files": [
@@ -754,10 +809,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "residential_floor_area": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 4500000,
       "unit": "sqm",
       "source_files": [
@@ -786,10 +843,13 @@
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
-      "value_range_note": "约450万㎡，占总建筑面积约25%；基于概念情景功能结构测算，待居住用地布局深化后核验"
+      "value_range_note": "约450万㎡，占总建筑面积约25%；基于概念情景功能结构测算，待居住用地布局深化后核验",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）",
+      "formula_zh": "居住建筑面积 = 现状490万㎡ - 拆除184万㎡ + 新建144万㎡ = 450万㎡"
     },
     "total_floor_area_scenario": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value_range": [
         14000000,
         18000000
@@ -825,10 +885,13 @@
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "scenario_low": 16000000,
       "scenario_high": 20000000,
-      "value_range_note": "概念情景测算区间1600-2000万㎡，中位值约1800万㎡；基于provisional边界，待正式边界与控规修编确认后复核"
+      "value_range_note": "概念情景测算区间1600-2000万㎡，中位值约1800万㎡；基于provisional边界，待正式边界与控规修编确认后复核",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景中位值）",
+      "range_zh": "1600-2000万㎡（情景区间，中位值1800万㎡）"
     },
     "IND-006": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 150000,
       "unit": "count",
       "name": "AI高端人才数",
@@ -851,10 +914,12 @@
       "model_output": "情景推演产出，置信度: low",
       "scenario_status": "conceptual_scenario",
       "is_committed_value": false,
-      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标"
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     },
     "IND-007": {
-      "status": "known",
+      "status": "conceptual_scenario",
       "value": 3500,
       "unit": "100M_yuan",
       "name": "海淀区AI核心产业规模基线（2024）",
@@ -878,13 +943,19 @@
       "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
       "model_output": "情景推演产出，置信度: medium",
       "scenario_status": "conceptual_scenario",
-      "is_committed_value": false
+      "is_committed_value": false,
+      "scope": "11.4km²总体设计范围（provisional）",
+      "target_year": "2030（情景目标）"
     }
   },
-  "metrics_version": "v5.0.0",
-  "update_note": "v5.0: 统一建筑面积区间1600-2000万㎡（中点1800万㎡）；澄清绿地率多口径定义；统一公交/轨道覆盖率现状vs目标口径；全量指标标注provisional/conceptual_scenario状态",
+  "metrics_version": "v5.6.0",
+  "update_note": "v5.6: 全口径统一——主控范围11.4km²（总体设计范围），主控目标年2030情景；建筑面积统一为1600-2000万㎡区间（中位1800万㎡）；居住450万㎡统一公式；访客量按三期分阶段标注；所有指标明确provisional/conceptual_scenario状态",
   "scenario_ledger_disclaimer": {
     "zh": "本指标台账所有数值均为概念情景研究参数（conceptual scenario parameters），用于方向性讨论和规划推演，不构成承诺值、法定指标或审批依据。各指标均标注空间分母、时间分母、计算公式、来源等级、置信度和失效条件。",
     "en": "All values in this metric ledger are conceptual scenario parameters for directional discussion and planning推演, not commitments, statutory indicators, or approval basis. Each indicator includes spatial denominator, temporal denominator, calculation formula, source grade, confidence level, and failure conditions."
+  },
+  "master_scope_statement": {
+    "zh": "如无特殊说明，本方案所有指标均基于11.4km²总体设计范围（provisional）、2030情景目标年，为概念情景估算（conceptual scenario），非法定规划指标。",
+    "en": "Unless otherwise specified, all indicators in this proposal are based on the 11.4km² overall design scope (provisional) and 2030 scenario target year. All are conceptual scenario estimates, not statutory planning indicators."
   }
 }
