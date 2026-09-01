@@ -20,7 +20,8 @@
       "path": "manifest.json",
       "role": "manifest",
       "required": true,
-      "language": "zh"
+      "language": "zh",
+      "sha256": "b1439071c61285750f0a555935efd9bcae0c84de799c01a07ecbd1b1a4de95e7"
     },
     {
       "path": "agent.json",
@@ -48,8 +49,7 @@
       "role": "metrics",
       "required": true,
       "language": "zh",
-      "sha256": "58d2b8fc2dd7a4d7d3a896dd62fd24a53c86586eb6eb20b504d2d73e06b9e8c4",
-      "size": 51230
+      "sha256": "58d2b8fc2dd7a4d7d3a896dd62fd24a53c86586eb6eb20b504d2d73e06b9e8c4"
     },
     {
       "path": "compliance_matrix.json",
