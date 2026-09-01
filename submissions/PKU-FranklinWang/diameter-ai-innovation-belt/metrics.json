@@ -719,7 +719,7 @@
       "target_year": "2035（规划目标）"
     },
     "site_area_sqm": {
-      "status": "provisional_measured",
+      "status": "known",
       "value": 44299300.7,
       "unit": "sqm",
       "source_files": [
@@ -750,7 +750,7 @@
       "target_year": "2035（规划目标）"
     },
     "green_ratio": {
-      "status": "provisional_measured",
+      "status": "known",
       "value": 0.057131,
       "unit": "none",
       "source_files": [
@@ -783,7 +783,7 @@
       "target_year": "2035（规划目标）"
     },
     "public_space_ratio": {
-      "status": "provisional_measured",
+      "status": "known",
       "value": 0.013091,
       "unit": "none",
       "source_files": [
