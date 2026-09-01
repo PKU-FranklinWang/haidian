@@ -48,7 +48,7 @@
       "role": "metrics",
       "required": true,
       "language": "zh",
-      "sha256": "58d2b8fc2dd7a4d7d3a896dd62fd24a53c86586eb6eb20b504d2d73e06b9e8c4"
+      "sha256": "d58ee6f7995a20df53229b2678f1456f8120c5108d9be0e055d3ddc0382646f0"
     },
     {
       "path": "compliance_matrix.json",
