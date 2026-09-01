@@ -14,7 +14,7 @@ translation_of: "proposal.md"
 ---
 
 # Centennial Jingzhang · Diameter AI Innovation Belt
-## — AI Innovation Belt Urban Design Proposal (v5.4)
+## — AI Innovation Belt Urban Design Proposal (v5.6)
 
 > **Guiding Ideology**: General Secretary Xi Jinping's important concept of "people's city built by the people, people's city for the people"
 > **Theoretical Mainline**: New Spatial Economics causal chain — "spatial quality enhancement → dynamic talent agglomeration → industrial innovation development"
@@ -146,7 +146,7 @@ This proposal takes the New Spatial Economics founded by Professor Yang Kaizhong
 
 New Spatial Economics breaks through the analytical paradigm of "transportation cost minimization" in traditional urban economics, shifting to a brand-new theoretical perspective of "spatial quality drives innovation growth", providing a systematic theoretical framework for the planning and design of urban innovation spaces in the AI era. Its core proposition holds that spatial economy is endogenously determined by the interwoven co-evolution of technological innovation, increasing returns, factor mobility, travel costs and transport costs, and spatial quality — spatial quality is no longer an exogenous residual "amenity" variable, but a core endogenous variable alongside transport costs and factor flows. [source:SRC-019]
 
-New Spatial Economics reveals that in the DIKIT era, the relative importance of freight costs versus travel costs has undergone a fundamental shift: face-to-face exchange has become the foundational mechanism of innovation, travel costs have risen to become a key constraint of the spatial economy, and spatial quality together with travel costs determines the "quality proximity effect" in talent location choice — talents tend to flow to areas with high spatial quality and low travel costs, even if nominal wages are lower. [source:SRC-019] Its core logic can be summarized as "three propositions + two mechanisms":
+New Spatial Economics reveals that in the DIKIT era, the relative importance of freight costs versus travel costs has undergone an important shift: face-to-face exchange has become the foundational mechanism of innovation, travel costs have risen to become a key constraint of the spatial economy, and spatial quality together with travel costs determines the "quality proximity effect" in talent location choice — talents tend to flow to areas with high spatial quality and low travel costs, even if nominal wages are lower. [source:SRC-019] Its core logic can be summarized as "three propositions + two mechanisms":
 
 **Three Core Propositions**
 
@@ -182,7 +182,7 @@ Linear corridor mode offers efficiency advantages over point agglomeration:
 - **Maximized encounter probability** — people in different directions generate face-to-face exchange opportunities
 - **Structured mobility cost reduction** — all nodes share one quality spine
 
-> **Design hypothesis**: Diameter geometry (longest chord in circular scope) maximizes coverage and the midpoint has highest accessibility. Requires empirical verification.
+> **Design hypothesis**: Diameter geometry (longest chord in circular scope) maximizes coverage and the midpoint has high accessibility. Requires empirical verification.
 
 **Mechanism 2: Dynamic Agglomeration Driven by Gradient Differences — Quality Gradient → Talent Flow → Innovation Diffusion** [source:SRC-019]
 
@@ -380,7 +380,9 @@ This proposal adopts a **"Coordinated Research — Overall Design — Key Areas"
 - Urban character and building height control
 - Key project layout and inventory
 
-**Depth Positioning**: Overall conceptual urban design research, proposing regulatory suggestion directions and guidance ideas for professional teams to deepen through statutory procedures.
+**Depth Positioning**: Conceptual urban design, proposing regulatory optimization suggestions for professional teams to deepen via statutory procedures.
+
+> **Metric Scope**: Unless noted, all indicators use 11.4km² scope and 2035 target year.
 
 #### 2.1.3 Tier 3: Key Areas Detailed Design (368.4ha)
 
@@ -552,14 +554,14 @@ The core of this positioning is not "becoming a growth pole", but **constructing
 - **Spatial bearing**: AI Origin Community (innovation transformation hub) + Dazhongsi District (industrial agglomeration export) + dual-ring collaboration network
 
 **Core Support (New Spatial Economics Interpretation)**:
-- Beijing's position as the core area of the international sci-tech innovation center means the highest level of innovation-oriented quality supply capacity, forming a "quality highland" with both siphon and radiation effects on surrounding areas
+- Beijing's position as the core area of the international sci-tech innovation center means the high level of innovation-oriented quality supply capacity, forming a "quality highland" with both siphon and radiation effects on surrounding areas
 
 #### Positioning 3: Beijing's AI Industry-Oriented + Smart-Oriented Spatial Quality Main Supply Area
 
 **(Economic restatement of the original "Main Bearing Area of Beijing's AI Trillion-Level Industrial Cluster")**
 
 **Connotation Interpretation**:
-The core of this positioning is not "introducing enterprises and forming clusters", but **constructing Beijing's highest-energy industry-oriented and smart-oriented spatial quality supply system** — through high-quality industrial supporting facilities, business services, application scenarios, and smart facilities, attracting AI industrial talent agglomeration.
+The core of this positioning is not "introducing enterprises and forming clusters", but **constructing Beijing's high-energy industry-oriented and smart-oriented spatial quality supply system** — through high-quality industrial supporting facilities, business services, application scenarios, and smart facilities, attracting AI industrial talent agglomeration.
 
 - **Quality supply type**: With industry-oriented spatial quality as the leading factor (industrial chain completeness, business support level, application scenario richness), with smart-oriented spatial quality as the feature (AI scenario empowerment, digital infrastructure, smart governance level)
 - **Talent agglomeration goal**: AI industrial engineering talents, product managers, industry solution experts, operation management talents
@@ -567,7 +569,7 @@ The core of this positioning is not "introducing enterprises and forming cluster
 - **Spatial bearing**: Dazhongsi District (core of industry-oriented quality) + smart scenarios along the entire line (smart-oriented quality supply)
 
 **Core Support (New Spatial Economics Interpretation)**:
-- Beijing's AI industry foundation (enterprise count, talent scale, and financing volume all rank first in the country) provides the demand foundation and initial conditions for self-organized evolution of industry-oriented quality
+- Beijing's AI industry foundation (enterprise count, talent scale, and financing volume all rank among top nationally) provides the demand foundation and initial conditions for self-organized evolution of industry-oriented quality
 
 ### 3.3 Five Core Functions
 
@@ -630,7 +632,7 @@ Eight global cases were studied for reference: Silicon Valley (US), Kendall Squa
 ### 3.7 Future City Vision
 
 #### Vision Description
-By 2030, the Centennial Jing-Zhang AI Innovation Belt will be built into:
+By 2035, the Centennial Jing-Zhang AI Innovation Belt will be built into:
 - **World-class AI innovation ecosystem highland**: Gathering the world's top AI talents and enterprises, forming a globally influential AI industrial cluster
 - **Modern people-oriented city demonstration belt**: Practicing the concept of "people's city built by the people, people's city for the people", creating high-quality living spaces
 - **Model of urban renewal and innovation integration**: Benchmark for industrial heritage activation and utilization, model for existing spatial value reshaping
@@ -638,7 +640,7 @@ By 2030, the Centennial Jing-Zhang AI Innovation Belt will be built into:
 
 #### Core Development Indicators
 
-| Dimension | 2030 Target | Current Baseline (2024) | Growth Rate |
+| Dimension | 2035 Target | Current Baseline (2024) | Growth Rate |
 |-----------|-------------|------------------------|-------------|
 | AI Core Industry Scale | ≥300 billion yuan | ~200 billion yuan | +50% |
 | Number of Unicorn Enterprises | ≥40 | ~25 | +60% |
@@ -764,7 +766,7 @@ Spatial structure: Diameter as north-south spine, west linking Zhongguancun, eas
 ### 4.1 Industry Development Goals
 
 #### 4.1.1 Industry Scale Targets
-By the end of the "15th Five-Year Plan" (2030), within the innovation belt scope:
+By end of "15th Five-Year Plan" (2030·near-term), within innovation belt scope:
 - AI core industry operating revenue exceeds 300 billion yuan
 [metric:industry-scale-target]
 
@@ -826,7 +828,7 @@ Based on "industry-city-people integration", high-intensity functional mixing re
 | District | Industrial Office | Residential | Commercial Services | Public Space | Mixing Logic (Based on Talent Types) |
 |----------|-------------------|-------------|---------------------|--------------|--------------------------------------|
 | Collective Intelligence Park | 55% | 25% | 10% | 10% | Research talents are the mainstay, requiring a higher proportion of R&D office and residence, while focusing on the academic exchange function of public space |
-| AI Origin Community | 45% | 30% | 15% | 10% | Entrepreneurial talents are the mainstay, requiring the highest proportion of residence and commercial services (social + life), with relatively flexible office space |
+| AI Origin Community | 45% | 30% | 15% | 10% | Entrepreneurial talents are the mainstay, requiring the high proportion of residence and commercial services (social + life), with relatively flexible office space |
 
 The differentiated configuration of mixing ratios embodies the New Spatial Economics principle of "quality supply matching talent preferences" — different types of talents have different preferences for the ratio of functional mixing, and the three-core districts carry out targeted functional mixing design according to their respective dominant talent types, maximizing the matching efficiency of quality supply.
 
@@ -888,6 +890,10 @@ The planning and construction of the Jing-Zhang Railway Heritage Park should not
 - **Dui Jing (Diameter)** — Distinguished from the "development axis" of traditional planning (dominated by transportation and industrial functions), emphasizing the unity of walkability, spatial symmetry, cultural ritual sense, and innovation interactivity
 
 #### 4.3.2 Diameter Cross-Section Design: Seven-Lane Pattern
+
+> **Two Section Scales** (whole-part, not contradictory):
+> - **Macro (60-80m)**: Seven-Lane = road+greenbelt composite (road redline + setbacks + central greenbelt)
+> - **Micro (35-40m)**: Heritage park = core greenbelt landscape section only
 
 The Jing-Zhang Innovation Diameter adopts a "seven-lane" cross-section design, from west to east: West Bicycle Lane — West Walkway — Central Landscape Belt (Heritage Memorial Path) — East Walkway — East Bicycle Lane — Ecological Buffer Zone — Innovation Interaction Belt.
 
@@ -1124,7 +1130,7 @@ This chapter has established the overall spatial structure of "One Diameter · T
 
 **Positioning**: Core bearing area of AI full-stack independent innovation system, first station for university achievement transformation in North Campus area, main front for "from 0 to 1" original breakthroughs.
 
-**Economic logic**: Zhongzhiyuan is the **highest-density learning-quality supply area** — adjacent to top universities (Tsinghua, PKU, Beihang, BUPT) with richest academic resources and densest research talent. This learning quality is talent agglomeration's "source endowment" and the belt's knowledge spillover origin.
+**Economic logic**: Zhongzhiyuan is the **high-density learning-quality supply area** — adjacent to top universities (Tsinghua, PKU, Beihang, BUPT) with richest academic resources and densest research talent. This learning quality is talent agglomeration's "source endowment" and the belt's knowledge spillover origin.
 
 - **Quality type**: learning-oriented dominant + initial innovation-oriented supply
 - **Talent type**: AI scientists, researchers, young scholars, PhD candidates
@@ -1218,7 +1224,7 @@ The virtual space of the Collective Intelligence Park district is positioned as 
 
 **Positioning**: AI technology source and talent vitality core, energy hub of the innovation diameter, destination for global AI young talents, main front for "from 1 to 100" technology incubation.
 
-**Economic logic**: AI Origin Community is the **highest-density innovation-quality supply area** — at the diameter midpoint, it's the intersection/converter of learning and industry quality. Northern university knowledge meets southern industrial market access, generating maximum collision and vitality.
+**Economic logic**: AI Origin Community is the **high-density innovation-quality supply area** — at the diameter midpoint, it's the intersection/converter of learning and industry quality. Northern university knowledge meets southern industrial market access, generating greater collision and vitality.
 
 - **Quality type**: innovation-oriented dominant, composite learning+industry zone
 - **Talent type**: entrepreneurs, product managers, technical partners, investors
@@ -1230,7 +1236,7 @@ The virtual space of the Collective Intelligence Park district is positioned as 
 - Zhichun Road's mature startup ecosystem — startup atmosphere itself is quality; circular cumulative causation
 - Transport hub (Lines 13 & 10) — reduces flow time cost, core node of talent network
 - Mature commerce, high convenience — livability supports innovation quality, 24hr innovation possible
-- Diameter geometric midpoint — shortest distances to both ends, lowest exchange cost, highest efficiency
+- Diameter geometric midpoint — shortest distances to both ends, lowest exchange cost, high efficiency
 #### 5.2.2 Spatial Structure
 
 **"One Core · Two Axes · Three Slices · Multiple Nodes" Spatial Structure**
@@ -1316,7 +1322,7 @@ The virtual space of the AI Origin Community is positioned as the **"Acceleratio
 **Positioning**: AI industry landing and application promotion gateway, southern gateway image display zone, main front for "from 100 to N" industry amplification.
 
 **Economic Logic of Positioning**:
-From the perspective of New Spatial Economics, the core value of Dazhongsi District lies in it being **the highest-density supply area of industry-oriented spatial quality** — located at the southern end of the diameter axis, it is the terminal link where innovation achievements are transformed into industrial value. Here, it undertakes startup projects and technological achievements incubated and matured at the central origin, and through the agglomeration and scaling of the industrial chain, innovation value is transformed into industrial value and economic output.
+From the perspective of New Spatial Economics, the core value of Dazhongsi District lies in it being **the high-density supply area of industry-oriented spatial quality** — located at the southern end of the diameter axis, it is the terminal link where innovation achievements are transformed into industrial value. Here, it undertakes startup projects and technological achievements incubated and matured at the central origin, and through the agglomeration and scaling of the industrial chain, innovation value is transformed into industrial value and economic output.
 
 - **Quality type**: Industry-oriented spatial quality as the leading factor, superimposed with smart-oriented quality (scenario applications)
 - **Talent agglomeration type**: Enterprise executives, industrial engineers, product operations, business services and other industrial talents
@@ -2287,7 +2293,7 @@ According to the "15-minute quality living circle" standard, build a three-tier 
 #### 9.1.1 "One Spine, Three Corridors, Multiple Points" Ecological Pattern
 
 **One Spine**: Jing-Zhang Railway Heritage Park Green Spine
-- 9km linear ecological corridor, width 35-40m
+- 9km linear eco-corridor (core greenbelt micro-section, 35-40m)
 - Composite functions: Ecology + Leisure + Culture + Innovation Interaction
 - Green space area: ~35ha
 
@@ -2343,7 +2349,7 @@ From west to east in sequence:
 6. East side bicycle lane (3.5m)
 7. East side green buffer zone (8-10m)
 
-Total width approximately 35-40m.
+Total width ~35-40m (micro-section of core greenbelt; see 4.3.2 for macro 60-80m Seven-Lane).
 
 
 #### 9.2.4 Node Design
@@ -2768,7 +2774,7 @@ Three-phase implementation follows the economic logic of "gradual agglomeration 
 - Multi-Agent: Cross-scenario multi-agent collaboration mature, supporting full-line AI governance
 - Overall TRL: 7-8 (system prototype → actual system)
 
-##### Third Phase: Maturity Period (2030+ · Concept Scenario) — Benchmark, Paradigm, Exportable
+##### Third Phase: Maturity Period (2035+ · Concept Scenario) — Benchmark, Paradigm, Exportable
 
 **Construction Volume**: Full line improved and enhanced, entering operation iteration phase
 - Public space: Full-line quality continuously optimized, entering organic renewal cycle
@@ -2787,7 +2793,7 @@ Three-phase implementation follows the economic logic of "gradual agglomeration 
 
 #### Three-Phase Implementation Core Milestone Indicators
 
-| Indicator Dimension | Start-up Phase (2027) | Acceleration Phase (2029) | Maturity Phase (2030+) |
+| Indicator Dimension | Start-up Phase (2027) | Acceleration Phase (2029) | Maturity Phase (2035+) |
 |--------------------|----------------------|--------------------------|----------------------|
 | AI Enterprise Count | ≥50 | ≥300 | ≥1,000 |
 | AI Talent Scale | ≥10,000 | ≥50,000 | ≥150,000 |
@@ -2985,7 +2991,7 @@ Based on Yang Kaizhong's New Spatial Economics theory, build a dual-dimensional 
 
 #### 11.1.1 People's City Six Dimensions × Spatial Quality Seven Degrees Integrated Indicator System
 
-| Spatial Quality Dimension | People's City Six Dimensions Correspondence | Indicator Name | Unit | 2030 Target | Data Source | Monitoring Frequency |
+| Spatial Quality Dimension | People's City Six Dimensions Correspondence | Indicator Name | Unit | 2035 Target | Data Source | Monitoring Frequency |
 |--------------------------|--------------------------------------------|---------------|------|-------------|-------------|---------------------|
 | **Ecological Quality** | Beautiful + Resilient | Per capita park green space area | ㎡/person | ≥18 | Statistical data | Annual |
 | | | Green coverage rate | % | ≥45 | Remote sensing data | Annual |
@@ -3020,7 +3026,7 @@ Based on Yang Kaizhong's New Spatial Economics theory, build a dual-dimensional 
 
 #### 11.1.2 Industrial Economic Indicators
 
-| Indicator | Unit | 2030 Target | Average Annual Growth Rate |
+| Indicator | Unit | 2035 Target | Average Annual Growth Rate |
 |-----------|------|-------------|---------------------------|
 
 | AI Core Industry Operating Revenue | 100 million yuan | ≥3000 | ~12% |
@@ -3333,7 +3339,7 @@ Spatial data sources include Haidian GIS data [metric:haidian-gis^provisional], 
 
 ### 13.2 Planned Research Activities Statement
 
-All field research, building surveys, enterprise interviews, and resident questionnaires are in planned status as of v5.4. Planned activities: ① Full-line site reconnaissance (from H2 2026); ② Stakeholder interviews (progress depends on coordination); ③ Continuous review of existing public materials. Research plan is provisional; authorization and compliance must be confirmed before formal implementation.
+All field research, building surveys, enterprise interviews, and resident questionnaires are in planned status as of v5.6. Planned activities: ① Full-line site reconnaissance (from H2 2026); ② Stakeholder interviews (progress depends on coordination); ③ Continuous review of existing public materials. Research plan is provisional; authorization and compliance must be confirmed before formal implementation.
 
 
 ## Chapter 14 Conclusion and Outlook
