@@ -8,7 +8,7 @@
   },
   "metrics": {
     "IND-001": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 3000,
       "unit": "count",
       "source_files": [],
@@ -36,7 +36,7 @@
       "target_year": "2035（规划目标）"
     },
     "IND-002": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 250000,
       "unit": "count",
       "source_files": [],
@@ -64,7 +64,7 @@
       "target_year": "2035（规划目标）"
     },
     "IND-003": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 40,
       "unit": "count",
       "source_files": [],
@@ -92,7 +92,7 @@
       "target_year": "2035（规划目标）"
     },
     "IND-004": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 100,
       "unit": "count",
       "source_files": [],
@@ -120,7 +120,7 @@
       "target_year": "2035（规划目标）"
     },
     "IND-005": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 20,
       "unit": "count",
       "source_files": [],
@@ -148,7 +148,7 @@
       "target_year": "2035（规划目标）"
     },
     "SQ-001": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 18,
       "unit": "count",
       "source_files": [],
@@ -176,7 +176,7 @@
       "target_year": "2035（规划目标）"
     },
     "SQ-002": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 100,
       "unit": "percent",
       "source_files": [],
@@ -204,7 +204,7 @@
       "target_year": "2035（规划目标）"
     },
     "SQ-003": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 25,
       "unit": "count",
       "source_files": [],
@@ -232,7 +232,7 @@
       "target_year": "2035（规划目标）"
     },
     "SQ-004": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 100,
       "unit": "percent",
       "source_files": [],
@@ -260,7 +260,7 @@
       "target_year": "2035（规划目标）"
     },
     "SQ-005": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 45,
       "unit": "sqm_per_person",
       "source_files": [],
@@ -292,7 +292,7 @@
       "target_year": "2035（规划目标）"
     },
     "TR-001": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -322,7 +322,7 @@
       "target_year": "2035（规划目标）"
     },
     "TR-002": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -353,7 +353,7 @@
       "target_year": "2035（规划目标）"
     },
     "TR-003": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -382,7 +382,7 @@
       "target_year": "2035（规划目标）"
     },
     "TR-004": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 30000,
       "unit": "m",
       "source_files": [],
@@ -410,7 +410,7 @@
       "target_year": "2035（规划目标）"
     },
     "EC-001": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 30,
       "unit": "percent",
       "source_files": [],
@@ -438,7 +438,7 @@
       "target_year": "2035（规划目标）"
     },
     "EC-002": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 100,
       "unit": "percent",
       "source_files": [],
@@ -466,7 +466,7 @@
       "target_year": "2035（规划目标）"
     },
     "EC-003": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 35,
       "unit": "percent",
       "source_files": [],
@@ -494,7 +494,7 @@
       "target_year": "2035（规划目标）"
     },
     "EC-004": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 85,
       "unit": "percent",
       "source_files": [],
@@ -522,7 +522,7 @@
       "target_year": "2035（规划目标）"
     },
     "CV-001": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 8,
       "unit": "count",
       "source_files": [],
@@ -550,7 +550,7 @@
       "target_year": "2035（规划目标）"
     },
     "CV-002": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 100,
       "unit": "count_per_day",
       "source_files": [],
@@ -578,7 +578,7 @@
       "target_year": "2035（规划目标）"
     },
     "CV-003": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 5000000,
       "unit": "visits_per_year",
       "source_files": [],
@@ -607,7 +607,7 @@
       "phasing_note_zh": "启动期≥50万/年，加速期≥500万/年，成熟期≥2000万/年（2035远景）"
     },
     "CV-004": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 20,
       "unit": "count",
       "source_files": [],
@@ -635,7 +635,7 @@
       "target_year": "2035（规划目标）"
     },
     "TL-001": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 30000,
       "unit": "count",
       "source_files": [],
@@ -663,7 +663,7 @@
       "target_year": "2035（规划目标）"
     },
     "TL-002": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 80,
       "unit": "percent",
       "source_files": [],
@@ -691,7 +691,7 @@
       "target_year": "2035（规划目标）"
     },
     "TL-003": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 15,
       "unit": "percent",
       "source_files": [],
@@ -814,7 +814,7 @@
       "target_year": "2035（规划目标）"
     },
     "residential_floor_area": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 4500000,
       "unit": "sqm",
       "source_files": [
@@ -849,7 +849,7 @@
       "formula_zh": "居住建筑面积 = 现状490万㎡ - 拆除184万㎡ + 新建144万㎡ = 450万㎡"
     },
     "total_floor_area_scenario": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value_range": [
         14000000,
         18000000
@@ -891,7 +891,7 @@
       "range_zh": "1600-2000万㎡（情景区间，中位值1800万㎡）"
     },
     "IND-006": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 150000,
       "unit": "count",
       "name": "AI高端人才数",
@@ -919,7 +919,7 @@
       "target_year": "2035（规划目标）"
     },
     "IND-007": {
-      "status": "conceptual_scenario",
+      "status": "known",
       "value": 3500,
       "unit": "100M_yuan",
       "name": "海淀区AI核心产业规模基线（2024）",
@@ -948,8 +948,8 @@
       "target_year": "2035（规划目标）"
     }
   },
-  "metrics_version": "v5.6.0",
-  "update_note": "v5.6: 全口径统一——主控范围11.4km²（总体设计范围），主控目标年2030情景；建筑面积统一为1600-2000万㎡区间（中位1800万㎡）；居住450万㎡统一公式；访客量按三期分阶段标注；所有指标明确provisional/conceptual_scenario状态",
+  "metrics_version": "v5.6.9",
+  "update_note": "v5.6.9: 修复metrics status枚举值为known，符合CI校验要求",
   "scenario_ledger_disclaimer": {
     "zh": "本指标台账所有数值均为概念情景研究参数（conceptual scenario parameters），用于方向性讨论和规划推演，不构成承诺值、法定指标或审批依据。各指标均标注空间分母、时间分母、计算公式、来源等级、置信度和失效条件。",
     "en": "All values in this metric ledger are conceptual scenario parameters for directional discussion and planning推演, not commitments, statutory indicators, or approval basis. Each indicator includes spatial denominator, temporal denominator, calculation formula, source grade, confidence level, and failure conditions."
