@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "assumptions_version": "v4.2",
+  "assumptions_version": "v4.3",
   "total_assumptions": 30,
   "assumptions": [
     {
@@ -34,7 +34,9 @@
       "impact_on_design_en": "The diameter spatial structure is organized around the heritage park; actual alignment and width affect overall layout",
       "confidence_level": "medium",
       "data_needed_to_verify": "京张铁路遗址公园已实施段精确线位和宽度、规划控制线",
-      "assumption_id": "ASM-003"
+      "assumption_id": "ASM-003",
+      "src021_warning_zh": "京张铁路遗址公园规划引用自SRC-021，未取得正式文本，仅供概念设计参考。",
+      "src021_warning_en": "Jing-Zhang Railway Heritage Park plan reference is from SRC-021; official text not obtained, for conceptual design reference only."
     },
     {
       "id": "ASM-004",
@@ -179,7 +181,9 @@
       "impact_on_design_en": "The diameter cross-section design and functional layout are based on the multi-functional utilization assumption of the heritage park",
       "confidence_level": "medium",
       "data_needed_to_verify": "京张铁路遗址公园规划设计方案、绿地管理规定、文物保护要求",
-      "assumption_id": "ASM-016"
+      "assumption_id": "ASM-016",
+      "src021_warning_zh": "京张铁路遗址公园规划引用自SRC-021，未取得正式文本，仅供概念设计参考。",
+      "src021_warning_en": "Jing-Zhang Railway Heritage Park plan reference is from SRC-021; official text not obtained, for conceptual design reference only."
     },
     {
       "id": "ASM-017",
@@ -201,7 +205,9 @@
       "impact_on_design_en": "Cultural narrative and heritage activation design are based on this resource assumption; actual heritage conditions may differ from descriptions",
       "confidence_level": "medium",
       "data_needed_to_verify": "京张铁路文物普查资料、工业遗产评估报告、文保单位清单",
-      "assumption_id": "ASM-018"
+      "assumption_id": "ASM-018",
+      "src021_warning_zh": "京张铁路遗址公园规划引用自SRC-021，未取得正式文本，仅供概念设计参考。",
+      "src021_warning_en": "Jing-Zhang Railway Heritage Park plan reference is from SRC-021; official text not obtained, for conceptual design reference only."
     },
     {
       "id": "ASM-019",
@@ -263,7 +269,11 @@
       "impact": "All quantitative indicators should be treated as scenario estimates or conceptual targets; not as verified baseline data.",
       "source": "Public announcements (SRC-001 ~ SRC-007) + background research (SRC-012)",
       "verification_status": "pending official data release",
-      "status": "declared"
+      "status": "declared",
+      "evidence_note_zh": "所有引用数据来源的证据等级已在sources.json中分级标注。组织方source registry为空时，非官方映射来源统一视为背景/待核验，不用于证明现状基线或合规结论。",
+      "evidence_note_en": "Evidence grades for all cited data sources are graded in sources.json. When organizer source registry is empty, non-officially mapped sources are uniformly treated as background/pending verification, not used to prove baseline status or compliance conclusions.",
+      "source_evidence_summary_zh": "官方公开来源15项（政策/规划/法规/标准/公告）、研究参考来源4项（学术论文/研究报告）、未核验/临时来源2项（临时边界/待核验规划）",
+      "source_evidence_summary_en": "15 official public sources (policy/planning/regulation/standard/announcement), 4 research references (academic papers/research reports), 2 unverified/provisional sources (provisional boundary/pending verification plan)"
     },
     {
       "id": "ASM-025",
@@ -332,5 +342,5 @@
       "data_needed_to_verify": "地籍调查、建筑普查、权属核实"
     }
   ],
-  "update_note": "v4.2: synchronized with metrics.json reconciliation; clarified scope of baseline values; added metric alignment notes"
+  "update_note": "v4.3: 添加证据等级标注说明；SRC-021遗址公园规划加显著未取得正式文本提示；非官方来源使用限制为背景参考"
 }
