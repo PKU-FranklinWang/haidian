@@ -45,6 +45,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import http.client
 from pathlib import Path, PurePosixPath
 from typing import Any
 
@@ -181,6 +182,12 @@ class GitHubClient:
                         f"GitHub API {method} {url} failed with HTTP {error.code}: {message}"
                     ) from error
                 time.sleep(_retry_delay_seconds(error, attempt))
+            except (http.client.IncompleteRead, urllib.error.URLError) as error:
+                if attempt + 1 >= MAX_API_ATTEMPTS:
+                    raise RuntimeError(
+                        f"GitHub API {method} {url} failed with network error: {error}"
+                    ) from error
+                time.sleep(2 ** attempt)
         raise AssertionError("unreachable")
 
     def paginate(self, path: str) -> list[dict]:
