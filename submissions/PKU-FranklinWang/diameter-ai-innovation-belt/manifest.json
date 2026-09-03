@@ -41,21 +41,21 @@
       "role": "sources",
       "required": true,
       "language": "zh",
-      "sha256": "23e7387d8cfec115de4f69c085ad72f157498352753a3eb41167b424970811b0"
+      "sha256": "dc37019f49890ac572efc85621a03ff04461d33658e6a45dc9506fa9e240afd8"
     },
     {
       "path": "metrics.json",
       "role": "metrics",
       "required": true,
       "language": "zh",
-      "sha256": "1c384b8ab2c71ccea4c88059abd2385211839b61f0221c8763c036cdfd07068a"
+      "sha256": "3efb92f5227ff0c36de62f92f87aad1612ba0a09706ecaf52f10de3f30b9ff68"
     },
     {
       "path": "compliance_matrix.json",
       "role": "compliance_matrix",
       "required": true,
       "language": "zh",
-      "sha256": "c696624b142e7683af15a6d9c833e6fde1a2dead6baebffd8de7e34112885c87"
+      "sha256": "535b4d98d44bde581b514adf79dff233cb6b786382ebc8d021fbc12e569a10f1"
     },
     {
       "path": "standard_matrix.json",
@@ -69,14 +69,14 @@
       "role": "design_depth_matrix",
       "required": true,
       "language": "zh",
-      "sha256": "f79e13b62d4b10ad2bff386a068034d3d71a5ad22997593e5180e4a287afb0f5"
+      "sha256": "c392f90ad3fbb6c6e5ee73a9e4cdfa9ae569434efb1344da4550c0744a088484"
     },
     {
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
       "language": "zh",
-      "sha256": "e758ce594d5ab0da763010a482fad9ebc625f4fe47b4217b80e165b224af9ea4"
+      "sha256": "b79121744e350c015827732c634523d4a703c3292192d091af24843b65850261"
     },
     {
       "path": "proposal.md",
@@ -122,46 +122,39 @@
       "sha256": "60bf50a59104158bdab8e5ca43c26cc0e95faf101867e4663a9c06e4a22ba518"
     },
     {
-      "path": "assets/figures/05_phasing_timeline.png",
-      "role": "proposal_figure",
-      "required": false,
-      "language": "neutral",
-      "sha256": "81cf1e40eafb5362f6223cd79a74281ed921e89d2b2a658968c71c2205fd8487"
-    },
-    {
       "path": "assets/figures/brand-identity-system.png",
       "role": "proposal_figure",
       "required": false,
       "language": "neutral",
-      "sha256": "8fa2bc5887376467e274477456151374ae57c9d86b9cdc90639d61bc99981deb"
+      "sha256": "e758f571a17ec5ded3a5724a17ca1aacd594f94c88eaa6fef1425d9fb1bab4a8"
     },
     {
       "path": "assets/figures/key-areas.png",
       "role": "proposal_figure",
       "required": false,
       "language": "neutral",
-      "sha256": "c5d192f47aad5d162d8b756372a1f8b3711acf5b0130ab9a3ccfb28456fd6ec6"
+      "sha256": "e29b27098785ee822eeb76e375ae65c6c4d72f61368a7a09813080cf2338977f"
     },
     {
       "path": "assets/figures/land-use-structure.png",
       "role": "proposal_figure",
       "required": false,
       "language": "neutral",
-      "sha256": "2acb3525b6c031269005212d980d89a4e6d9960b17c8629c91d3c2cfd12fef42"
+      "sha256": "7915eb305de94a74e45c97bf16768fbe676d1f39d5e4c243b4a1230393366b74"
     },
     {
       "path": "assets/figures/metrics-evidence.png",
       "role": "proposal_figure",
       "required": false,
       "language": "neutral",
-      "sha256": "e3412c676714e9d3bb57d03a0b096f7bfa26d3e6c303092b14a4bce009f79cb6"
+      "sha256": "d1f42f81cc95cd6b24249e7979da67ab7371237693667eda28cfcf4edb884d21"
     },
     {
       "path": "assets/figures/mobility-bluegreen.png",
       "role": "proposal_figure",
       "required": false,
       "language": "neutral",
-      "sha256": "bd080b9a058fad3ed44b3235babf276412fbe0ecf370d4db4648fe19e1a501bf"
+      "sha256": "e34d599ab6f21f0f25731fd03261a60f1fede4f3fa1fd5971b72d3f3861a2f64"
     },
     {
       "path": "assets/figures/node_node1_ai4s.png",
@@ -217,21 +210,21 @@
       "role": "proposal_figure",
       "required": false,
       "language": "neutral",
-      "sha256": "434cf7ef5953a85dc838e26a570cd1bfea7dbed1860842a7fb664449aef2e99d"
+      "sha256": "3ea9a2edc93983c7ba7e9ef16e171d02fddb49d021cdcf4b0f78985ccb433b6f"
     },
     {
       "path": "assets/figures/site-overview.png",
       "role": "proposal_figure",
       "required": false,
       "language": "neutral",
-      "sha256": "4f396b2a7c2e34445affb1f25d260e6ff5d5700e87a9d4b54807ac8aaec6e21b"
+      "sha256": "a985e31f4b3822b561f4aa793f0ba0db9dbe3cba1b26c8243bb56c8ce3998e87"
     },
     {
       "path": "assets/figures/street-innovation-quality.png",
       "role": "proposal_figure",
       "required": false,
       "language": "neutral",
-      "sha256": "752013ed308bc3440e4b917fbc323c2a6c99de6e3e7c010da35a54c923a95353"
+      "sha256": "dc2e7088daaf37d6753fe834caaa58997048a9fbd6feeb36a2655d5cbb8170da"
     },
     {
       "path": "report/proposal.html",
@@ -253,7 +246,7 @@
       "role": "copyright_statement",
       "required": false,
       "language": "zh",
-      "sha256": "180a1697bd0b34108921e3492f127d584166039d6053ac6d16af84fa6d684594"
+      "sha256": "81e60e87992da116474c9c26ba497cd5ae94910c7449c0de35b28150814cf3f1"
     },
     {
       "path": "drawings/a0-boards.en.pdf",

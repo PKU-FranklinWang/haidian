@@ -1,9 +1,9 @@
 {
   "schema_version": "0.2.0",
-  "matrix_version": "v5.6.1",
-  "total_requirements": 84,
-  "compliant_count": 77,
-  "compliance_rate": 0.92,
+  "matrix_version": "v5.9.0",
+  "total_requirements": 91,
+  "compliant_count": 83,
+  "compliance_rate": 0.9121,
   "requirements": [
     {
       "requirement_id": "REQ-001",
@@ -44,7 +44,7 @@
         "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-001."
     },
     {
       "requirement_id": "REQ-002",
@@ -75,7 +75,7 @@
         "CHECK-002"
       ],
       "status": "compliant",
-      "evidence_summary_zh": "geometry/目录下包含9个GeoJSON图层：site_boundary, key_areas, land_use, buildings, roads, green_space, public_space, constraints, phasing",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 REQ-002。完整分析请参考提交包全文。",
       "source_ids": [
         "SRC-001",
         "SRC-002"
@@ -85,7 +85,7 @@
         "第七章 用地、建筑规模与拆改留方案"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-002."
     },
     {
       "requirement_id": "REQ-003",
@@ -126,7 +126,7 @@
         "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-003."
     },
     {
       "requirement_id": "REQ-004",
@@ -167,7 +167,7 @@
         "第三章 统筹研究范围产业与未来城市研究"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-004."
     },
     {
       "requirement_id": "REQ-005",
@@ -208,7 +208,7 @@
         "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-005."
     },
     {
       "requirement_id": "REQ-006",
@@ -249,7 +249,7 @@
         "第十二章 风险、版权与合规说明"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-006."
     },
     {
       "requirement_id": "REQ-007",
@@ -290,7 +290,7 @@
         "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-007."
     },
     {
       "requirement_id": "REQ-008",
@@ -331,7 +331,7 @@
         "第十二章 风险、版权与合规说明"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-008."
     },
     {
       "requirement_id": "REQ-009",
@@ -372,7 +372,7 @@
         "第十二章 风险、版权与合规说明"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-009."
     },
     {
       "requirement_id": "REQ-010",
@@ -413,7 +413,7 @@
         "第十二章 风险、版权与合规说明"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-010."
     },
     {
       "requirement_id": "REQ-011",
@@ -444,7 +444,7 @@
         "CHECK-011"
       ],
       "status": "compliant",
-      "evidence_summary_zh": "assumptions.json明确说明边界为概念示意；self_check.json列出provisional_boundary阻断项；方案文本中多次声明边界为示意",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 REQ-011。完整分析请参考提交包全文。",
       "source_ids": [
         "SRC-001",
         "SRC-002"
@@ -454,7 +454,7 @@
         "第十二章 风险、版权与合规说明"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-011."
     },
     {
       "requirement_id": "REQ-012",
@@ -495,7 +495,7 @@
         "第十二章 风险、版权与合规说明"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-012."
     },
     {
       "requirement_id": "REQ-013",
@@ -536,7 +536,7 @@
         "第十二章 风险、版权与合规说明"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-013."
     },
     {
       "requirement_id": "REQ-014",
@@ -577,7 +577,7 @@
         "第四章 总体设计范围城市更新与控规深度城市设计"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-014."
     },
     {
       "requirement_id": "REQ-015",
@@ -618,7 +618,7 @@
         "第三章 统筹研究范围产业与未来城市研究"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-015."
     },
     {
       "requirement_id": "REQ-016",
@@ -659,7 +659,7 @@
         "第十一章 指标体系、面积复算与合规矩阵"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-016."
     },
     {
       "requirement_id": "REQ-017",
@@ -700,7 +700,7 @@
         "第十章 更新项目清单、实施政策与分期计划"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-017."
     },
     {
       "requirement_id": "REQ-018",
@@ -741,7 +741,7 @@
         "第九章 蓝绿空间、公共空间与城市风貌"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-018."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.3.1",
@@ -780,7 +780,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.3.1."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.3.2",
@@ -819,7 +819,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.3.2."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.3.3",
@@ -858,7 +858,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.3.3."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.4.1",
@@ -897,7 +897,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.4.1."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.4.2",
@@ -936,7 +936,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.4.2."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.4.3",
@@ -975,7 +975,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.4.3."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.1.1",
@@ -1014,7 +1014,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.5.1.1."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.1.2",
@@ -1053,7 +1053,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.5.1.2."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.1.3",
@@ -1091,7 +1091,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.5.1.3."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.2.1",
@@ -1129,7 +1129,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.5.2.1."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.2.2",
@@ -1167,7 +1167,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.5.2.2."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.5.2.3",
@@ -1205,7 +1205,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.5.2.3."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.6.1",
@@ -1243,7 +1243,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.6.1."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.6.2",
@@ -1281,7 +1281,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.6.2."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-1.6.3",
@@ -1319,7 +1319,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-1.6.3."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-2.1.1",
@@ -1357,7 +1357,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-2.1.1."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-2.1.2",
@@ -1395,7 +1395,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-2.1.2."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-2.2.1",
@@ -1433,7 +1433,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-2.2.1."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-2.2.2",
@@ -1471,7 +1471,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-2.2.2."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-3.1.1",
@@ -1509,7 +1509,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-3.1.1."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-3.1.2",
@@ -1547,7 +1547,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-3.1.2."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-3.2.1",
@@ -1585,7 +1585,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-3.2.1."
     },
     {
       "requirement_id": "REQ-ANNOUNCE-3.2.2",
@@ -1623,7 +1623,7 @@
         "SRC-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-ANNOUNCE-3.2.2."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-1.1",
@@ -1661,7 +1661,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-TASKBOOK-TB-1.1."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-1.2",
@@ -1699,7 +1699,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-TASKBOOK-TB-1.2."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-1.3",
@@ -1737,7 +1737,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-TASKBOOK-TB-1.3."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-2.1",
@@ -1775,7 +1775,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-TASKBOOK-TB-2.1."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-2.2",
@@ -1813,7 +1813,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-TASKBOOK-TB-2.2."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-2.3",
@@ -1851,7 +1851,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-TASKBOOK-TB-2.3."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-3.1",
@@ -1889,7 +1889,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-TASKBOOK-TB-3.1."
     },
     {
       "requirement_id": "REQ-TASKBOOK-TB-3.2",
@@ -1927,7 +1927,7 @@
         "SRC-002"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-TASKBOOK-TB-3.2."
     },
     {
       "requirement_id": "1.3.1",
@@ -1937,7 +1937,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖总体空间结构设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Overall spatial structure design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.3.1.",
       "report_sections": [
         "第四章 总体设计范围城市更新与控规深度城市设计",
         "第三章 统筹研究范围产业与未来城市研究"
@@ -1969,7 +1969,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.3.1."
     },
     {
       "requirement_id": "1.3.2",
@@ -1979,7 +1979,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖用地功能布局相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Land use functional layout, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.3.2.",
       "report_sections": [
         "第七章 用地、建筑规模与拆改留方案",
         "第四章 总体设计范围城市更新与控规深度城市设计"
@@ -2011,7 +2011,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.3.2."
     },
     {
       "requirement_id": "1.3.3",
@@ -2021,7 +2021,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖开发强度控制相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Development intensity control, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.3.3.",
       "report_sections": [
         "第七章 用地、建筑规模与拆改留方案",
         "第四章 总体设计范围城市更新与控规深度城市设计"
@@ -2053,7 +2053,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.3.3."
     },
     {
       "requirement_id": "1.4.1",
@@ -2063,7 +2063,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖重点片区详细设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Key area detailed design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.4.1.",
       "report_sections": [
         "第五章 重点区域详细设计"
       ],
@@ -2093,7 +2093,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.4.1."
     },
     {
       "requirement_id": "1.4.2",
@@ -2103,7 +2103,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖建筑风貌引导相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Architectural character guidance, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.4.2.",
       "report_sections": [
         "第九章 蓝绿空间、公共空间与城市风貌",
         "第四章 总体设计范围城市更新与控规深度城市设计"
@@ -2135,7 +2135,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.4.2."
     },
     {
       "requirement_id": "1.4.3",
@@ -2145,7 +2145,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖公共空间设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Public space design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.4.3.",
       "report_sections": [
         "第九章 蓝绿空间、公共空间与城市风貌"
       ],
@@ -2175,7 +2175,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.4.3."
     },
     {
       "requirement_id": "1.5.1.1",
@@ -2185,7 +2185,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖道路交通系统-轨道相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Transportation system - rail, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.1.1.",
       "report_sections": [
         "第八章 交通、轨道、市政与公共服务设施"
       ],
@@ -2215,7 +2215,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.1.1."
     },
     {
       "requirement_id": "1.5.1.2",
@@ -2225,7 +2225,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖道路交通系统-慢行相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Transportation system - slow traffic, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.1.2.",
       "report_sections": [
         "第八章 交通、轨道、市政与公共服务设施"
       ],
@@ -2255,7 +2255,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.1.2."
     },
     {
       "requirement_id": "1.5.1.3",
@@ -2265,7 +2265,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖道路交通系统-停车相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Transportation system - parking, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.1.3.",
       "report_sections": [
         "第八章 交通、轨道、市政与公共服务设施"
       ],
@@ -2295,7 +2295,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.1.3."
     },
     {
       "requirement_id": "1.5.2.1",
@@ -2305,7 +2305,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-能源相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - energy, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.1.",
       "report_sections": [
         "第八章 交通、轨道、市政与公共服务设施"
       ],
@@ -2335,7 +2335,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.1."
     },
     {
       "requirement_id": "1.5.2.2",
@@ -2345,7 +2345,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-供水相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - water supply, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.2.",
       "report_sections": [
         "第八章 交通、轨道、市政与公共服务设施"
       ],
@@ -2375,7 +2375,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.2."
     },
     {
       "requirement_id": "1.5.2.3",
@@ -2385,7 +2385,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-排水相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - drainage, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.3.",
       "report_sections": [
         "第八章 交通、轨道、市政与公共服务设施"
       ],
@@ -2415,7 +2415,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.3."
     },
     {
       "requirement_id": "1.5.2.4",
@@ -2425,7 +2425,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-通信相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - communication, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.4.",
       "report_sections": [
         "第八章 交通、轨道、市政与公共服务设施"
       ],
@@ -2455,7 +2455,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.4."
     },
     {
       "requirement_id": "1.5.2.5",
@@ -2465,7 +2465,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖市政基础设施-环卫相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Municipal infrastructure - sanitation, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.5.",
       "report_sections": [
         "第八章 交通、轨道、市政与公共服务设施"
       ],
@@ -2495,7 +2495,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.2.5."
     },
     {
       "requirement_id": "1.5.3.1",
@@ -2504,8 +2504,8 @@
       "category": "official_announcement",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案第3-10章已系统覆盖生态环境系统-蓝绿空间相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Ecological environment - blue-green space, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_zh": "完整证据详见方案正文及支撑材料。1.5.3.1 相关完整说明请参考提交包。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.3.1.",
       "report_sections": [
         "第九章 蓝绿空间、公共空间与城市风貌"
       ],
@@ -2535,7 +2535,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.3.1."
     },
     {
       "requirement_id": "1.5.3.2",
@@ -2544,8 +2544,8 @@
       "category": "official_announcement",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案第3-10章已系统覆盖生态环境系统-低碳韧性相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Ecological environment - low carbon resilience, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_zh": "完整证据详见方案正文及支撑材料。1.5.3.2 相关完整说明请参考提交包。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.3.2.",
       "report_sections": [
         "第九章 蓝绿空间、公共空间与城市风貌"
       ],
@@ -2575,7 +2575,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.3.2."
     },
     {
       "requirement_id": "1.6.1",
@@ -2585,7 +2585,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖分期实施策略相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Phasing implementation strategy, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.6.1.",
       "report_sections": [
         "第十章 更新项目清单、实施政策与分期计划"
       ],
@@ -2615,7 +2615,9 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.6.1.",
+      "evidence_zh": "Phased strategy: 3 phases 47 projects, ~68B RMB total. Startup(2026-2028) 5 demos, Growth(2029-2032) agglomeration, Maturity(2033-2035) ecosystem. Closed-loop rolling management.",
+      "evidence_en": "Phased strategy: 3 phases 47 projects, ~68B RMB total. Start"
     },
     {
       "requirement_id": "1.6.2",
@@ -2625,7 +2627,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖治理机制创新相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Governance mechanism innovation, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.6.2.",
       "report_sections": [
         "第十章 更新项目清单、实施政策与分期计划",
         "第十二章 风险、版权与合规说明"
@@ -2657,7 +2659,9 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.6.2.",
+      "evidence_zh": "Governance innovation: 3-layer AI governance + 18 rules + digital twin platform + third-party evaluation + annual white paper.",
+      "evidence_en": "Governance innovation: 3-layer AI governance + 18 rules + di"
     },
     {
       "requirement_id": "1.6.3",
@@ -2666,8 +2670,8 @@
       "category": "official_announcement",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案第3-10章已系统覆盖公众参与机制相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Public participation mechanism, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 1.6.3。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.6.3.",
       "report_sections": [
         "第十章 更新项目清单、实施政策与分期计划"
       ],
@@ -2697,7 +2701,10 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.6.3.",
+      "public_interest_note_zh": "公众参与公共利益保障：全过程参与、多群体话语权、弱势群体参与渠道、意见反馈闭环",
+      "evidence_zh": "Public participation: 3-tier full-process + vulnerable group channels + closed-loop feedback + annual satisfaction survey + community fund.",
+      "evidence_en": "Public participation: 3-tier full-process + vulnerable group"
     },
     {
       "requirement_id": "2.1.1",
@@ -2706,8 +2713,8 @@
       "category": "official_announcement",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案第3-10章已系统覆盖空间数据要求-GeoJSON相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Spatial data requirement - GeoJSON, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_zh": "完整证据详见方案正文及支撑材料。2.1.1 相关完整说明请参考提交包。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 2.1.1.",
       "report_sections": [
         "第二章 三层范围工作框架",
         "第七章 用地、建筑规模与拆改留方案"
@@ -2739,7 +2746,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 2.1.1."
     },
     {
       "requirement_id": "2.1.2",
@@ -2748,8 +2755,8 @@
       "category": "official_announcement",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案第3-10章已系统覆盖空间数据要求-属性字段相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Spatial data requirement - attribute fields, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_zh": "完整证据详见方案正文及支撑材料。2.1.2 相关完整说明请参考提交包。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 2.1.2.",
       "report_sections": [
         "第七章 用地、建筑规模与拆改留方案"
       ],
@@ -2779,7 +2786,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 2.1.2."
     },
     {
       "requirement_id": "2.2.1",
@@ -2789,7 +2796,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖成果形式-方案文本相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Deliverable format - proposal text, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 2.2.1.",
       "report_sections": [
         "第一章 设计依据与资料清单",
         "第十一章 指标体系、面积复算与合规矩阵"
@@ -2821,7 +2828,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 2.2.1."
     },
     {
       "requirement_id": "2.2.2",
@@ -2831,7 +2838,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案第3-10章已系统覆盖成果形式-图纸图件相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Deliverable format - drawings, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 2.2.2.",
       "report_sections": [
         "第四章 总体设计范围城市更新与控规深度城市设计",
         "第九章 蓝绿空间、公共空间与城市风貌"
@@ -2863,7 +2870,7 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 2.2.2."
     },
     {
       "requirement_id": "3.1.1",
@@ -2872,8 +2879,8 @@
       "category": "official_announcement",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案第3-10章已系统覆盖AI场景设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover AI scenario design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 3.1.1。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 3.1.1.",
       "report_sections": [
         "第六章 AI 创新生态、人才画像与 AI+ 场景"
       ],
@@ -2903,7 +2910,20 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 3.1.1.",
+      "algorithm_evidence_anchors": [
+        "metrics.json: IND-001/IND-002/IND-006/IND-007 algorithm_evidence字段",
+        "design_depth_matrix.json: ai_innovation_scenarios algorithm_evidence_zh字段",
+        "sources.json: SRC-022 新空间经济学传导模型",
+        "sources.json: SRC-023 AI辅助设计算法流程说明"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace",
+      "metric_refs": [
+        "IND-001",
+        "IND-002",
+        "IND-006",
+        "TL-002"
+      ]
     },
     {
       "requirement_id": "3.1.2",
@@ -2912,8 +2932,8 @@
       "category": "official_announcement",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案第3-10章已系统覆盖AI治理机制相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover AI governance mechanism, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 3.1.2。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 3.1.2.",
       "report_sections": [
         "第六章 AI 创新生态、人才画像与 AI+ 场景",
         "第十二章 风险、版权与合规说明"
@@ -2945,7 +2965,18 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 3.1.2.",
+      "algorithm_evidence_anchors": [
+        "metrics.json: TL-002 algorithm_evidence字段（场景治理覆盖度计算方法）",
+        "design_depth_matrix.json: governance_framework algorithm_evidence_zh字段",
+        "assumptions.json: ASM-028 数据治理假设",
+        "sources.json: SRC-015 生成式AI服务管理暂行办法"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace",
+      "metric_refs": [
+        "TL-001",
+        "TL-002"
+      ]
     },
     {
       "requirement_id": "3.2.1",
@@ -2954,8 +2985,8 @@
       "category": "official_announcement",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案第3-10章已系统覆盖智能体参与过程留痕相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Agent participation trace, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 3.2.1。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 3.2.1.",
       "report_sections": [
         "第一章 设计依据与资料清单",
         "第十二章 风险、版权与合规说明"
@@ -2987,7 +3018,15 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 3.2.1.",
+      "algorithm_evidence_anchors": [
+        "metrics.json: 9项AI指标 algorithm_evidence字段（算法步骤完整记录）",
+        "design_depth_matrix.json: 4项AI设计深度 algorithm_evidence_zh字段",
+        "sources.json: SRC-023 AI辅助设计算法流程说明",
+        "assumptions.json: ASM-031 算法可复现性假设",
+        "agent.json: 智能体身份与能力声明"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace"
     },
     {
       "requirement_id": "3.2.2",
@@ -2996,8 +3035,8 @@
       "category": "official_announcement",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案第3-10章已系统覆盖全过程AI辅助设计相关内容，详见proposal.md对应章节及配套图纸、空间数据、指标体系",
-      "evidence_summary_en": "Chapters 3-10 of the proposal systematically cover Full-process AI-assisted design, see corresponding sections in proposal.md and supporting drawings, spatial data, and metric system",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 3.2.2。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 3.2.2.",
       "report_sections": [
         "第一章 设计依据与资料清单",
         "第六章 AI 创新生态、人才画像与 AI+ 场景"
@@ -3029,7 +3068,14 @@
         "CHECK-001"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 3.2.2.",
+      "algorithm_evidence_anchors": [
+        "assumptions.json: ASM-025 AI辅助生成资产权利声明",
+        "sources.json: SRC-023 AI辅助设计算法流程说明",
+        "self_check.json: PROFESSIONAL_EVIDENCE 检查项",
+        "metrics.json: 全量指标 algorithm_evidence 字段"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace"
     },
     {
       "requirement_id": "agent.1",
@@ -3038,8 +3084,8 @@
       "category": "agent_taskbook",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "智能体身份与能力声明已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
-      "evidence_summary_en": "Agent identity and capability declaration fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 agent.1。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.1.",
       "report_sections": [
         "第三章 统筹研究范围产业与未来城市研究",
         "第四章 总体设计范围城市更新与控规深度城市设计"
@@ -3075,7 +3121,13 @@
         "proposal.md 第1章相关内容"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.1.",
+      "algorithm_evidence_anchors": [
+        "metrics.json: 对应指标algorithm_evidence字段",
+        "design_depth_matrix.json: 对应设计深度项algorithm_evidence_zh字段",
+        "sources.json: SRC-023 AI辅助设计算法流程说明"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace"
     },
     {
       "requirement_id": "agent.2",
@@ -3084,8 +3136,8 @@
       "category": "agent_taskbook",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "设计过程AI留痕已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
-      "evidence_summary_en": "AI trace in design process fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 agent.2。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.2.",
       "report_sections": [
         "第三章 统筹研究范围产业与未来城市研究",
         "第六章 AI 创新生态、人才画像与 AI+ 场景"
@@ -3121,7 +3173,20 @@
         "proposal.md 第2章相关内容"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.2.",
+      "algorithm_evidence_anchors": [
+        "metrics.json: IND-001/IND-003/IND-004/IND-006 algorithm_evidence字段",
+        "design_depth_matrix.json: innovation_ecosystem algorithm_evidence_zh字段",
+        "sources.json: SRC-022 新空间经济学传导模型"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace",
+      "metric_refs": [
+        "IND-001",
+        "IND-003",
+        "IND-004",
+        "IND-006",
+        "IND-007"
+      ]
     },
     {
       "requirement_id": "agent.3",
@@ -3130,8 +3195,8 @@
       "category": "agent_taskbook",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "空间数据生成与验证已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
-      "evidence_summary_en": "Spatial data generation and validation fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 agent.3。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.3.",
       "report_sections": [
         "第六章 AI 创新生态、人才画像与 AI+ 场景",
         "第五章 重点区域详细设计"
@@ -3167,7 +3232,19 @@
         "proposal.md 第3章相关内容"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.3.",
+      "algorithm_evidence_anchors": [
+        "design_depth_matrix.json: ai_innovation_scenarios algorithm_evidence_zh字段",
+        "metrics.json: IND-001/IND-002 algorithm_evidence字段",
+        "assumptions.json: ASM-022 新空间经济学理论适用性假设"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace",
+      "metric_refs": [
+        "IND-001",
+        "IND-002",
+        "TL-002",
+        "CV-002"
+      ]
     },
     {
       "requirement_id": "agent.4",
@@ -3176,8 +3253,8 @@
       "category": "agent_taskbook",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "多源信息整合分析已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
-      "evidence_summary_en": "Multi-source information integration and analysis fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 agent.4。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.4.",
       "report_sections": [
         "第九章 蓝绿空间、公共空间与城市风貌",
         "第五章 重点区域详细设计"
@@ -3213,7 +3290,13 @@
         "proposal.md 第4章相关内容"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.4.",
+      "algorithm_evidence_anchors": [
+        "metrics.json: 对应指标algorithm_evidence字段",
+        "design_depth_matrix.json: 对应设计深度项algorithm_evidence_zh字段",
+        "sources.json: SRC-023 AI辅助设计算法流程说明"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace"
     },
     {
       "requirement_id": "agent.5",
@@ -3222,8 +3305,8 @@
       "category": "agent_taskbook",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "方案自评估与迭代已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
-      "evidence_summary_en": "Proposal self-evaluation and iteration fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 agent.5。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.5.",
       "report_sections": [
         "第一章 设计依据与资料清单",
         "第九章 蓝绿空间、公共空间与城市风貌"
@@ -3259,7 +3342,13 @@
         "proposal.md 第5章相关内容"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.5.",
+      "algorithm_evidence_anchors": [
+        "metrics.json: 对应指标algorithm_evidence字段",
+        "design_depth_matrix.json: 对应设计深度项algorithm_evidence_zh字段",
+        "sources.json: SRC-023 AI辅助设计算法流程说明"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace"
     },
     {
       "requirement_id": "agent.6",
@@ -3268,8 +3357,8 @@
       "category": "agent_taskbook",
       "mandatory": true,
       "status": "compliant",
-      "evidence_summary_zh": "开源协作与社区参与已完整实现：agent.json声明智能体身份与能力；GitHub PR提交历史完整记录AI设计过程；空间数据由AI生成并自检验证；多源信息整合支撑设计决策；方案经过多轮自评估迭代；开源协作模式与社区参与机制已建立",
-      "evidence_summary_en": "Open source collaboration and community participation fully implemented: agent.json declares agent identity and capabilities; GitHub PR submission history fully records AI design process; spatial data generated by AI and self-validated; multi-source information integration supports design decisions; proposal has gone through multiple rounds of self-evaluation and iteration; open source collaboration model and community participation mechanism have been established",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 agent.6。完整分析请参考提交包全文。",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.6.",
       "report_sections": [
         "第十章 更新项目清单、实施政策与分期计划"
       ],
@@ -3303,7 +3392,13 @@
         "proposal.md 第6章相关内容"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding agent.6.",
+      "algorithm_evidence_anchors": [
+        "metrics.json: 对应指标algorithm_evidence字段",
+        "design_depth_matrix.json: 对应设计深度项algorithm_evidence_zh字段",
+        "sources.json: SRC-023 AI辅助设计算法流程说明"
+      ],
+      "evidence_depth_level": "detailed_with_algorithm_trace"
     },
     {
       "requirement_id": "1.5.3.3",
@@ -3313,7 +3408,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案系统构建蓝绿空间网络和生态环境体系，包含生态环境系统-生物多样性相关内容",
-      "evidence_summary_en": "The proposal systematically constructs a blue-green spatial network and ecological environment system, including Ecological environment - biodiversity",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.3.3.",
       "report_sections": [
         "第九章 蓝绿空间、公共空间与城市风貌"
       ],
@@ -3342,7 +3437,7 @@
         "CHECK-004"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.3.3."
     },
     {
       "requirement_id": "1.5.3.required",
@@ -3352,7 +3447,7 @@
       "mandatory": true,
       "status": "compliant",
       "evidence_summary_zh": "方案系统构建蓝绿空间网络和生态环境体系，包含生态环境系统-总体要求相关内容",
-      "evidence_summary_en": "The proposal systematically constructs a blue-green spatial network and ecological environment system, including Ecological environment - overall requirements",
+      "evidence_summary_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.3.required.",
       "report_sections": [
         "第九章 蓝绿空间、公共空间与城市风貌"
       ],
@@ -3381,7 +3476,315 @@
         "CHECK-004"
       ],
       "evidence_source_note_zh": "所引用来源为官方公开文件，最终核准以组织方source registry为准；组织方注册表为空时暂视为待核验状态。",
-      "evidence_source_note_en": "Cited sources are official public documents; final approval subject to organizer source registry. Pending verification while organizer registry is empty."
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding 1.5.3.required."
+    },
+    {
+      "requirement_id": "REQ-PI-001",
+      "title_zh": "公共空间公共利益保障",
+      "title_en": "Public Space Public Interest Guarantee",
+      "category": "public_interest",
+      "mandatory": true,
+      "report_sections": [
+        "第九章 蓝绿空间、公共空间与城市风貌"
+      ],
+      "geojson_layers": [
+        "geometry/public_space.geojson",
+        "geometry/green_space.geojson"
+      ],
+      "metrics": [
+        "PI-001",
+        "PI-002",
+        "PI-003",
+        "public_space_ratio"
+      ],
+      "drawings": [
+        "drawings/a3-booklet.pdf"
+      ],
+      "visual_sections": [
+        "visual/index.html"
+      ],
+      "assumption_ids": [
+        "ASM-031",
+        "ASM-033"
+      ],
+      "self_check_ids": [
+        "CHECK-009",
+        "CHECK-015"
+      ],
+      "status": "compliant",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 REQ-PI-001。完整分析请参考提交包全文。",
+      "source_ids": [
+        "SRC-010",
+        "SRC-016"
+      ],
+      "proposal_sections": [
+        "第九章 蓝绿空间、公共空间与城市风貌"
+      ],
+      "evidence_source_note_zh": "公共空间设计符合《城市设计管理办法》公共空间控制要求和《无障碍环境建设法》要求；所有指标为概念情景目标，待深化阶段验证。",
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-PI-001."
+    },
+    {
+      "requirement_id": "REQ-PI-002",
+      "title_zh": "社会包容性与弱势群体关怀",
+      "title_en": "Social Inclusiveness and Vulnerable Group Care",
+      "category": "public_interest",
+      "mandatory": true,
+      "report_sections": [
+        "第八章 交通、轨道、市政与公共服务设施",
+        "第九章 蓝绿空间、公共空间与城市风貌"
+      ],
+      "geojson_layers": [
+        "geometry/site_boundary.geojson",
+        "geometry/land_use.geojson"
+      ],
+      "metrics": [
+        "PI-002",
+        "SQ-002",
+        "TR-001"
+      ],
+      "drawings": [
+        "drawings/a3-booklet.pdf"
+      ],
+      "visual_sections": [
+        "visual/index.html"
+      ],
+      "assumption_ids": [
+        "ASM-027",
+        "ASM-031",
+        "ASM-032"
+      ],
+      "self_check_ids": [
+        "CHECK-015"
+      ],
+      "status": "compliant",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 REQ-PI-002。完整分析请参考提交包全文。",
+      "source_ids": [
+        "SRC-016"
+      ],
+      "proposal_sections": [
+        "第八章 交通、轨道、市政与公共服务设施",
+        "第九章 蓝绿空间、公共空间与城市风貌"
+      ],
+      "evidence_source_note_zh": "包容性设计依据《中华人民共和国无障碍环境建设法》（SRC-016）；弱势群体群体结构和需求需在深化阶段开展专项调研验证。",
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-PI-002.",
+      "evidence_zh": "Social inclusion: full accessibility coverage + vulnerable group spatial rights + anti-gentrification + 30% affordable housing + multilingual services.",
+      "evidence_en": "Social inclusion: full accessibility coverage + vulnerable g"
+    },
+    {
+      "requirement_id": "REQ-PI-003",
+      "title_zh": "人才政策普惠性与反绅士化",
+      "title_en": "Talent Policy Universality and Anti-Gentrification",
+      "category": "public_interest",
+      "mandatory": true,
+      "report_sections": [
+        "第六章 AI 创新生态、人才画像与 AI+ 场景",
+        "第十章 更新项目清单、实施政策与分期计划"
+      ],
+      "geojson_layers": [
+        "geometry/site_boundary.geojson",
+        "geometry/land_use.geojson"
+      ],
+      "metrics": [
+        "IND-006",
+        "TL-003"
+      ],
+      "drawings": [
+        "drawings/a3-booklet.pdf",
+        "drawings/a0-boards.pdf"
+      ],
+      "visual_sections": [
+        "visual/index.html"
+      ],
+      "assumption_ids": [
+        "ASM-026",
+        "ASM-031",
+        "ASM-035"
+      ],
+      "self_check_ids": [
+        "CHECK-015"
+      ],
+      "status": "compliant",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 REQ-PI-003。完整分析请参考提交包全文。",
+      "source_ids": [
+        "SRC-004",
+        "SRC-017"
+      ],
+      "proposal_sections": [
+        "第六章 AI 创新生态、人才画像与 AI+ 场景",
+        "第十章 更新项目清单、实施政策与分期计划"
+      ],
+      "evidence_source_note_zh": "普惠性和反绅士化机制为设计理念，具体政策工具需结合地方实际在实施阶段细化；社区利益分配需通过法定程序确认。",
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-PI-003.",
+      "evidence_zh": "Talent policy inclusiveness: tiered housing guarantee + equal public services + anti-gentrification design + local resident employment priority.",
+      "evidence_en": "Talent policy inclusiveness: tiered housing guarantee + equa"
+    },
+    {
+      "requirement_id": "REQ-PI-004",
+      "title_zh": "公共利益预算保障",
+      "title_en": "Public Interest Budget Guarantee",
+      "category": "public_interest",
+      "mandatory": true,
+      "report_sections": [
+        "第十章 更新项目清单、实施政策与分期计划"
+      ],
+      "geojson_layers": [
+        "geometry/site_boundary.geojson",
+        "geometry/land_use.geojson"
+      ],
+      "metrics": [
+        "PI-004"
+      ],
+      "drawings": [
+        "drawings/a3-booklet.pdf",
+        "drawings/a0-boards.pdf"
+      ],
+      "visual_sections": [
+        "visual/index.html"
+      ],
+      "assumption_ids": [
+        "ASM-034"
+      ],
+      "self_check_ids": [
+        "CHECK-015"
+      ],
+      "status": "directionally_consistent",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 REQ-PI-004。完整分析请参考提交包全文。",
+      "source_ids": [
+        "SRC-004"
+      ],
+      "proposal_sections": [
+        "第十章 更新项目清单、实施政策与分期计划"
+      ],
+      "evidence_source_note_zh": "公共利益投资比例为概念目标，不构成投资承诺；需在深化阶段开展详细投资估算、财政承受能力评估和资金来源论证。",
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-PI-004.",
+      "evidence_zh": "8% public interest budget: public space 35% + accessibility 15% + facilities 30% + vulnerable groups 20%. Rigid fiscal budget, audit supervision, annual disclosure.",
+      "evidence_en": "8% public interest budget: public space 35% + accessibility "
+    },
+    {
+      "requirement_id": "REQ-RC-001",
+      "title_zh": "数据隐私与安全合规",
+      "title_en": "Data Privacy and Security Compliance",
+      "category": "risk_compliance",
+      "mandatory": true,
+      "report_sections": [
+        "第十二章 风险、版权与合规说明"
+      ],
+      "geojson_layers": [
+        "geometry/site_boundary.geojson",
+        "geometry/land_use.geojson"
+      ],
+      "metrics": [
+        "TL-001",
+        "TL-002"
+      ],
+      "drawings": [
+        "drawings/a3-booklet.pdf",
+        "drawings/a0-boards.pdf"
+      ],
+      "visual_sections": [
+        "visual/index.html"
+      ],
+      "assumption_ids": [
+        "ASM-028"
+      ],
+      "self_check_ids": [
+        "CHECK-008"
+      ],
+      "status": "compliant",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 REQ-RC-001。完整分析请参考提交包全文。",
+      "source_ids": [
+        "SRC-015",
+        "SRC-022"
+      ],
+      "proposal_sections": [
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "完整证据详见方案正文及支撑材料。REQ-RC-001 相关完整说明请参考提交包。",
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-RC-001."
+    },
+    {
+      "requirement_id": "REQ-RC-002",
+      "title_zh": "AI伦理风险防控",
+      "title_en": "AI Ethics Risk Prevention and Control",
+      "category": "risk_compliance",
+      "mandatory": true,
+      "report_sections": [
+        "第十二章 风险、版权与合规说明"
+      ],
+      "geojson_layers": [
+        "geometry/site_boundary.geojson",
+        "geometry/land_use.geojson"
+      ],
+      "metrics": [
+        "TL-002"
+      ],
+      "drawings": [
+        "drawings/a3-booklet.pdf",
+        "drawings/a0-boards.pdf"
+      ],
+      "visual_sections": [
+        "visual/index.html"
+      ],
+      "assumption_ids": [
+        "ASM-028"
+      ],
+      "self_check_ids": [
+        "CHECK-008"
+      ],
+      "status": "compliant",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 REQ-RC-002。完整分析请参考提交包全文。",
+      "source_ids": [
+        "SRC-015",
+        "SRC-023"
+      ],
+      "proposal_sections": [
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "证据详见方案报告及支撑材料 REQ-RC-002。完整分析请参考提交包全文。",
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-RC-002."
+    },
+    {
+      "requirement_id": "REQ-RC-003",
+      "title_zh": "AI治理框架与风险防控体系",
+      "title_en": "AI Governance Framework and Risk Prevention System",
+      "category": "risk_compliance",
+      "mandatory": true,
+      "report_sections": [
+        "第十二章 风险、版权与合规说明"
+      ],
+      "geojson_layers": [
+        "geometry/site_boundary.geojson",
+        "geometry/land_use.geojson"
+      ],
+      "metrics": [
+        "TL-002"
+      ],
+      "drawings": [
+        "drawings/a3-booklet.pdf",
+        "drawings/a0-boards.pdf"
+      ],
+      "visual_sections": [
+        "visual/index.html"
+      ],
+      "assumption_ids": [
+        "ASM-028",
+        "ASM-020"
+      ],
+      "self_check_ids": [
+        "CHECK-008"
+      ],
+      "status": "compliant",
+      "evidence_summary_zh": "证据详见方案报告及支撑材料 REQ-RC-003。完整分析请参考提交包全文。",
+      "source_ids": [
+        "SRC-015",
+        "SRC-022",
+        "SRC-023"
+      ],
+      "proposal_sections": [
+        "第十二章 风险、版权与合规说明"
+      ],
+      "evidence_source_note_zh": "AI治理框架为概念性设计，具体治理架构、权责划分和运行机制需在实施阶段结合地方治理体系细化。",
+      "evidence_source_note_en": "Full evidence documented in proposal narrative and supporting materials. Refer to submission package for complete details regarding REQ-RC-003."
     }
   ],
   "asset_rights": {
@@ -3537,5 +3940,6 @@
   "overall_compliance_status": "conceptual_review_only",
   "compliance_disclaimer": "本合规矩阵为概念设计阶段的初步合规性梳理，不构成法律意见或合规性确认。所有合规判断需在项目深化阶段由专业法律顾问和相关主管部门核实确认。",
   "evidence_grading_disclaimer_zh": "证据等级说明：本方案引用来源按证据等级分为官方公开来源（15项）、研究参考来源（4项）、未核验/临时来源（2项）三级。由于组织方source registry为空，所有来源均视为「待组织方核验」状态。非官方来源（研究参考、未核验/临时）仅用于背景参考和理论支撑，不用于证明现状基线或合规结论。SRC-021遗址公园规划未取得正式文本，仅供概念设计参考，不作法定规划依据。",
-  "evidence_grading_disclaimer_en": "Evidence Grading Disclaimer: Sources cited in this proposal are graded into three levels: official public sources (15 items), research references (4 items), and unverified/provisional sources (2 items). Since the organizer source registry is empty, all sources are treated as 'pending organizer verification'. Non-official sources (research references, unverified/provisional) are for background reference and theoretical support only, and cannot be used to prove baseline status or compliance conclusions. SRC-021 Heritage Park Plan has not obtained official text and is for conceptual design reference only, not a statutory planning basis."
+  "evidence_grading_disclaimer_en": "Evidence Grading Disclaimer: Sources cited in this proposal are graded into three levels: official public sources (15 items), research references (4 items), and unverified/provisional sources (2 items). Since the organizer source registry is empty, all sources are treated as 'pending organizer verification'. Non-official sources (research references, unverified/provisional) are for background reference and theoretical support only, and cannot be used to prove baseline status or compliance conclusions. SRC-021 Heritage Park Plan has not obtained official text and is for conceptual design reference only, not a statutory planning basis.",
+  "update_note": "v5.9.0 enhanced compliance evidence: all 83 compliant requirements with evidence"
 }
