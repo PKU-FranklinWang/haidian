@@ -2,7 +2,7 @@
   "schema_version": "0.2.0",
   "package_id": "diameter-ai-innovation-belt",
   "project_id": "centennial-jingzhang-ai-belt",
-  "site_package_version": "v5.12.0",
+  "site_package_version": "v5.13.0",
   "package_type": "professional_design_package",
   "package_state": "ready_for_review",
   "submission_stage": "formal",
@@ -14,7 +14,7 @@
     "model_family": "other",
     "model_detail": "Multi-agent collaborative generation via Coze platform"
   },
-  "generated_at": "2026-09-04T08:05:45.720941+00:00",
+  "generated_at": "2026-09-04T10:51:42.804916+00:00",
   "files": [
     {
       "path": "manifest.json",
@@ -235,7 +235,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "16e2878dcd247f54456a38a7cc2d671a71e56eb9b4a669b63f1bb3a26ea12c9c",
+      "sha256": "2352eac31c8878e4912f5bc7b030fc030da1bfb4774cea86e811c069e28d5d90",
       "translation_of": "assets/figures/01_spatial_structure_diagram.png"
     },
     {
@@ -291,7 +291,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "7e12ac8bafe3c8bd09f1d88734994b99bb5639e842a0eb54c748cdec31d864c3",
+      "sha256": "b08d306f821c3113694807ef7990536de88484270470f16356ba577c8595a72c",
       "translation_of": "assets/figures/metrics-evidence.png"
     },
     {
@@ -371,7 +371,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "146358dd19c836dfc1be6f1f8e5cac55f30afb727ea9205854a4c26727a1f33a",
+      "sha256": "8546d22ef44dad26f2f8917523a7498d1b4288909c23ca152c3e929b3eebd4a5",
       "translation_of": "assets/figures/site-overview.png"
     },
     {
@@ -409,7 +409,7 @@
       "role": "drawing",
       "required": false,
       "language": "en",
-      "sha256": "f9b78a37bdbd4dae81e928d544d521102bdfab9970d0e60b3e8e1c48938bbc6c",
+      "sha256": "9847e349cef5893d71dbc7541c3def58135ed18a22524703db2754c768ac944f",
       "translation_of": "drawings/a0-boards.pdf"
     },
     {
@@ -424,7 +424,7 @@
       "role": "drawing",
       "required": false,
       "language": "en",
-      "sha256": "0fd0ab1b495aa469bc17f4a5de021b85b3926600821e3ca9a433c01c2ac790ad",
+      "sha256": "51c2425244726c2013323d7460302fba174b5f048ff45e7b7674a238fe517867",
       "translation_of": "drawings/a3-booklet.pdf"
     },
     {
