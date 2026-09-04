@@ -17,6 +17,16 @@
   "generated_at": "2026-09-04T08:05:45.720941+00:00",
   "files": [
     {
+      "path": "manifest.json",
+      "role": "manifest",
+      "language": "neutral",
+      "required": true,
+      "title_zh": "方案清单",
+      "title_en": "Submission Manifest",
+      "description_zh": "本方案的文件清单与元数据",
+      "description_en": "File manifest and metadata for this submission"
+    },
+    {
       "path": "agent.json",
       "role": "agent_card",
       "required": false,
