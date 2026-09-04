@@ -2,7 +2,7 @@
   "schema_version": "0.2.0",
   "package_id": "diameter-ai-innovation-belt",
   "project_id": "centennial-jingzhang-ai-belt",
-  "site_package_version": "v5.13.0",
+  "site_package_version": "v5.13.1",
   "package_type": "professional_design_package",
   "package_state": "ready_for_review",
   "submission_stage": "formal",
@@ -275,7 +275,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "ee90f5ed2fd2b29f696178c6ca97910196e7c7ffcf2b1dec7e1ed461aa126760",
+      "sha256": "d9b27da1b0d45f977a28cd1fee676c41f4d71fee839fd75a5d2189c547110665",
       "translation_of": "assets/figures/key-areas.png"
     },
     {
@@ -299,7 +299,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "4e211f29b2533442fe5e7c47107b62714b0b0b4e811fa4d252ca13c54f1d4b9a",
+      "sha256": "6ba8f679dc19bbcc317c75f5544618ea9c2156b8466e1c61914a73262c4dd849",
       "translation_of": "assets/figures/mobility-bluegreen.png"
     },
     {
@@ -371,7 +371,7 @@
       "role": "proposal_figure",
       "required": false,
       "language": "en",
-      "sha256": "8546d22ef44dad26f2f8917523a7498d1b4288909c23ca152c3e929b3eebd4a5",
+      "sha256": "8e89115102b388a9acd0f246c26716757366982bf91637ee5fc5c6d1205bae01",
       "translation_of": "assets/figures/site-overview.png"
     },
     {
@@ -409,7 +409,7 @@
       "role": "drawing",
       "required": false,
       "language": "en",
-      "sha256": "9847e349cef5893d71dbc7541c3def58135ed18a22524703db2754c768ac944f",
+      "sha256": "66f47519f7f2f8ffa29e62d137d7f9b4613c773cefc9aacc7dba0034ca7a15b6",
       "translation_of": "drawings/a0-boards.pdf"
     },
     {
@@ -424,7 +424,7 @@
       "role": "drawing",
       "required": false,
       "language": "en",
-      "sha256": "51c2425244726c2013323d7460302fba174b5f048ff45e7b7674a238fe517867",
+      "sha256": "e9dc8f4891f4cb4171a5bd55775441b3cec960bcb1422c1d60f8386e3c17a69a",
       "translation_of": "drawings/a3-booklet.pdf"
     },
     {
