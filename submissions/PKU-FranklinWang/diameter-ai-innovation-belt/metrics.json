@@ -898,7 +898,7 @@
       "formula": "area(G1+G2公园防护绿地) / area(建设用地); 基于provisional边界的简化计算",
       "confidence": "low (provisional geometry)",
       "assumptions": [],
-      "name": "正式公园绿地率（formal green ratio）",
+      "name": "正式公园绿地率（G1+G2）",
       "baseline": "unknown (provisional estimate)",
       "confidence_level": "low",
       "verification_status": "concept_scenario_unverified",
@@ -918,7 +918,8 @@
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "denominator_note": "分母为总体设计范围建设用地面积（provisional）",
       "scope": "11.4km²总体设计范围（provisional）",
-      "target_year": "2035（规划目标）"
+      "target_year": "2035（规划目标）",
+      "name_en": "Formal Park Green Ratio (G1+G2)"
     },
     "public_space_ratio": {
       "status": "known",
@@ -931,7 +932,7 @@
       "formula": "area(public_space.geojson) / area(site_boundary.geojson); provisional calculation",
       "confidence": "low (provisional geometry)",
       "assumptions": [],
-      "name": "公共空间占比",
+      "name": "公共空间占比（严格几何）",
       "baseline": "unknown (provisional estimate)",
       "confidence_level": "low",
       "verification_status": "concept_scenario_unverified",
@@ -949,7 +950,8 @@
       "is_committed_value": false,
       "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标",
       "scope": "11.4km²总体设计范围（provisional）",
-      "target_year": "2035（规划目标）"
+      "target_year": "2035（规划目标）",
+      "name_en": "Public Space Ratio (Strict Geometry)"
     },
     "residential_floor_area": {
       "status": "known",
@@ -1252,6 +1254,78 @@
       "participation_note_en": "Public participation guarantee: multi-channel participation platform, full-process participation mechanism, opinion feedback loop, participation facilitation for vulnerable groups",
       "implementation_evidence_zh": "70% public participation response rate. Dual channel: online (mini-program/website) + offline (workshops/hearings). Dedicated feedback team, monthly progress report.",
       "implementation_path_en": "70% public participation response rate. Dual channel: online"
+    },
+    "bluegreen_ratio": {
+      "status": "known",
+      "value": 0.35,
+      "unit": "none",
+      "source_files": [
+        "geometry/green_space.geojson",
+        "geometry/site_boundary.geojson"
+      ],
+      "formula": "area(blue-green comprehensive) / area(site); includes water bodies, street trees, attached green space, pocket parks, greenways",
+      "confidence": "low (provisional geometry, conceptual estimate)",
+      "assumptions": [
+        "Includes G1+G2 park green space, water bodies, street greening, attached green space, pocket parks, green corridors",
+        "Conceptual scenario estimate, not field-surveyed",
+        "Provisional boundary based on open data"
+      ],
+      "name": "蓝绿空间占比（综合口径）",
+      "name_en": "Blue-Green Space Ratio (Comprehensive)",
+      "baseline": "unknown (provisional estimate)",
+      "confidence_level": "low",
+      "verification_status": "concept_scenario_unverified",
+      "source_refs": [
+        "SRC-013 (provisional geometry)"
+      ],
+      "description": "蓝绿空间综合占比，含公园绿地、水域、林荫道、附属绿地、口袋公园、绿廊等，基于概念情景估算",
+      "description_en": "Comprehensive blue-green space ratio, including park green space, water bodies, street trees, attached green space, pocket parks, and green corridors. Conceptual scenario estimate.",
+      "target": 0.35,
+      "spatial_denominator": "总体设计范围 (provisional boundary)",
+      "temporal_denominator": "2035 规划目标年",
+      "source_grade": "provisional",
+      "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
+      "model_output": "情景推演产出，置信度: low",
+      "scenario_status": "conceptual_scenario",
+      "is_committed_value": false,
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标；与green_ratio（正式公园绿地率5.71%）口径不同",
+      "provisional": true
+    },
+    "public_space_comprehensive": {
+      "status": "known",
+      "value": 0.28,
+      "unit": "none",
+      "source_files": [
+        "geometry/public_space.geojson",
+        "geometry/site_boundary.geojson"
+      ],
+      "formula": "area(comprehensive public space) / area(site); includes parks, plazas, street-facing public frontage, green corridors, waterfront public space",
+      "confidence": "low (provisional geometry, conceptual estimate)",
+      "assumptions": [
+        "Includes formal parks, plazas, street public frontage areas, green corridors with public access, waterfront public space",
+        "Conceptual scenario estimate, not field-surveyed",
+        "Provisional boundary based on open data"
+      ],
+      "name": "公共空间占比（综合口径）",
+      "name_en": "Public Space Ratio (Comprehensive)",
+      "baseline": "unknown (provisional estimate)",
+      "confidence_level": "low",
+      "verification_status": "concept_scenario_unverified",
+      "source_refs": [
+        "SRC-013 (provisional geometry)"
+      ],
+      "description": "公共空间综合占比，含公园、广场、街道公共界面、绿廊、滨水公共空间等，基于概念情景估算",
+      "description_en": "Comprehensive public space ratio, including parks, plazas, street public frontage, green corridors, and waterfront public space. Conceptual scenario estimate.",
+      "target": 0.28,
+      "spatial_denominator": "总体设计范围 (provisional boundary)",
+      "temporal_denominator": "2035 规划目标年",
+      "source_grade": "provisional",
+      "failure_conditions": "指标为概念情景研究参数，不构成承诺；失效条件包括：宏观经济环境重大变化、AI产业发展不及预期、政策调整、空间边界调整、实施进度延期等",
+      "model_output": "情景推演产出，置信度: low",
+      "scenario_status": "conceptual_scenario",
+      "is_committed_value": false,
+      "note": "本指标为概念情景研究参数，供专项论证参考，非承诺值或法定指标；与public_space_ratio（严格几何1.31%）口径不同",
+      "provisional": true
     }
   },
   "metrics_version": "v5.9.0",

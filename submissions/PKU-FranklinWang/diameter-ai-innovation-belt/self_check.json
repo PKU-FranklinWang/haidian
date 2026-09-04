@@ -39,7 +39,7 @@
       "severity": "blocking",
       "target": "Visual Packaging Gate",
       "message": "Visual deliverables are complete: includes 13 design drawings, design booklet PDF, interactive HTML visualization page, supporting Chinese-English bilingual browsing",
-      "suggested_fix": "Visual packaging complete: drawings/ contains 13 design drawings; visual/index.html is interactive visualization page (with 14 content sections and 3 core metrics); report/design-booklet.pdf is the design booklet PDF; all support Chinese-English bilingual"
+      "suggested_fix": "Visual packaging complete: drawings/ contains 13 design drawings; visual/index.html is interactive visualization page (with 14 content sections and 3 core metrics); drawings/a3-booklet.pdf is the design booklet PDF; all support Chinese-English bilingual"
     },
     {
       "check_id": "CHECK_001",

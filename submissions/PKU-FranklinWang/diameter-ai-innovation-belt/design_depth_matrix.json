@@ -1094,9 +1094,7 @@
       "proposal_sections": [
         "第十章 更新项目清单、实施政策与分期计划"
       ],
-      "drawing_refs": [
-        "assets/figures/05_phasing_timeline.png"
-      ],
+      "drawing_refs": [],
       "geometry_refs": [
         "geometry/phasing.geojson"
       ],
@@ -1130,9 +1128,7 @@
       "proposal_sections": [
         "第十二章 风险、版权与合规说明"
       ],
-      "drawing_refs": [
-        "assets/figures/05_phasing_timeline.png"
-      ],
+      "drawing_refs": [],
       "geometry_refs": [
         "geometry/constraints.geojson"
       ],

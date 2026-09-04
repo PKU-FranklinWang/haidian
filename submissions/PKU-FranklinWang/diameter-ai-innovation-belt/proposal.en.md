@@ -9,7 +9,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "[Open Co-Creation Concept Proposal · Not a Substitute for Formal Planning] Rooted in the historical heritage of 'Centennial Jingzhang', structured around the spatial innovation of the 'Central Axis - Diameter' paradigm, and powered by the era-defining feature of 'AI empowerment', this proposal trinity constructs the 'Centennial Jingzhang · Diameter AI Innovation Belt'. Guided by the causal chain of New Spatial Economics — 'spatial quality enhancement → dynamic talent agglomeration → industrial innovation development' — as its theoretical mainline, it proposes the 'Central Axis - Diameter' spatial economic paradigm, using the Jing-Zhang Railway Heritage Park as a carrier to form an AI innovation central axis that stands in east-west symmetry with Beijing's traditional central axis, building a spatial structure of 'One Diameter · Three Cores · Two Rings · Multiple Courts'. Mapping the six-dimensional goals of the people's city to a six-type spatial quality supply system, integrating the cultural imagery of the Big Dipper pointing north and tracing origins to inspire innovation, and incorporating the four-tier temporal design of seasons · day-night · weekly rhythm · annual rings, it aims to create a world-class AI innovation ecosystem and a modern people-oriented city demonstration belt."
 tracks: ["ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability"]
-iteration: "v5.10.0"
+iteration: "v5.11.0"
 translation_of: "proposal.md"
 ---
 
