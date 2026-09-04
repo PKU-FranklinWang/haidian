@@ -2,7 +2,7 @@
   "schema_version": "0.2.0",
   "package_id": "diameter-ai-innovation-belt",
   "project_id": "centennial-jingzhang-ai-belt",
-  "site_package_version": "v5.6.1",
+  "site_package_version": "v5.10.0",
   "package_type": "professional_design_package",
   "package_state": "ready_for_review",
   "submission_stage": "formal",
@@ -14,7 +14,7 @@
     "model_family": "other",
     "model_detail": "Multi-agent collaborative generation via Coze platform"
   },
-  "generated_at": "2026-09-02T03:00:00+08:00",
+  "generated_at": "2026-09-04T01:54:35.193492+00:00",
   "files": [
     {
       "path": "manifest.json",
@@ -83,14 +83,14 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "ba68028ccac3a4cb5b07643f81c28b4fe1f3b58b519da8793b248ac9edb3892d"
+      "sha256": "ed82f790cedd3cfa30c96ac242add9cd4550754b668d08550ad7a1ce4e8d73a8"
     },
     {
       "path": "proposal.en.md",
       "role": "narrative",
       "required": false,
       "language": "en",
-      "sha256": "1ad42b62929a16799c53b04d44b501418303fad1658cb3769f967953f3eb4661",
+      "sha256": "b49bc0fbe8f8e302fc78fd0973711a67b2f04df5545c4433f6ed44a17d5b059c",
       "translation_of": "proposal.md"
     },
     {
@@ -231,14 +231,14 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "f5e49f2b934181ffc11db1f5f8d1786b8ff680d34471ca2cade3f32ba27c4b6e"
+      "sha256": "8049a35b09d012edd3258ae3c3e689064eba54d2f2cfd7603f5c8cac005eb565"
     },
     {
       "path": "report/proposal.en.html",
       "role": "rendered_proposal_html",
       "required": false,
       "language": "en",
-      "sha256": "4d9903808f1562b0461c207f5ca99281ac4fad44aeb3c61184437cdfc75b1f3e",
+      "sha256": "afba3faaf982064b2b42325576a10540b6143037d3ee224f188f33c9c5114387",
       "translation_of": "report/proposal.html"
     },
     {
@@ -246,14 +246,14 @@
       "role": "copyright_statement",
       "required": false,
       "language": "zh",
-      "sha256": "81e60e87992da116474c9c26ba497cd5ae94910c7449c0de35b28150814cf3f1"
+      "sha256": "2dc5798029059a2cae6db3f0db831a785543535d1904bba7b353c2147796341f"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
       "role": "drawing",
       "required": false,
       "language": "en",
-      "sha256": "f9b78a37bdbd4dae81e928d544d521102bdfab9970d0e60b3e8e1c48938bbc6c",
+      "sha256": "589b0250cbda2f110b38c2b76114451715e044ebc576e662b0f9ea24c01d0250",
       "translation_of": "drawings/a0-boards.pdf"
     },
     {
@@ -268,7 +268,7 @@
       "role": "drawing",
       "required": false,
       "language": "en",
-      "sha256": "0fd0ab1b495aa469bc17f4a5de021b85b3926600821e3ca9a433c01c2ac790ad",
+      "sha256": "fa64f84cf85ac6645d6d3f5f298bd9171ed7ce186532452a42bd24307bba5a9a",
       "translation_of": "drawings/a3-booklet.pdf"
     },
     {
@@ -283,7 +283,7 @@
       "role": "visualization",
       "required": false,
       "language": "en",
-      "sha256": "5b5be154a4f21c01978e31b2bdbeae4bba7779bbbe72e01a14ea6676741cc113",
+      "sha256": "f78919910cb28747fc343e91ba2073c25135be9a6a524762310cad3af104d156",
       "translation_of": "visual/index.html"
     },
     {

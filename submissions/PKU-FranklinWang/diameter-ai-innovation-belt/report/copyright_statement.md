@@ -67,6 +67,6 @@ This proposal, **"Diameter AI Innovation Belt — Urban Design Proposal for Cent
 
 ---
 
-**提交者 / Submitter**: PKU-FranklinWang  
-**提交日期 / Submission Date**: 2026-08-26  
+**提交者 / Submitter**: PKU-FranklinWang
+**提交日期 / Submission Date**: 2026-08-26
 **方案版本 / Version**: v1.0

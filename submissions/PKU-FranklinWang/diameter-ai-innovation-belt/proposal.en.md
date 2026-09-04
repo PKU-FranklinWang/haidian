@@ -9,7 +9,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "[Open Co-Creation Concept Proposal · Not a Substitute for Formal Planning] Rooted in the historical heritage of 'Centennial Jingzhang', structured around the spatial innovation of the 'Central Axis - Diameter' paradigm, and powered by the era-defining feature of 'AI empowerment', this proposal trinity constructs the 'Centennial Jingzhang · Diameter AI Innovation Belt'. Guided by the causal chain of New Spatial Economics — 'spatial quality enhancement → dynamic talent agglomeration → industrial innovation development' — as its theoretical mainline, it proposes the 'Central Axis - Diameter' spatial economic paradigm, using the Jing-Zhang Railway Heritage Park as a carrier to form an AI innovation central axis that stands in east-west symmetry with Beijing's traditional central axis, building a spatial structure of 'One Diameter · Three Cores · Two Rings · Multiple Courts'. Mapping the six-dimensional goals of the people's city to a six-type spatial quality supply system, integrating the cultural imagery of the Big Dipper pointing north and tracing origins to inspire innovation, and incorporating the four-tier temporal design of seasons · day-night · weekly rhythm · annual rings, it aims to create a world-class AI innovation ecosystem and a modern people-oriented city demonstration belt."
 tracks: ["ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability"]
-iteration: "v5.1.0"
+iteration: "v5.10.0"
 translation_of: "proposal.md"
 ---
 
@@ -39,7 +39,6 @@ translation_of: "proposal.md"
 | Fig.2 | Diameter Cross-Section | 4.3 | assets/figures/02_jingzhang_cross_section.png | Conceptual |
 | Fig.3 | AI Scenario Distribution | 6.3 | assets/figures/03_ai_scenario_distribution.png | Conceptual |
 | Fig.4 | Talent Community Layout | 6.2 | assets/figures/04_talent_community_layout.png | Conceptual |
-| Fig.5 | Phasing Timeline | 10.2 | assets/figures/05_phasing_timeline.png | Scenario Target |
 | Fig.6 | Brand Identity System | 3.6 | assets/figures/brand-identity-system.png | Concept Design |
 | Fig.7 | Key Areas Masterplan | 5 | assets/figures/key-areas.png | Conceptual |
 | Fig.8 | Land Use Structure | 7.1 | assets/figures/land-use-structure.png | Conceptual |
@@ -256,7 +255,7 @@ The quality gradient of "learning-oriented → innovation-oriented → industry-
 ### 1.5 Planned Research and Data Collection
 
 > ⚠️ **Research Plan Statement**: The following are the **planned research work** of the proposal team. As of the submission date, all on-site surveys and interviews have not been completed.
-> 
+>
 > ⚠️ **v5.0 Statement**: All field surveys, site visits, building censuses, and interviews are **planned** and have not been conducted as of v5.0. Current situation descriptions are based on conceptual compilation of public remote sensing imagery and planning materials, and do not constitute field verification conclusions. The listed content is for research direction and planning reference only.
 
 18. **Planned Site Survey** (starting from the second half of 2026)
@@ -1413,7 +1412,7 @@ The virtual space of the Dazhongsi district is positioned as the **"Challenge Ha
 - **AI Origin Community (Mid Core) — Acceleration Field**: Virtual "Acceleration Lab," a virtual-physical collaborative field for achievement verification and startup acceleration.
 - **Dazhongsi AI Industry Cluster (South Core) — Challenge Arena**: Virtual "Challenge Hall," a docking platform for industrial demand and technological breakthroughs.
 
-**Governance Core: "Co-Creation · Co-Building · Co-Sharing" AI Good Governance System**. The deep integration of virtual-physical dual diameter relies on a throughout governance mechanism — **Co-Creation** gathers collective wisdom to pose and solve problems, with AI Conjecture Rankings as the core carrier; **Co-Building** pools collective efforts to coordinate resources, with three-core spatial dynamic allocation connecting supply and demand; **Co-Sharing** ensures all people benefit from innovation achievements, with public interest priority guarantee. Together they form the "space-network-governance" trinity development paradigm of the AI Innovation Belt. 
+**Governance Core: "Co-Creation · Co-Building · Co-Sharing" AI Good Governance System**. The deep integration of virtual-physical dual diameter relies on a throughout governance mechanism — **Co-Creation** gathers collective wisdom to pose and solve problems, with AI Conjecture Rankings as the core carrier; **Co-Building** pools collective efforts to coordinate resources, with three-core spatial dynamic allocation connecting supply and demand; **Co-Sharing** ensures all people benefit from innovation achievements, with public interest priority guarantee. Together they form the "space-network-governance" trinity development paradigm of the AI Innovation Belt.
 
 
 
@@ -2823,12 +2822,12 @@ The **"AI Space Operator" (AISO) model** proposed in this scheme is an operation
 
 1. **Foundation Layer: Space Operation Revenue** (physical space rental, property management, event venues, commercial facilities)
    - Basic business of traditional space operators, but space quality continuously optimized and enhanced by AI systems
-   
+
 2. **Value-Added Layer: AI Empowerment Revenue** (smart space subscription, data services, AI component rental, scenario opening)
    - Enterprise users subscribe to AI office services, smart meeting rooms, AI R&D assistants
    - Government clients purchase AI governance services, urban management SaaS
    - Developers use AI component library APIs, digital twin platform computing power
-   
+
 3. **Ecosystem Layer: Ecosystem Flywheel Revenue** (innovation incubation investment, technology transformation revenue sharing, IP licensing, standard export)
    - Early-stage investment in resident innovation teams, sharing growth returns
    - Promoting technology transformation through AI conjecture ranking, earning transformation shares
@@ -3243,7 +3242,7 @@ All risk mitigation measures are **conceptual frameworks** requiring professiona
 
 **Financial Risk Prevention**: ① Fund pool with ≥6-month operating reserve; ② Diversified financing, no single source >40%; ③ Dynamic ROI monitoring, cost-cutting plan triggered below threshold; ④ Engineering and property insurance for extreme risk transfer.
 
-**Phased Implementation Risk Mitigation**: Pre-assessment (tech/finance/market feasibility) and post-assessment (effect verification/problem diagnosis/next-phase optimization) before each phase; if prior phase underperforms, adjust next phase scale and pace. 
+**Phased Implementation Risk Mitigation**: Pre-assessment (tech/finance/market feasibility) and post-assessment (effect verification/problem diagnosis/next-phase optimization) before each phase; if prior phase underperforms, adjust next phase scale and pace.
 
 ### 12.2 High-Risk AI Governance
 
