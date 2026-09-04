@@ -2,7 +2,7 @@
   "schema_version": "0.2.0",
   "package_id": "diameter-ai-innovation-belt",
   "project_id": "centennial-jingzhang-ai-belt",
-  "site_package_version": "v5.13.1",
+  "site_package_version": "v5.13.2",
   "package_type": "professional_design_package",
   "package_state": "ready_for_review",
   "submission_stage": "formal",
@@ -424,7 +424,7 @@
       "role": "drawing",
       "required": false,
       "language": "en",
-      "sha256": "e9dc8f4891f4cb4171a5bd55775441b3cec960bcb1422c1d60f8386e3c17a69a",
+      "sha256": "f1bead28e946958027833b890b89c25223c56df8ce2ac6d6aeb54873d7506089",
       "translation_of": "drawings/a3-booklet.pdf"
     },
     {
