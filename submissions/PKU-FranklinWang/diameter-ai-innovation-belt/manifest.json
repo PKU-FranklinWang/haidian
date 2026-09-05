@@ -86,7 +86,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "c12ae40973ecdd2b44dec26e296247b5d260badf1fc4e9396fecab7cd775bce5"
+      "sha256": "15f7e7f06ed590a872bf1043feaf1b66758794f117b34e876558c991db138a8c"
     },
     {
       "path": "proposal.en.md",
