@@ -223,6 +223,14 @@
       "sha256": "4f396b2a7c2e34445affb1f25d260e6ff5d5700e87a9d4b54807ac8aaec6e21b"
     },
     {
+      "path": "assets/figures/site-overview.en.png",
+      "role": "proposal_figure",
+      "required": false,
+      "language": "en",
+      "translation_of": "assets/figures/site-overview.png",
+      "sha256": "2cbefb6c448edb0b35b202c24f729805a12abca037aaa8233f3b93ee5855c769"
+    },
+    {
       "path": "assets/figures/street-innovation-quality.png",
       "role": "proposal_figure",
       "required": false,
