@@ -280,7 +280,7 @@ iteration: "v5.13.3"
 |-----|------|------|
 | 对径式空间结构 | Diameter-type Spatial Structure | DSS |
 | 对径智轴 | Diameter AI Innovation Belt | DAIB |
-| 新空间经济 | New Spatial Economy | NSE |
+| 新空间经济 | New Spatial Economics | NSE |
 | 品质—人才—产业因果链 | Quality-Talent-Industry Chain | QTI |
 | 一径·三核·双环·多庭 | One Diameter·Three Cores·Dual Rings·Courtyards | 一径三核 |
 | 七星拱极 | Seven Stars Arching the Pole | 七星 |
