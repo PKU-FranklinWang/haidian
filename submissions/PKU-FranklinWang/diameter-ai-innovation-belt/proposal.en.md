@@ -448,7 +448,7 @@ Establish a quantifiable, monitorable, & iterable spatial quality assessment sys
 
 ## Chapter 3 Coordinated Research Area: Industry & Future City Research
 
-> **📌 Task Book Response**: This chapter responds to "AI Innovation Belt Industry Positioning", proposing the development concept, strategic positioning, core functions, & spatial pattern from a New Spatial Economy perspective. All indicators are conceptual research parameters for reference only.
+> **📌 Task Book Response**: This chapter responds to "AI Innovation Belt Industry Positioning", proposing the development concept, strategic positioning, core functions, & spatial pattern from a New Spatial Economics perspective. All indicators are conceptual research parameters for reference only.
 
 
 > ⚠️ **Conceptual Research Chapter**: Content in this chapter represents conceptual scenario research parameters. All boundaries/indicators/schemes are provisional & do not constitute statutory basis.
@@ -519,7 +519,7 @@ Based on the mapping framework above, this proposal systematically supplies six 
 | Civilization | Cultural heritage axis + public art | Heritage activation, art embedding, cultural empowerment |
 | Smartness | AI urban brain + smart facilities | Public sensing (list pub), smart ops, data openness |
 
-The six quality types are not isolated but form a composite overlay system along the diameter axis. Closer to core nodes means higher quality superposition & stronger comprehensive talent attraction. This composite quality strategy is the concrete practice of New Spatial Economy's "multi-dimensional quality synergistically driving talent agglomeration" theory in spatial design.
+The six quality types are not isolated but form a composite overlay system along the diameter axis. Closer to core nodes means higher quality superposition & stronger comprehensive talent attraction. This composite quality strategy is the concrete practice of New Spatial Economics's "multi-dimensional quality synergistically driving talent agglomeration" theory in spatial design.
 ### 3.2 Three Strategic Positionings
 
 Based on the core logic of New Spatial Economics — "spatial quality drives talent agglomeration, talent agglomeration drives industrial innovation" — combined with the six-dimensional goals of the people's city & the requirements of the three-tier "15th Five-Year Plan", starting from **the hierarchy & types of spatial quality supply**, three strategic positionings for the Centennial Jingzhang AI Innovation Belt are established.
@@ -1487,7 +1487,7 @@ This proposal proposes the **"Diameter Generation Algorithm" (DGA)** — an auto
 
 #### 6.1.1 Ecosystem Evolution Logic Based on Spatial Quality
 
-AI innovation ecosystem evolution follows the New Spatial Economy "quality-talent-industry" causal chain: spatial quality enhancement attracts talent agglomeration, talent drives industrial innovation, & industry innovation feeds back into quality improvement, forming circular cumulative causation. [source:SRC-008][source:SRC-019]
+AI innovation ecosystem evolution follows the New Spatial Economics "quality-talent-industry" causal chain: spatial quality enhancement attracts talent agglomeration, talent drives industrial innovation, & industry innovation feeds back into quality improvement, forming circular cumulative causation. [source:SRC-008][source:SRC-019]
 
 The diameter-type spatial structure drives dynamic talent distribution through quality gradients — northern learning quality attracts research talent, middle innovation quality attracts entrepreneurial talent, southern industrial quality attracts industry talent. The linear corridor promotes talent flow between nodes, enabling knowledge spillover & innovation diffusion.
 
@@ -2786,7 +2786,7 @@ All investment data in this proposal are conceptual estimates. Specific costs ne
 
 #### Economic Logic of Phasing: Gradual Agglomeration Along Quality Gradients
 
-Phased implementation follows the New Spatial Economy chain of "quality supply → talent agglomeration → industrial innovation," advancing north-to-south along the gradient: **build quality sources first → initiate talent agglomeration → build transformation nodes → build industrial terminals for value amplification**. Each stage builds on prior talent density & vitality, pushing the system across critical mass into self-organizing circular cumulative causation.
+Phased implementation follows the New Spatial Economics chain of "quality supply → talent agglomeration → industrial innovation," advancing north-to-south along the gradient: **build quality sources first → initiate talent agglomeration → build transformation nodes → build industrial terminals for value amplification**. Each stage builds on prior talent density & vitality, pushing the system across critical mass into self-organizing circular cumulative causation.
 
 **Three-Stage Path**:
 - **North First** (Zhongzhiyuan): leverage university learning-quality endowment, activate talent stock at lowest cost, start positive feedback
