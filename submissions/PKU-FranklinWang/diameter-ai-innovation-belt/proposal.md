@@ -9,11 +9,11 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "【开放共创概念建议·不替代正式规划】以「百年京张」历史传承为根脉、「中轴对径」空间创新为骨架、「AI赋能」时代特征为引擎，三位一体构建「百年京张·对径智轴」AI创新带；以新空间经济「品质—人才—产业」因果链条为理论主线，提出「中轴-对径」空间经济范式，以京张铁路遗址公园为载体形成与北京传统中轴东西对举的AI创新中轴，构建「一径·三核·双环·多庭」对径式空间结构；以人民城市6维目标映射六类空间品质供给体系，融入北斗指北、溯源启新的文化意象与四时·昼夜·周律·年轮四级时间维度设计，打造世界级AI创新生态与现代化人民城市示范带。"
 tracks: ["ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability"]
-iteration: "v5.11.0"
+iteration: "v5.13.3"
 ---
 
 # 百年京张·对径智轴
-## ——AI创新带城市设计方案（v5.4）
+## ——AI创新带城市设计方案（v5.13.3）
 
 > **指导思想**：习近平总书记"人民城市人民建、人民城市为人民"重要理念
 > **理论主线**：新空间经济「品质—人才—产业」因果链条
@@ -38,6 +38,7 @@ iteration: "v5.11.0"
 | Fig.2 | 对径断面图 | 第4.3节 | assets/figures/02_jingzhang_cross_section.png | provisional（概念示意） |
 | Fig.3 | AI场景分布图 | 第6.3节 | assets/figures/03_ai_scenario_distribution.png | provisional（概念示意） |
 | Fig.4 | 人才社区布局图 | 第6.2节 | assets/figures/04_talent_community_layout.png | provisional（概念示意） |
+| Fig.5 | 分期时间轴图 | 第10.2节 | assets/figures/05_phasing_timeline.png | scenario-target（情景目标） |
 | Fig.6 | 品牌识别系统图 | 第3.6节 | assets/figures/brand-identity-system.png | 概念设计 |
 | Fig.7 | 重点区域总平面图 | 第5章 | assets/figures/key-areas.png | provisional（概念示意） |
 | Fig.8 | 用地结构图 | 第7.1节 | assets/figures/land-use-structure.png | provisional（概念示意） |
@@ -3736,7 +3737,7 @@ AI猜想榜以**"发布—热度—揭榜—评议—落地"**五段式全周期
 
 ### 13.2 拟开展调研计划声明
 
-所有田野调查、建筑普查、企业访谈、居民问卷等调研工作截至v5.4版本均为计划中状态。拟开展：①全线现场踏勘（2026下半年起）；②利益相关方访谈（视对接情况推进）；③既有公开资料持续梳理。调研计划为provisional，正式实施前需确认授权与合规。
+所有田野调查、建筑普查、企业访谈、居民问卷等调研工作截至v5.13.3版本均为计划中状态。拟开展：①全线现场踏勘（2026下半年起）；②利益相关方访谈（视对接情况推进）；③既有公开资料持续梳理。调研计划为provisional，正式实施前需确认授权与合规。
 
 ## 第十四章 结论与展望
 
